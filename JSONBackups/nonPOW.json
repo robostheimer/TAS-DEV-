@@ -1,0 +1,662 @@
+{
+ "kind": "fusiontables#sqlresponse",
+ "columns": [
+  "ShortDescription",
+  "PhotoURL",
+  "PhotoCredit",
+  "BlogURL",
+  "BlogTitle",
+  "BlogExcerpt",
+  "PhotoCaption"
+ ],
+ "rows": [
+  [
+   "TAS Maureen and tiger shark",
+   "https://teacheratsea.files.wordpress.com/2011/08/tiger-shark.jpg",
+   "Maureen Anderson",
+   "https://teacheratsea.wordpress.com/2011/08/07/maureen-anderson-homeward-bound-august-7-2011-post-6/",
+   "Maureen Anderson: Homeward Bound, August 7, 2011 (Post #?6)",
+   "\"Last night, we finished up our last station.? In total, we had 761 catches for the whole survey?across a dozen different species.? The sharks we caught ranged from small (less than 1 kilogram) to very large (134 kilograms). ... [This is a] tiger shark. You can identify this shark by the markings on its body.\"",
+   "TAS Maureen Anderson kneels by a tiger shark."
+  ],
+  [
+   "Basket of Quahogs",
+   "https://teacheratsea.files.wordpress.com/2011/07/dsc02907.jpg",
+   "Anne Artz",
+   "https://teacheratsea.wordpress.com/2011/07/29/anne-artz-july-27-2011/",
+   "Anne Artz: July 27,?2011",
+   "\"The ocean quahog, or?Artica islandica, is a marine bivalve member of the phylum Mollusca.? It is native to the North Atlantic (where we are right now) and is commercially harvested as a food source.? The ocean quahog lives in deeper water than the more common clam (the ones you can dig up along the beach) and are collected in much the same way as we are doing on the?Delaware II, by dredging the bottom, rinsing off the mud, and throwing away all the other things brought up. One of the unique characteristics of the ocean quahog is its longevity.? They are known to live over 100 years.? They are extremely slow-growing and as adults, may take years to add any measurable length to their shells.\" - TAS Anne Artz",
+   "A basket of quahogs sampled during a dredge survey. Quahogs can live more than 100 years."
+  ],
+  [
+   "Humpback Feeding Frenzy (Elaine Bechler blog)",
+   "https://teacheratsea.files.wordpress.com/2011/08/sophies-vertical-lunge-feeding12.jpg",
+   "Sophie Webb",
+   "https://teacheratsea.wordpress.com/2011/08/12/elaine-phenomenal-feeding-frenzy-july-25-2011/",
+   "Elaine Bechler: Phenomenal Feeding Frenzy, July 25,?2011",
+   "\"Cool stuff today.? While transiting between one transect and another, the R/V \u003ci\u003eFulmar\u003c/i\u003e happened upon a major feeding event.? While approaching, hundreds of birds could be seen flying and diving along with evidence of?many humpback whale spouts.? It turned out to be a furious feeding frenzy of myriads of birds, dolphins, pinipeds and whales.? Very dramatic was the vertical lunge feeding of?the humpback whales.? We could see their huge mouths open and pointed upward as they gobbled silvery fish.? The whales would release huge?loud exhales over and over.\" - Elaine Bechler",
+   "Humpback whales performing vertical lunge feeding during a feeding frenzy."
+  ],
+  [
+   "Obtaining water for nutrient samples",
+   "https://teacheratsea.files.wordpress.com/2011/08/summer-2011-lair-and-rv-fulmar-1561.jpg",
+   "Elaine Bechler",
+   "https://teacheratsea.wordpress.com/2011/08/12/elaine-off-the-backjuly-23-2011/",
+   "Elaine Bechler: Off the Back, July 23,?2011",
+   "\"Water nutrient samples were also gathered from the side of the boat.? Cordell Bank and Gulf of the Farallones National Marine Sanctuaries?can be?rich in nutrients such as phosphorus and nitrogen due to upwelling. Upwelling occurs when strong winds drive warm, nutrient-poor surface waters away from the shore.? These surface waters are replaced by nutrient-rich deep water and provide nutrients for the unicellular algae.\" - Elaine Bechler",
+   "Obtaining water for nutrient samples off the side of R/V \u003ci\u003eFulmar.\u003c/i\u003e"
+  ],
+  [
+   "Lowering CTD",
+   "https://teacheratsea.files.wordpress.com/2011/06/loweringthectd2.jpg",
+   "Kathleen Brown",
+   "https://teacheratsea.wordpress.com/2011/06/11/sea-science/",
+   "Kathleen Brown: Sea Science, June 11,?2011",
+   "\"Every third station along the journey, the crew takes a CTD reading. CTD stands for conductivity, temperature, and depth. Using a submersible set of probes, the characteristics of the ocean water are measured at set intervals, from the surface to the sea bottom, and then again from the sea bottom to the surface. Wynn, the marine technician, takes the time to explain to me that on this cruise the equipment is set to measure temperature, salinity, oxygen and phosphorescence.\" - TAS Kathleen Brown",
+   "Lowering the CTD, which measures Conductivity, Temperature, and Depth."
+  ],
+  [
+   "CTD",
+   "https://teacheratsea.files.wordpress.com/2011/12/img_0624.jpg",
+   "Elizabeth Bullock",
+   "https://teacheratsea.wordpress.com/2011/12/12/elizabeth-bullock-we-are-underway-december-11-2011/",
+   "Elizabeth Bullock: We Are Underway! December 11,?2011",
+   "\"The first piece of equipment we put into the water was a CTD. The CTD is named after the three factors the equipment measures: conductivity, temperature, and depth.? The CTD will be deployed at precise locations along our route.? Since they conduct this research cruise twice a month, they can see if conditions are changing or staying the same over time.\" - TAS Elizabeth Bullock",
+   "This is the CTD, which measures conductivity, temperature, and depth."
+  ],
+  [
+   "TAS Stephen and neuston net",
+   "https://teacheratsea.files.wordpress.com/2011/10/img_0786.jpg",
+   "Stephen Bunker",
+   "https://teacheratsea.wordpress.com/2011/10/29/stephen-bunker-sargassum-experiments-21-october-2011/",
+   "Stephen Bunker: Sargassum Experiments, 21 October?2011",
+   "\"One of the many experiments we are doing on board is to learn about a plant that grows in the ocean called Sargassum. This tan plant floats near the surface and along in the current. It grows throughout the world?s topical seas. It can grow into large mats that can be as large as boats and ships. Sargassum provides an environment for distinctive and plants and animals that are not found other places. These ecosystem rafts harbor many different organisms.\" - TAS Stephen Bunker",
+   "TAS Stephen Bunker tends the Neuston net as it is towed alongside the R/V \u003ci\u003eWalton Smith.\u003c/i\u003e"
+  ],
+  [
+   "R/V Savannah",
+   "https://teacheratsea.files.wordpress.com/2011/07/savannah.jpg",
+   "Walter Charuba",
+   "https://teacheratsea.wordpress.com/2011/07/21/walter-charuba-calmer-days-at-sea-july-19th-2011/",
+   "Walter Charuba: Calmer Days at Sea, July 19th,?2011",
+   "\"You may be wondering, and if you are not wondering, you should, what I am doing on a ship called Savannah? Why am I twenty to thirty miles off the coast of Florida? Why are we trying to catch fish? Why don?t I stop all these questions and get to the point? Well the purpose of this mission is to gather data about the population and the condition of reef fishes off the coast of Florida and Georgia. The four species groups we are researching are Groupers, Sea Basses, Snappers, and Porgies. The reason we are doing this is not only important, but essential. We have to know the status of our fish population off our coastal waters. We need to know if we are over \nfishing or if we are improving in conservation.\" - TAS Walter Charuba",
+   "R/V \u003ci\u003eSavannah\u003c/i\u003e in port."
+  ],
+  [
+   "Scallop Group Photo",
+   "https://teacheratsea.files.wordpress.com/2011/05/the-last-tow.jpg",
+   "Channa Comer",
+   "https://teacheratsea.wordpress.com/2011/05/24/channa-comer-the-end-of-the-journey/",
+   "Channa Comer: The End of the Journey, May 21,?2011",
+   "\"This was my first experience with marine biology and I couldn?t have had a better one. Rather than reading about the ocean in a textbook, I was able to experience it, in all its grandeur, wonder, beauty, diversity, and unpleasantness (sea sickness, green sand dollar slime, sea squirts, sea mouse). I also couldn?t have asked for better hosts that all the people at NOAA who helped to make this trip possible ?everyone in the Teacher at Sea program who helped before the trip and everyone here on the boat.\" - TAS Channa Comer",
+   "TAS Channa Comer (center, holding the whiteboard) takes a photo with the other members of her watch after the last tow of the scallop survey."
+  ],
+  [
+   "Whale Tail Sunset",
+   "https://teacheratsea.files.wordpress.com/2011/09/whaley.jpg",
+   "Staci DeSchryver",
+   "https://teacheratsea.wordpress.com/2011/09/19/staci-deschryver-a-front-row-seat-to-the-bottom-of-the-ocean-august-12-2011/",
+   "Staci DeSchryver: A Front Row Seat to the Bottom of the Ocean, August 12,?2011",
+   "\"It was a sad day today watching the scientists pack up and box and tag the lab equipment and computers. As everyone bustled about, I spent some time hanging out for the last time on the bridge, in the galley, and in the fish lab thinking about my journey coming to its close... As we drove silently through the still waters to the city docks, we bade farewell to the animals that accompanied us on our trips ? otters, eagles, puffins, and even sea lions gathered around to see us off to our homes and families. Or, they just so happened to be there looking for food and doing other instinctual things, but I do really think I saw an otter wave me goodbye.\" - Staci DeSchryver",
+   "A whale fluke at sunset in the Gulf of Alaska."
+  ],
+  [
+   "Two Common Dolphins",
+   "https://teacheratsea.files.wordpress.com/2011/07/cdf_0132.jpg",
+   "Christopher Faist",
+   "https://teacheratsea.wordpress.com/2011/08/01/christopher-faist-beast-or-famine-july-30-2011/",
+   "Christopher Faist: Beast or Famine, July 30,?2011",
+   "\"The ocean can best be described as a patchy, dynamic environment.? Some days we have traveled for hours and not seen a single animal but on days like yesterday, we saw so many animals our single data recorder was busy all day.? Since the start of this cruise we have averaged about 30 sightings a days.? Yesterday, we had 30 sightings in the first 30 minutes of observation and ended with over 115 sightings. Species ranged from abundant Common Dolphin, to rare and elusive beaked whales.\" - Christopher Faist",
+   "Two Common Dolphins spotted in the North Atlantic."
+  ],
+  [
+   "TAS Caitlin water chemistry",
+   "https://teacheratsea.files.wordpress.com/2011/08/p1080514-smaller.jpg",
+   "Caitlin Fine",
+   "https://teacheratsea.wordpress.com/2011/08/05/caitlin-fine-chemistry-is-all-around-us-august-4-2011/",
+   "Caitlin Fine: Chemistry Is All Around Us, August 4,?2011",
+   "\"Carbon can be found in the form of carbon dioxide (CO2) or in the cells of organisms. Do you remember from 2nd and 4th grade science that plants use CO2 in order to grow? Phytoplankton also need CO2 in order to grow. The carbon dioxide analysis is useful because it tells us the amount of CO2 in the ocean so we can understand if there is enough CO2 to support phytoplankton, algae and other plant life. The carbon analysis can tell us about the carbon cycle ? the circulation of CO2 between the ocean and the air and this has an impact on climate change.\" - Caitlin Fine",
+   "TAS Caitlin Fine analyzes water samples for dissolved inorganic carbon."
+  ],
+  [
+   "Kodiak harbor",
+   "https://teacheratsea.files.wordpress.com/2011/07/p7250529.jpg",
+   "Cathrine Fox",
+   "https://teacheratsea.wordpress.com/2011/07/28/issue-six-alaska-impossibly-big-and-impossibly-green/",
+   "Cathrine Fox: Issue Six: Alaska, impossibly big and impossibly?green",
+   "\"We are docked in Kodiak for a few more days than anticipated: we are awaiting the arrival of another deck-hand, and there are a few repairs that need to be made to the ship. Once we get started, I will be working the 4am-4pm shift, and taking part in whatever science is taking place. In the meantime, I get to ?nose around? Kodiak, go for hikes and runs, check out museums (see below), and eat as many salmonberries as I can stuff into my mouth.\" - Cathrine Fox",
+   "The dock in Kodiak, Alaska."
+  ],
+  [
+   "Issue 6 (Alaska)",
+   "https://teacheratsea.files.wordpress.com/2013/04/blueworld006.jpg",
+   "Cathrine Fox",
+   "https://teacheratsea.wordpress.com/2011/07/28/issue-six-alaska-impossibly-big-and-impossibly-green/",
+   "Cathrine Fox: Issue Six: Alaska, impossibly big and impossibly?green",
+   "\"I think first impressions are important. Alaska? Alaska is impossibly big and impossibly green. Too big, perhaps to describe with common adjectives. As for how ?impossibly green? Alaska is, I was thinking about the reasons Georgia O?Keeffe gave for moving from New York City to New Mexico in 1949. She said (and I paraphrase) that she wanted to use more vibrant colors in her palette of paints than just green. Ms. O?Keeffe would have it rough here in Alaska: greens, greys and blues abound. \u003ci\u003eAdventures in a Blue World\u003c/i\u003e Issue 6 may not convince you of the colors of Alaska, but I hope it gives you a grasp of its size.\" - Cathrine Fox",
+   "Issue 6 of Cathrine Fox's comic \u003ci\u003eAdventures in a Blue World\u003c/i\u003e explores just how \"impossibly big\" the state of Alaska is."
+  ],
+  [
+   "Issue 12 (Humpback Whale)",
+   "https://teacheratsea.files.wordpress.com/2011/08/blueworld012.jpg",
+   "Cathrine Fox",
+   "https://teacheratsea.wordpress.com/2011/08/13/issue-twelve-better-than-any-alarm-clock/",
+   "Cathrine Fox: Issue Twelve: Better than any alarm?clock",
+   "\"In the great food web of life, other organisms eat the zooplankton. Among them was a pod of 50+ Humpback whales in the Barnabas Trough off of Kodiak Island. They were exciting enough that I went from being sound asleep to dressed and on the bridge in less than five minutes. Issue 12, \u003ci\u003eHumpback Whales: Better than any alarm clock\u003c/i\u003e I have ever known delves into these organisms.\" - Cathrine Fox",
+   "Issue 12 of Cathrine Fox's comic \u003ci\u003eAdventures in a Blue World\u003c/i\u003e is all about humpback whales."
+  ],
+  [
+   "TAS Jenny & scientists with sandbar shark",
+   "https://teacheratsea.files.wordpress.com/2011/08/sandbar-shark.jpg",
+   "Jenny Goldner",
+   "https://teacheratsea.wordpress.com/2011/08/22/jennifer-daftari-visit-on-the-bridge-and-in-the-lab-august-20-2011/",
+   "Jennifer Goldner: Visit on the Bridge and in the Lab, August 20,?2011",
+   "\"I will miss the adrenaline rush of catching and tagging a shark.? Mark, our Chief Scientist, wonders what there?s left for me to do that will give me that much of an adrenaline surge.? He is right.? I am hooked (pun intended).\" - Jennifer Goldner",
+   "TAS Jenny Goldner (center) helps hold up a sandbar shark."
+  ],
+  [
+   "Test tubes",
+   "https://teacheratsea.files.wordpress.com/2011/08/clear-plasma-red-red-blood-cells.jpg",
+   "Jenny Goldner",
+   "https://teacheratsea.wordpress.com/2011/08/22/jennifer-daftari-visit-on-the-bridge-and-in-the-lab-august-20-2011/",
+   "Jennifer Goldner: Visit on the Bridge and in the Lab, August 20,?2011",
+   "\"One of the scientists on board, Bianca, was taking blood samples from various sharks.? I found it very interesting so she was kind enough to walk me through the process of gathering blood.? After she draws the blood from the shark it is kept cool until she is ready to process the samples. First she takes a hematocrit?reading by filling a capillary tube with blood, plugging one end of the tube and centrifuging?the tube. The centrifuge separates the red blood cells from the plasma. After it is taken out of the centrifuge, a reading is taken in order to see the percentage of red blood cells (hematocrit).? Finally Bianca centrifuges the rest of the blood and freezes the plasma. She will conduct further analyses on the plasma when she gets back to her lab.\" - Jennifer Goldner",
+   "One of the scientists on board, Bianca, was taking blood samples from various sharks and separating out the plasma for further analysis back on land."
+  ],
+  [
+   "Shrimp Trawl Net",
+   "https://teacheratsea.files.wordpress.com/2011/07/dscn26631.jpg",
+   "Heather Haberman",
+   "https://teacheratsea.wordpress.com/2011/07/08/heather-haberman-groundfish-surveying-july-7-2011/",
+   "Heather Haberman: Groundfish Surveying, July 7, 2011",
+   "\"To collect samples of marine life in the northern Gulf of Mexico, NOAA Ship \u003ci\u003eOregon II\u003c/i\u003e is equipped with a 42-foot standard shrimp trawling net.? NOAA?s skilled fishermen?deploy the net over the side of the ship at randomly selected SEAMAP?(Southeast Area Monitoring and Assessment Program) stations using an outrigger. The net is left in the water for 30 minutes as the boat travels at 2.5 to 3 knots (1 knot = 1.15 mph).\" - Heather Haberman",
+   "Shrimp trawl net attached to an outrigger. The large wooden ?doors? help spread the net as it is lowered into the water."
+  ],
+  [
+   "TAS Kathleen launches XBT",
+   "https://teacheratsea.files.wordpress.com/2011/07/dsc02438.jpg",
+   "Kathleen Harrison",
+   "https://teacheratsea.wordpress.com/2011/07/19/kathleen-harrison-ctd-xbt-drop-july-18-2011/",
+   "Kathleen Harrison: CTD, XBT, Drop, July 18,?2011",
+   "\"Launching the XBT (expendable bathythermograph) has been one of my jobs on the Oscar Dyson, at least during my shift. ?This device measures temperature and depth of sea water. ?It is basically thrown overboard out of a handheld launcher, which looks like a giant pistol thing, and remains attached to a very thin wire. Data is sent through this thin wire until it reaches the ocean floor, then the wire is broken. ?The device is not retrieved ? hence the name ? expendable.\" - Kathleen Harrison",
+   "A hard hat and flotation device are required on the weather deck (any deck open to the weather), even to launch the XBT."
+  ],
+  [
+   "TAS Kaci with a small CTD",
+   "https://teacheratsea.files.wordpress.com/2011/10/img_8886.jpg",
+   "Kaci Heins",
+   "https://teacheratsea.wordpress.com/2011/10/04/kaci-heins-surveying-and-processing-september-30-october-3-2011/",
+   "Kaci Heins: Surveying and Processing, September 30 ? October 3,?2011",
+   "\"I was able to go out on another launch boat Sunday to collect survey data.? It was a beautiful day with amazing scenery to make it by far the best office I have ever been too.? Despite the fact that the ship is usually ?off the grid? in many ways, the location of their work environment, or office, in Alaska is visually stunning no matter where you turn.? Keeping your eyes off the cedar trees and focused on the sonar in a launch can be challenging at times!? However, when there is a specific job to be done that involves time and money, then the scenery can wait until the job is finished.? During Sunday?s launch survey we had to clean up some ?Holidays? and acquire some cross line data.\" - Kaci Heins",
+   "TAS Kaci Heins takes a CTD (conductivity, temperature, and depth) cast from a small survey launch boat."
+  ],
+  [
+   "Hyrdo launch boat",
+   "https://teacheratsea.files.wordpress.com/2011/09/img_8439.jpg",
+   "Kaci Heins",
+   "https://teacheratsea.wordpress.com/2011/09/21/kaci-heins-september-19-21-2011/",
+   "Kaci Heins: September 19-21,?2011",
+   "\"Today was the first day that the survey launches left the Rainier to install and recover benchmarks and a tidal gauge.? The weather was not great and the crew had a lot of work to do so I was not able to go with them this time.? A benchmark is a small brass disk with information inscribed on it that relates to the station it represents. The benchmark holds the height of the datum.? The purpose of setting a tide gauge is to measure the water level. The water level information is used to reduce the bathymetric data acquired to the chart datum (mean lower-low water, MLLW).\" - Kaci Heins",
+   "A survey launch (boat) lowered into the water."
+  ],
+  [
+   "Orca",
+   "https://teacheratsea.files.wordpress.com/2011/09/img_8354.jpg",
+   "Kaci Heins",
+   "https://teacheratsea.wordpress.com/2011/09/19/kaci-heins-september-16-18-2011/",
+   "Kaci Heins: September 16-18,?2011",
+   "\"When I first saw the Rainier I was so excited! It is a fairly large. Rainier is a ship with five 30-foot survey launches and two small boats.? I had a thorough tour of the boat where I got to see everything from the bridge to the engine room... The scenery here is so beautiful with all the green pine trees next to the ocean. However, it is pretty cold! I?m so glad I brought my hat, gloves, and winter coat!\" - Kaci Heins",
+   "Orca off the port side of NOAA Ship \u003ci\u003eRainier.\u003c/i\u003e"
+  ],
+  [
+   "Angry Seas",
+   "https://teacheratsea.files.wordpress.com/2011/09/img_4039.jpg",
+   "Lindsay Knippenberg",
+   "https://teacheratsea.wordpress.com/2011/09/19/lindsay-knippenberg-acoustics-day-september-13-2011/",
+   "Lindsay Knippenberg: Acoustics Day! September 13,?2011",
+   "\"We have had several lo- pressure systems blow through during our cruise and so far we have had two gale warnings. The first one occurred when we had only been out to sea for a day so it was easy to head back in to Dutch Harbor. The last one occurred a couple of days ago and we were too far out into the Bering Sea to turn back. We had no choice but to ride it out. Two low-pressure systems were colliding and the Bering Sea turned into a washing machine. There were consistent 10 ? 13 ft waves coming from one direction, large 20ft swells coming from another direction, and the occasional 8 ? 10 ft wave coming from a different direction. The ship just kind of bobbed from side to side and up and down and we were all along for the ride. Thank goodness I didn?t get sick, but I definitely didn?t sleep well.\" - Lindsay Knippenberg",
+   "Large swells during a gale in the Bering Sea."
+  ],
+  [
+   "Juvenile Wolffish",
+   "https://teacheratsea.files.wordpress.com/2011/09/img_4017.jpg",
+   "Lindsay Knippenberg",
+   "https://teacheratsea.wordpress.com/2011/09/15/lindsay-knippenberg-oceanography-day-september-11-2011/",
+   "Lindsay Knippenberg: Oceanography Day! September 11,?2011",
+   "\"One of the high points for me so far on the cruise has been seeing and learning about all the new fish that we catch in the net. We have caught lots of salmon, pollock, and capelin. The capelin are funny because they smell exactly like cucumbers. When we get a big catch of capelin the entire fish lab smells like cucumbers?it?s so weird. We have also caught wolffish, yellow fin sole, herring, and a lot of different types of jellyfish. The jellies are fun because they come in all different shapes and sizes. We had a catch today that had some huge ones and everyone was taking their pictures with them.\" - Lindsay Knippenberg",
+   "A juvenile wolffish caught on a pollock survey."
+  ],
+  [
+   "TAS Lindsay holds a big jellyfish",
+   "https://teacheratsea.files.wordpress.com/2011/09/img_3992.jpg",
+   "Lindsay Knippenberg",
+   "https://teacheratsea.wordpress.com/2011/09/15/lindsay-knippenberg-oceanography-day-september-11-2011/",
+   "Lindsay Knippenberg: Oceanography Day! September 11,?2011",
+   "\"One of the high points for me so far on the cruise has been seeing and learning about all the new fish that we catch in the net. We have caught lots of salmon, pollock, and capelin. The capelin are funny because they smell exactly like cucumbers. When we get a big catch of capelin the entire fish lab smells like cucumbers?it?s so weird. We have also caught wolffish, yellow fin sole, herring, and a lot of different types of jellyfish. The jellies are fun because they come in all different shapes and sizes. We had a catch today that had some huge ones and everyone was taking their pictures with them.\" - Lindsay Knippenberg",
+   "TAS Lindsay Knippenberg holds up a large jellyfish."
+  ],
+  [
+   "Overhead view of net deployment",
+   "https://teacheratsea.files.wordpress.com/2011/07/imag0181.jpg",
+   "Anne Mortimer",
+   "https://teacheratsea.wordpress.com/2011/07/12/anne-mortimer-otoliths-and-more-otoliths-july-8-2011/",
+   "Anne Mortimer: Otoliths and more otoliths?, July 8,?2011",
+   "\"The trawl net has a special device called a M.O.C.C. which stands for Multiple Opening and Closing Cod-ends. The net has three separate nets that can be opened and closed by the M.O.C.C. when the scientists reach the desired depth or location for catching, this keeps the catches from different targeted depths from mixing together. The three separate nets are called cod-ends. Each cod-end catch is processed separately.\" - Anne Mortimer",
+   "The Multiple Opening and Closing Cod-end, or MOCC, and net being released to the water for a mid-water tow."
+  ],
+  [
+   "TAS Tammy and kelp",
+   "https://teacheratsea.files.wordpress.com/2011/06/dsc02271.jpg",
+   "Tammy Orillio",
+   "https://teacheratsea.wordpress.com/2011/06/27/sand-point-alaska/",
+   "Tammy Orilio, Sand Point, Alaska, June 27,?2011",
+   "\"We ended up spending the day anchored in Sand Point yesterday. It was foggy & rainy yet again, so a few of the scientists purchased fishing licenses online and they fished off the back deck. They ended up catching some cod, halibut, and sculpins (Irish lords to be exact). They also ended up dragging some kelp up to the surface, and of course I was excited about that because I love seaweeds :) And I?ve never seen live kelp in person before- I?ve only seen the dried stuff we ate in Marine 1!\" - Tammy Orilio",
+   "TAS Tammy Orilio shows off a piece of kelp in Sand Point, Alaska."
+  ],
+  [
+   "Servicing a buoy",
+   "https://teacheratsea.files.wordpress.com/2012/02/image23.jpg",
+   "Karen Rasmussen",
+   "https://teacheratsea.wordpress.com/2011/06/28/karen-rasmussen-june-28-2011/",
+   "Karen Rasmussen, June 28,?2011",
+   "\"Nathan piloted the boat and Rick put on protective raingear and boots. His job consisted of standing on the swim deck while Nathan maneuvered the boat as close as he could to the buoy. When we were in the correct position, Rick pulled the buoy up while I controlled the winch. He replaced the current meter which measures how fast the current is going in that area. The buoys in the Sanctuary are serviced about once every six weeks.\" - Karen Rasmussen",
+   "A scientist services a buoy in Olympic Coast National Marine Sanctuary."
+  ],
+  [
+   "Sorting dredge contents",
+   "https://teacheratsea.files.wordpress.com/2011/08/img_4077.jpg",
+   "Jessie Soder",
+   "https://teacheratsea.wordpress.com/2011/08/17/jessie-soder-drag-it-along-dump-it-out-count-%E2%80%98em-up-august-14-2011/",
+   "Jessie Soder: Drag It Along, Dump It Out, Count ?Em Up, August 14,?2011",
+   "\"When I found out that the Teacher at Sea trip that I would be on was a clam survey, I thought, ?Oh, clams.? I see those on the beach all the time.? No problem.?? I learned that the clams are collected using a hydraulic dredge.? I knew? that a dredge was something that you dragged along the bottom of the ocean.? That seemed simple enough.? Drag it along, dump it out, count ?em up, and you?re done. Quickly, I learned that this project is not that simple!\" - Jessie Soder",
+   "The science crew sorts through the contents of a dredge."
+  ],
+  [
+   "Wet Lab",
+   "https://teacheratsea.files.wordpress.com/2012/02/stephens_log005_page_02_image_0003.jpg",
+   "Margaret Stephens",
+   "https://teacheratsea.wordpress.com/2011/05/28/margaret-stephens-may-28-2011/",
+   "Margaret Stephens, May 28,?2011",
+   "\"These scientists are not only smart, but they are neat and clean, too! After completing final mapping and fish sampling on the second-to-last day, we spent the remainder of the time cleaning the wet (fish) lab, packing all the instruments and equipment, and carefully labeling each item for transport. We hosed down all surfaces and used non-toxic cleaners to leave the stainless steel lab tables and instruments gleaming, ready for the next research project.\" - Margaret Stephens",
+   "?Wet? (fish) lab aboard Pisces, cleaned and ready for the next research team."
+  ],
+  [
+   "TAS KC with chum salmon",
+   "https://teacheratsea.files.wordpress.com/2011/08/bering-08-27-11-0361.jpg",
+   "Kevin Sullivan",
+   "https://teacheratsea.wordpress.com/2011/08/30/kevin-sullivan-baring-the-bering-august-28-2011/",
+   "Kevin Sullivan: Baring the Bering, August 28,?2011",
+   "\"My attempt at play on words for the title: ?Baring the Bering??? somewhat fitting as what we have been doing is literally trying to uncover and expose the hidden truths and secrets that this sea has to offer.? I have become more comfortable with the scientific?terminology being used on board and also have gotten into a nice flow with the overall processes going on and with the actual procedures and techniques being utilized to conduct these investigations.\" - KC Sullivan",
+   "TAS KC Sullivan holds a chum salmon caught on the Bering Sea salmon survey."
+  ],
+  [
+   "Camera on a fish trap",
+   "https://teacheratsea.files.wordpress.com/2011/06/taylor-lehman_log3_page_1_image_0001.jpg",
+   "John Taylor-Lehman",
+   "https://teacheratsea.wordpress.com/2011/06/29/john-taylor-lehman-june-29-2011/",
+   "John Taylor-Lehman, June 29,?2011",
+   "\"Mounted on each trap are 2 video cameras. They record the habitat and activity in the vicinity of the trap. The resolution on the videos is remarkable! During the winter months the films will be viewed and the fish species identified and counted.\" - John Taylor-Lehman",
+   "Underwater camera mounted on top of a fish trap."
+  ],
+  [
+   "Deploying launch vessel",
+   "https://teacheratsea.files.wordpress.com/2011/11/img_4728.jpg",
+   "Paige Teamey",
+   "https://teacheratsea.wordpress.com/2011/11/04/paige-teamey-october-31-2011-november-1-2011/",
+   "Paige Teamey: October 31, 2011 ? November 1,?2011",
+   "\"The \u003ci\u003eThomas Jefferson\u003c/i\u003e, or TJ, has three deployable ships (small ships that can be moved from the larger ship to the ocean).? Two of the deployables are hydrographic survey launches named 31-0-1 and 31-0-2 (aptly named for their position on the ship) and the FRV (fast rescue vessel).? The 31-0-1 and 31-0-2 are used daily to map areas that have shoal bottoms (shoal=ship term used for shallow).\" - Paige Teamey",
+   "Deploying a hydrographic survey launch from NOAA Ship \u003ci\u003eThomas Jefferson\u003c/i\u003e."
+  ],
+  [
+   "TAS Caitlin & others sort rockfish",
+   "https://teacheratsea.files.wordpress.com/2011/08/dsc_3352.jpg",
+   "Caitlin Thompson",
+   "https://teacheratsea.wordpress.com/2011/08/18/caitlin-thompson-bottom-trawl-august-11-2011/",
+   "Caitlin Thompson: Bottom Trawl, August 11,?2011",
+   "\"Yesterday we did a bottom trawl, the first bottom trawl ever conducted on the \u003ci\u003eShimada.\u003c/i\u003e Using the sonars, the scientists on the sonar team saw an interesting aggregation of fish. They couldn?t use the usual mid-water net, which is relatively easy to damage, because the fish were very close to the bottom. Besides, the bottom appeared hard and rocky. I was excited when they decided to test the new net. The bottom trawl disappointed the scientists because it brought up fewer hake than they had hoped, but I was happy to see so many new kinds of fish, and to learn to identify many so that I could help sort. Initially, the fish on the table looked the same to me, but I soon learned to identify [many species].\" - Caitlin Thompson",
+   "TAS Caitlin Thompson (left) works with scientists to sort rockfish caught in the bottom trawl survey."
+  ],
+  [
+   "TAS Marian shows off flying fish",
+   "https://teacheratsea.files.wordpress.com/2011/09/flying-fish.jpg",
+   "Marian Wagner",
+   "https://teacheratsea.wordpress.com/2011/09/30/marian-wagner-my-final-words-and-hurricane-irenes-in-charge-august-23-2011/",
+   "Marian Wagner: My Final Words and Hurricane Irene?s in Charge, August 23,?2011",
+   "\"At night especially, when looking out at the seascape, I noticed flying, bug-looking specimens scurrying out of and into the ocean?s surface. WHAT WERE THEY?! I wondered. So I asked and learned they were FLYING FISH!?A few of them flew right up on the vessel?s work deck. ?Their wings are modifications of the pectoral fins.? They are so fascinating and their coloring was greenish/blue iridescence, a stunningly beautiful color!\" - Marian Wagner",
+   "TAS Marian Wagner holds up a flying fish, showing its \"wings\" (modified pectoral fins.)"
+  ],
+  [
+   "Bringing Trawl Net on board",
+   "https://teacheratsea.files.wordpress.com/2011/07/100_0175.jpg",
+   "Steven Wilkie",
+   "https://teacheratsea.wordpress.com/2011/07/05/steven-wilkie-july-3rd/",
+   "Steven Wilkie: July 3,?2011",
+   "\"Once the catch is on board, the process begins to collect data (remember that is why NOAA is out here) to better understand how populations are changing in order to set catch limits and analyze human impact. ...The wetlab onboard the Oregon II is where I spend the majority of my 12 hour watch.? ?It is here that the catch is brought after we bring it on deck, we sort the catch, count and measure a subsample of what is brought on board.? If we had to measure everything that came up with the net we would never get finished.? By taking a subsample we can split the catch into percentages depending on the weight of the entire catch and count a smaller sample of the catch.\" - Steven Wilkie",
+   "Two members of the science crew bring the \u003ci\u003eOregon II\u003c/i\u003e's trawl net aboard, complete with catch."
+  ],
+  [
+   "Benthic grabber thing",
+   "https://teacheratsea.files.wordpress.com/2011/06/grabber7160.jpg",
+   "Sue Zupko",
+   "https://teacheratsea.wordpress.com/2011/06/13/13-who-ya-gonna-call-mud-busters/",
+   "Sue Zupko: 13 Who Ya Gonna Call? Mud?Busters!",
+   "\"We have three missions on the \u003ci\u003ePisces.\u003c/i\u003e ...The third mission was the most difficult for me to get a grasp of just because it sounds so strange.? Benthic grabbing. \u003ci\u003eBenthos\u003c/i\u003e means bottom in Greek.? Like the soil on land, sediment lying on the bottom of the sea is full of creatures and information needed to fully understand the health of the corals and their habitat.? You don?t see the most of the animals living in soil usually either.? In soil on land and in the sea?sediment, the animals living inside are called infauna, and provide food and nutrients to the epifauna (those living above the surface).\" - Sue Zupko",
+   "The Benthic Van Veer Grab is used to sample the soil on the ocean floor."
+  ],
+  [
+   "Sea Stars in Hand",
+   "https://teacheratsea.files.wordpress.com/2012/07/sea-stars109-copy.jpg",
+   "Carmen Andrews",
+   "https://teacheratsea.wordpress.com/2012/07/13/carmen-andrews-a-fishing-expedition-in-the-atlantic-continued-july-12-2012/",
+   "Carmen Andrews: A Fishing Expedition in the Atlantic, Continued, July 13,?2012",
+   "\"Every day brings more wildlife encounters and sightings. I am dazzled by the many fascinating organisms I?ve been able to see up close. Sometimes I am quick enough to grab my camera and put the animal into my view finder,?focusing clearly enough?to catch a great image. Here are a few of those images.\" - TAS Carmen Andrews",
+   "TAS Carmen Andrews examines sea stars brought up to the surface in the fish traps during a reef fish survey."
+  ],
+  [
+   "TAS Kaitlin Holding a Shark",
+   "https://teacheratsea.files.wordpress.com/2012/09/img_2807.jpg",
+   "Kaitlin Baird",
+   "https://teacheratsea.wordpress.com/2012/09/14/kaitlin-baird-some-essential-tools-september-14-2012/",
+   "Kaitlin Baird: Some Essential Tools! September 14,?2012",
+   "\"The fish are all divided up by species and electronically coded in the?FSCS?system to be measured. After they are measured, the system will prompt for further analysis for that particular species. If extra sampling of the fish is required, ?it is labeled with a printed sticker for the species with a unique barcode that can be scanned to retrieve its record in the database. I thought I?d share some photos with you of some of the unique things we have seen so far fishing today. We are off the coast of Carolina and finishing up our Southern stations today into early morning!\" - TAS Kaitlin Baird",
+   "TAS Kaitlin Baird holds an Atlantic sharpnose shark caught off the Carolina coast."
+  ],
+  [
+   "Two Batfish of Different Sizes",
+   "https://teacheratsea.files.wordpress.com/2012/06/dscn0325_1.jpg",
+   "Valerie Bogan",
+   "https://teacheratsea.wordpress.com/2012/06/30/valerie-bogan-the-journey-ends-june-20-2012/",
+   "Valerie Bogan: The Journey Ends, June 20,?2012",
+   "\"It should be no surprise to those that know me best that I love animals which is why I volunteer at the zoo and travel to distant locations to see animals in the wild.? So my favorite part of the trip was seeing all the animals, both those that came out of the sea and those that flew to our deck.? So I?m going to end with a slide show of some amazing animals.\" - TAS Valerie Bogan",
+   "Two batfish of very different sizes."
+  ],
+  [
+   "NOAA Ship Nancy Foster in Port",
+   "https://teacheratsea.files.wordpress.com/2012/05/tas-may-15-0042.jpg",
+   "Deborah Campbell",
+   "https://teacheratsea.wordpress.com/2012/05/15/deborah-campbell-may-15th-2012-2/",
+   "Deborah Campbell: May 15th,?2012",
+   "\"On Sunday, May 13th, I flew from Chicago to South Carolina.? I was picked up by a crew member of the ship.? The ship is located on a base, so I had to get a special I.D. tag to allow me to get on base.? The \u003ci\u003eNancy Foster\u003c/i\u003e was docked near a Coast Guard vessel, and a gigantic Naval ship.\" - TAS Deborah Campbell",
+   "View of NOAA Ship \u003ci\u003eNancy Foster\u003c/i\u003e in the port of Charleston, South Carolina."
+  ],
+  [
+   "TAS Kathleen and TowCam",
+   "https://teacheratsea.files.wordpress.com/2012/07/p1010436.jpg",
+   "Kathleen DeLussey",
+   "https://teacheratsea.wordpress.com/2012/07/11/kate-delussey-towcam-anyone-july-11-2012/",
+   "Kate DeLussey: TowCam Anyone? July 11,?2012",
+   "\"When everything has been checked and double checked, the operator gives the signal, and the deck crew of the \u003ci\u003eBigelow\u003c/i\u003e use the winch and tag lines to launch TowCam on its next mission. The deck crew always wear their safety equipment too!? They hook themselves to the ship by their belts, and they wear safety vests and hardhats.? The deck crew on the \u003ci\u003eBigelow\u003c/i\u003e also make sure everyone follows the safety rules.\" - TAS Kate DeLussey",
+   "TAS Kate DeLussey helps review the pre-deployment checklist for TowCam, an underwater camera array that NOAA Ship \u003ci\u003eHenry B. Bigelow\u003c/i\u003e will tow behind it on a giant cable."
+  ],
+  [
+   "Sea Urchin",
+   "https://teacheratsea.files.wordpress.com/2012/08/sea-urchin.jpg",
+   "Steven Frantz",
+   "https://teacheratsea.wordpress.com/2012/08/06/steven-frantz-critters-at-sea-august-5-2012/",
+   "Steven Frantz: Critters at Sea, August 5,?2012",
+   "\"Even though our mission is to collect data on sharks, you never know what might come up on the end of a hook (or tangled in the line!). Data is still collected on just about everything else we catch. For today?s blog I have put together a photo journey on the so many other beautiful creatures we have caught.\" - TAS Steven Frantz",
+   "A sea urchin brought up on board during a shark survey."
+  ],
+  [
+   "TAS Jennifer Suits Up",
+   "https://teacheratsea.files.wordpress.com/2012/03/p1010058.jpg",
+   "Jennifer Fry",
+   "https://teacheratsea.wordpress.com/2012/03/19/jennifer-fry-march-12-2012-oscar-elton-sette/",
+   "Jennifer Fry: March 12, 2012, Oscar Elton?Sette",
+   "\"The third?drill is the??Abandon Ship Drill. This consists of 7 short blasts followed by 1 prolonged blast of the general alarm. During this drill we are instructed to bring our survival suit, life jacket, a hat, long pants, long-sleeved shirt, and wear closed-toed shoes to the drill. After mustering on the Texas Deck, we don our survival suit, a bright orange suit known as a ?gumby suit?? made of neoprene, which is?easily seen during any emergency and acts as a floatation device.\" - TAS Jennifer Fry",
+   "Crewmember James McDade helps TAS Jennifer Fry into her survival suit during a safety training exercise."
+  ],
+  [
+   "TAS Alicia's First Job",
+   "https://teacheratsea.files.wordpress.com/2012/06/alicia-zip-tie.jpg",
+   "Alicia Gillean",
+   "https://teacheratsea.wordpress.com/2012/07/02/alicia-gillean-setting-sail-and-seeing-the-ocean-floor-june-30-2012/",
+   "Alicia Gillean: Setting Sail and Seeing the Ocean Floor; June 30,?2012",
+   "\"It is interesting to see the scientific process in action. Before we left port, they were attempting to correct an issue with pressure and vibration on the winch cable that controls the HabCam while it flies through the water. They thought that covering the portion of the cable directly above the HabCam with zip ties might help break up some of the water pressure and solve the problem. So, my first job as a scientist aboard the \u003ci\u003eHugh R Sharp\u003c/i\u003e involved installing lots and lots of zip ties! I had to laugh when they realized a slight glitch in the plan and had to remove many of the zip ties later. Science is a process!\" - TAS Alicia Gillean",
+   "TAS Alicia Gillean's first task on board R/V \u003ci\u003eHugh R. Sharp\u003c/i\u003e involved tying zip ties on the HabCam's winch cable to help control water pressure."
+  ],
+  [
+   "Marine Polycheate Worm",
+   "https://teacheratsea.files.wordpress.com/2012/03/img_4787.jpg",
+   "Dave Grant",
+   "https://teacheratsea.wordpress.com/2012/03/02/dave-grant-sea-state-sick-bay-and-longitude-february-26-2012/",
+   "Dave Grant: Sea State, Sick Bay and Longitude, February 26,?2012",
+   "\"With the help of Danny, one of the ship?s engineers, I have struck gold sampling marinelife. He alerted me to the intake screen for sea water that he was removing to clear and I was able to sort through it. It is a bonanza. Although most of the material is Sargassum weed, and some bits of plastic, there is a great assortment of material here to keep me busy for the rest of the day. [This is] a Polychaete worm, one of the many annelids in the sample. Not everyone?s favorite, unless of course, you are a fish.\" - TAS Dave Grant",
+   "TAS Dave Grant located and identified this polycheate worm in a sample of sargassum."
+  ],
+  [
+   "Bill Keane and the Bubbler",
+   "https://teacheratsea.files.wordpress.com/2012/08/bubbler1.png",
+   "Gina Henderson",
+   "https://teacheratsea.wordpress.com/2012/08/22/gina-henderson-30-days-of-science-in-9-days-august-21-2012/",
+   "Gina Henderson: 30 Days of Science in 9 Days? August 21,?2012",
+   "\"Sea spray particles are also being produced and collected via another method onboard, allowing for comparison with the Sea Sweep data. The picture below shows bubbles being generated in seawater that is fed into a large glass tower. This is an aerosol generator (a.k.a. ?the bubbler?) brought on board by the University of Virginia. Through sampling with both the Sea Sweep and the bubbler, a greater size range and variety of aerosols can be sampled throughout the cruise.\" - TAS Gina Henderson",
+   "Scientist Bill Keene introduces TAS Gina Henderson to \"the bubbler,\" a machine that injects bubbles into seawater to generate and sample aerosols."
+  ],
+  [
+   "Scientist Filters Seawater",
+   "https://teacheratsea.files.wordpress.com/2012/08/filter_chlorophyll.png",
+   "Gina Henderson",
+   "https://teacheratsea.wordpress.com/2012/08/24/gina-henderson-samples-aplenty-august-23-2012/",
+   "Gina Henderson: Samples Aplenty, August 23,?2012",
+   "\"Another type of sampling I have helped out with involves the filtration of raw seawater to extract chlorophyll. This is done in the seawater van where we have a continuous flow of in situ water that is taken in at the bow at a depth of approximately 5m. This is done with two different types of filters, a couple of times a day. The photo below shows Megan running a sample through one type of filter, which will later be prepared with an acetone solution and after a resting period, be measured for chlorophyll concentration using a fluorometer.\" - TAS Gina Henderson",
+   "A scientist filters raw seawater for chlorophyll extraction and measurement."
+  ],
+  [
+   "TAS Stacey Measures Dissolved O2",
+   "https://teacheratsea.files.wordpress.com/2012/07/img_0235.jpg",
+   "Stacey Jambura",
+   "https://teacheratsea.wordpress.com/2012/07/11/stacey-jambura-the-salty-seas-july-11-2012/",
+   "Stacey Jambura: The Salty Seas, July 11,?2012",
+   "\"Measuring dissolved oxygen levels is important because if it is extremely low ? called ?hypoxia? (2 mg/L or lower) ? animals fail to survive. If dissolved oxygen is not present (0 mg/L) it is called ?anoxia?. Hypoxic or anoxic areas are frequently referred to as ?dead zones?. Although the CTD has a digital device that measures the dissolved oxygen (DO) levels, we manually test the water for DO once a day to make sure that the CTD is calibrated correctly and that there are no malfunctions that need to be fixed. There are two different ways we manually test the water. One is by using a hand-held dissolved oxygen meter. This meter digitally calculates the dissolved oxygen levels. We lower this meter directly into one of the Niskins.\" - TAS Stacey Jambura",
+   "TAS Stacey Jambura measures dissolved oxygen levels in the water with a hand-held meter."
+  ],
+  [
+   "TAS Susan Kaiser small boat group photo",
+   "https://teacheratsea.files.wordpress.com/2012/08/rov-deploy-team-sm.jpeg",
+   "Susain Kaiser",
+   "https://teacheratsea.wordpress.com/2012/08/02/susan-kaiser-technology-tool-of-the-marine-scientist-august-1-2012/",
+   "",
+   "",
+   ""
+  ],
+  [
+   "TAS Susan Kaiser Virtual Reality",
+   "https://teacheratsea.files.wordpress.com/2012/08/virtrealglass-sm.jpeg",
+   "Jeff Renchen",
+   "https://teacheratsea.wordpress.com/2012/07/30/susan-kaiser-ready-set-science-july-29-2012/",
+   "",
+   "",
+   ""
+  ],
+  [
+   "TAS Alexandra Big Eyes",
+   "https://teacheratsea.files.wordpress.com/2012/06/dsc_0059.jpg",
+   "Alexandra Keenan",
+   "https://teacheratsea.wordpress.com/2012/06/22/alexandra-keenan-watching-for-whales-june-21-2012/",
+   "Alexandra Keenan: Watching for Whales, June 21,?2012",
+   "\"Our day begins at 7:30 am when we begin watch sessions.? Every hour and a half, we rotate through three stations. Scientists at two stations use high-power binoculars, dubbed ?big eyes,? while a scientist at another station records sightings.\" - TAS Alexandra Keenan",
+   "TAS Alexandra Keenan uses the \"big eyes\" binoculars to scan for whales."
+  ],
+  [
+   "TAS Maria uses camera",
+   "https://teacheratsea.files.wordpress.com/2012/04/p4090228.jpg",
+   "Maria Madrigal",
+   "https://teacheratsea.wordpress.com/2012/04/17/maria-madrigal-the-silliness-of-science-april-10-2012/",
+   "Maria Madrigal: The Silliness of Science: April 10,?2012",
+   "\"Every day the two teams depart from the NOAA research vessel,?Oscar Elton Sette, onto the small boats to their predetermined locations to deploy the stereo-BRUVS (Baited Remote Underwater Video Stations). On my second day out with the team, Marie thoroughly reviewed all the procedures with me from data tracking to preparing the cameras and the tricks of the trade for safely lowering and recovering the BRUVS. Reviewing video footage with them was exciting, as you never know what the cameras may capture.\" - TAS Maria Madrigal",
+   "TAS Maria Madrigal prepares the BRUVS (Baited Remote Underwater Video Stations) camera for deployment from a small boat."
+  ],
+  [
+   "TAS Maria in front of Sette",
+   "https://teacheratsea.files.wordpress.com/2012/04/p4180044.jpg",
+   "Maria Madrigal",
+   "https://teacheratsea.wordpress.com/2012/04/27/thank-you-for-the-journey/",
+   "Maria Madrigal: Thank you for the Journey, April 20,?2012",
+   "\"Soon enough, the good-byes began. While most of the staff will see and work with each other again on different missions, different ships or even in the same office, I was saying good-bye knowing in the back of my mind that I may never see any of these people again. Everyone on the ship was so welcoming and very generous with their time. Everyone involved made my journey a great one. I was intrigued by their career paths and now have plenty of information to share with my corpsmembers.\" - TAS Maria Madrigal",
+   "TAS Maria Madrigal and science crew member Mills Dunlap worked on a team deploying underwater cameras from a small boat."
+  ],
+  [
+   "Lumpsucker on a Cracker",
+   "https://teacheratsea.files.wordpress.com/2012/08/lump-on-cracker-sm.jpg",
+   "?",
+   "https://teacheratsea.wordpress.com/2012/08/10/johanna-mendillo-time-to-bid-alaska-the-bering-sea-and-the-oscar-dyson-adieu/",
+   "Johanna Mendillo: Time to Bid Alaska, the Bering Sea, and the Oscar Dyson Adieu? August 9,?2012",
+   "\"We have also had some exciting specimens on our bottom trawls.? Remember, students, this simply means we drag the 83-112 net along the ocean floor.? By sampling the bottom, we collect many non-pollock species that we would never see in the mid-water column. Perhaps my favorite?The one and only? Siberian lumpsucker! ?Yes, this specimen is full grown and no, we did not eat her, don?t worry!\" - TAS Johanna Mendillo",
+   "A tiny Siberian lumpsucker, brought up in a bottom trawl, shown on a cracker for scale."
+  ],
+  [
+   "TAS Johanna w/ pollock",
+   "http://teacheratsea.noaa.gov/images/VoteNow/Johanna_Pollock.jpg",
+   "Johanna Mendillo",
+   "https://teacheratsea.wordpress.com/2012/08/08/johanna-mendillo-hello-pollock-can-you-hear-me-now-august-7-2012/",
+   "Johanna Mendillo: Hello pollock?. can you hear me now? August 7,?2012",
+   "\"Interestingly, different types of fish have different shaped and sized swim bladders, and scientists have learned that they give off different return echos from sonar signals!? These show up as slightly different shapes on the computer screen, and are called a fish?s??echo signature?.? We know, however, that we will not encounter many fish other than pollock in this area of the Bering Sea, so we do not spend significant time studying the echo signatures on this cruise.\" - TAS Johanna Mendillo",
+   "TAS Johanna Mendillo shows off a 70cm walleye pollock, the largest she has seen in the pollock survey so far."
+  ],
+  [
+   "Lobster on Deck",
+   "https://teacheratsea.files.wordpress.com/2012/06/dsc00814.jpg",
+   "Janet Nelson",
+   "https://teacheratsea.wordpress.com/2012/06/27/janet-nelson-steaming-for-home-june-25-2012/",
+   "Janet Nelson: Steaming for Home, June 25,?2012",
+   "\"In the past ten days we have conducted 71 scallop dredge tows and processed 15, 979 scallops. We also took over 4 million images with the HabCam in 691 nautical miles of this leg. We have been a little busy.\" - TAS Janet Nelson",
+   "This lobster caught during a scallop dredge survey was later returned to sea."
+  ],
+  [
+   "Shark on Cradle",
+   "https://teacheratsea.files.wordpress.com/2012/08/p8230292.jpg",
+   "Deb Novak",
+   "https://teacheratsea.wordpress.com/2012/08/24/deb-novak-shark-survey-august-23-2012/",
+   "Deb Novak: Shark Survey, August 23,?2012",
+   "\"Large sharks are brought up to the boat rail in a cradle. They are measured and weighed and tagged as quickly as possible to try to minimize stress on the shark. On this trip five large sharks were fitted with satellite tracking tags. Just like the name says, these tags can track where the shark travels.\" - TAS Deb Novak",
+   "Large sharks are brought up to the boat rail in a cradle."
+  ],
+  [
+   "Humpback Whale Fluke",
+   "https://teacheratsea.files.wordpress.com/2012/05/img_8661.jpg",
+   "Ellen O'Donnell",
+   "https://teacheratsea.wordpress.com/2012/05/21/ellen-odonnell-whales-up-close-may-18-2012/",
+   "Ellen O?Donnell: Whales Up Close, May 18,?2012",
+   "\"We also got very close to a?humpback whale. Humpbacks are identified by the patterns on their flukes. They also have a dorsal fin, but the shape can be quite variable and sometimes is just like a knob. Therefore, they are often mistook as a right whale until you see their fluke. We took pictures of this humpback so that the scientists studying them will get an accurate sighting on where this individual is located. In fact, upon communication with one of the humpback experts we were able to identify this whale which was first identified in 1999 and is called 'Slumber.'\" - TAS Ellen O'Donnell",
+   "Humpback whales are identified by the patterns on their flukes (tails.)"
+  ],
+  [
+   "Scientists Launch Drifter",
+   "https://teacheratsea.files.wordpress.com/2012/06/dscn1463.jpg",
+   "Sue Oltman",
+   "https://teacheratsea.wordpress.com/2012/06/04/sue-oltman-approaching-latitude-zero-june-1-2012/",
+   "Sue Oltman: Approaching Latitude Zero, June 1,?2012",
+   "\"Another very cool instrument we?ve been deploying are ARGO drifter floats. Think of a scientific instrument that will measure temperature, conductivity (salinity) ?and depth and that can be programmed to move around at different depths, GPS keeping track of its location for several months or even years.? They have computer processors in them and a little motor that ?drives? it deeper or shallower as the need for data at certain coordinates dictates.\" - TAS Sue Oltman",
+   "Scientists launch a drifter, one of many data gathering instruments that will drift with the current and report ocean temperature, and its location is tracked online."
+  ],
+  [
+   "R/V Melville on Horizon",
+   "https://teacheratsea.files.wordpress.com/2012/06/dscn1811.jpg",
+   "Sue Oltman",
+   "https://teacheratsea.wordpress.com/2012/06/13/sue-oltman-in-puerto-ayora-galapagos-islands-june-6-2012/",
+   "Sue Oltman: In Puerto Ayora, Galapagos Islands, June 6,?2012",
+   "\"As we sailed into the islands, we could not be all the way into the harbor as the coastline is not only too shallow for the Melville, but rocky and ecologically fragile. Ecuador carefully inspects all boats ? inside and out ? that enter its waters. There are so many endemic species (found only here) and some are endangered, that they are vigilant to protect against the introduction of any foreign organisms, no matter how small.\" - TAS Sue Oltman",
+   "The view from the back deck of the Red Mangrove, where the Melville remained for a day before sailing out on its next scientific journey."
+  ],
+  [
+   "One of Darwin's Finches",
+   "https://teacheratsea.files.wordpress.com/2012/06/dscn2202.jpg",
+   "Sue Oltman",
+   "https://teacheratsea.wordpress.com/2012/06/13/sue-oltman-in-puerto-ayora-galapagos-islands-june-6-2012/",
+   "Sue Oltman: In Puerto Ayora, Galapagos Islands, June 6,?2012",
+   "\"Birds [in the Galapogas Islands] are numerous and I mentioned several earlier, but Darwin was known for researching finches of which we saw many. My favorite was a little yellow finch and boy oh boy, are they hard to photograph! ?It was possible to get very close to the birds, perhaps even a couple of feet away.\" - TAS Sue Oltman",
+   "A yellow finch in the Galapogas Islands. Charles Darwin studied these and other finch species during his visit."
+  ],
+  [
+   "TAS Amanda holds herring",
+   "https://teacheratsea.files.wordpress.com/2012/07/pacific-herring.png",
+   "Amanda Peretich",
+   "https://teacheratsea.wordpress.com/2012/07/16/amanda-peretich-my-first-love-chemistry-other-stuff-july-16-2012/",
+   "Amanda Peretich: My First Love (Chemistry and Other Stuff), July 16,?2012",
+   "\"Two new animals I?ve seen recently: the?crested auklet?(this little guy landed on board and stuck around a little over a day near the bow of the ship) and a whole lot of?Pacific herring?that we caught in the net the other day (which I?ve renamed Vegas fish because they are so sparkly and glittery like Vegas lights).\" - TAS Amanda Peretich",
+   "TAS Amanda Peretich holds a Pacific herring caught during a pollock survey."
+  ],
+  [
+   "Walleye Pollock Pile",
+   "https://teacheratsea.files.wordpress.com/2012/07/p7290515.jpg",
+   "Allan Phipps",
+   "https://teacheratsea.wordpress.com/2012/08/01/allan-phipps-fish-heads-fish-heads-rolly-polly-fish-heads-july-31-2012/",
+   "Allan Phipps: Fish heads, fish heads, rolly polly fish heads?. July 31,?2012",
+   "\"The fish lab is where the catch is sorted, weighed, counted, measured, sexed, and biological samples such as the?otoliths, or earbones, ?are taken. First, the fish come down a conveyor belt where they are sorted by species.? Typically, the most numerous species (in our case pollock) stay on the conveyor and any other species (jellyfish and/or herring, but sometimes a salmon or two, or maybe even something unique like a lumpsucker!), are put into separate baskets to weigh and include in the inventory count.\" - TAS Allan Phipps",
+   "Alaskan pollock on the sorting table. Various age groups are seen here, including one that is 70cm long and may be over 12 years old. Most are 2 to 4 year olds."
+  ],
+  [
+   "Guiding CTD",
+   "https://teacheratsea.files.wordpress.com/2012/08/aug-5-002.jpg",
+   "Bhavna Rawal",
+   "https://teacheratsea.wordpress.com/2012/08/07/bhavna-rawal-conductivity-temperature-depth-ctd-and-water-testing-august-7-2012/",
+   "Bhavna Rawal: Conductivity, Temperature, Depth (CTD) and Water Testing, August 7,?2012",
+   "\"The CTD instrument is very large, and is operated by a hydraulic system to raise it, to place it and lower down into the ocean. Rachel (another fellow member) and I were the chemistry team; we wore hard hats and life vests while we guided the CTD in and out of the water. This is always a job for at least two people.\" - TAS Bhavna Rawal",
+   "TAS Bhavna Rawal (left) works with a science crew member to guide the CTD in and out of the water."
+  ],
+  [
+   "Hermit Crab",
+   "https://teacheratsea.files.wordpress.com/2012/07/tas-2012-11.jpg",
+   "Andrea Schmuttermair",
+   "https://teacheratsea.wordpress.com/2012/07/07/andrea-schmuttermair-back-on-solid-ground-july-7-2012/",
+   "Andrea Schmuttermair: Back On Solid Ground, July 7,?2012",
+   "\"My final post would not be complete without a few last critter pics, as I?ve started naming my ever-growing file. Here are some of my favorite critters from our last few trawls. One cute little hermit crab!\" - TAS Andrea Schmuttermair",
+   "A hermit crab captured during a groundfish survey in the Gulf of Mexico."
+  ],
+  [
+   "Ron Brown Skiff",
+   "https://teacheratsea.files.wordpress.com/2012/02/tas-ron-brown-17-feb-2012-019.jpg",
+   "Wes Struble",
+   "https://teacheratsea.wordpress.com/2012/02/21/wes-struble-arrival-and-departure-february-19-2012/",
+   "Wes Struble: Arrival and Departure, February 19,?2012",
+   "\"The \u003ci\u003eRon Brown\u003c/i\u003e is the largest ship in the NOAA fleet. She was commissioned in 1997 and is named in honor of Ronald H. Brown, Secretary of Commerce under the Clinton Administration who died in a plane crash on a trip to Bosnia. With a length of just under 280 feet, the \u003ci\u003eRon Brown\u003c/i\u003e has ample deck space for hauling all the various amounts of materials and equipment needed for a research cruise.\" - TAS Wes Struble",
+   "The \u003ci\u003eRon Brown\u003c/i\u003e's skiff, used for buoy and mooring work and rescue activities."
+  ],
+  [
+   "Juvenile Angelfish",
+   "https://teacheratsea.files.wordpress.com/2012/06/juvenile-angelfish.jpg",
+   "Leslie Urasky",
+   "https://teacheratsea.wordpress.com/2012/06/21/lesley-urasky-fish-fish-where-are-all-the-fish-june-18-2012/",
+   "Lesley Urasky: Fish, fish, where are all the fish? June 18,?2012",
+   "\"Once the fish have been caught, there are several measurements that must be made. To begin, the fish is weighed?to the nearest thousandth (three decimal places) of a kilogram. Then there are several length measurements that are made: standard length (SL), total length (TL) and depending on the type of fish, fork length (FL). To make these measurements, the fish is laid so that it facing toward the left and placed on a fish board. ?The board is simply a long plank with a tape measure running down the center. It ensures that the fish is laid out flat and allows for consistent measurement.\" - TAS Lesley Urasky",
+   "A tiny, juvenile angelfish found in the stomach of a fish brought up during the night shift."
+  ],
+  [
+   "Bandit Reel/ View of St. Thomas",
+   "https://teacheratsea.files.wordpress.com/2012/06/dscn0480.jpg",
+   "Leslie Urasky",
+   "https://teacheratsea.wordpress.com/2012/06/27/lesley-urasky-get-that-fish-outta-here-the-invasive-lionfish-june-24-2012/",
+   "Lesley Urasky: Get that fish outta here! The invasive lionfish, June 24,?2012",
+   "\"The science portion of the cruise is coming to a close. Today was our last day of sampling. As with yesterday, no fish were caught by the day crew, so we were able to begin cleaning and packing throughout the day instead of waiting until the end. A few days after we arrive in Mayport, Florida, the \u003ci\u003ePisces\u003c/i\u003e will be going out on another cruise along the east coast.\"",
+   "A bandit reel with a view of St. Thomas in the background."
+  ],
+  [
+   "PIsces Life Preserver",
+   "https://teacheratsea.files.wordpress.com/2012/07/dscn0900.jpg",
+   "Leslie Urasky",
+   "https://teacheratsea.wordpress.com/2012/07/11/lesley-urasky-june-30-2012-goodbye-pisces/",
+   "Lesley Urasky: June 30, 2012, Goodbye?Pisces",
+   "\"It is with some sadness that my adventure as a NOAA Teacher at Sea has come to an end. Today I said goodbye to the crew of the \u003ci\u003ePisces\u003c/i\u003e. They are an amazing crew, and made my final portion of the cruise without the scientists interesting and fun. I admit that I was a bit apprehensive about being without the scientists and seeing the ship under different circumstances (lacking a specific scientific objective), but the \u003ci\u003ePisces\u003c/i\u003e steamed forward with two goals in mind: retrieving the buoy (see my last posting on June 27), and arriving in Mayport in a timely manner to receive the next group of scientists as they embark on their cruise.\" - TAS Lesley Urasky",
+   "NOAA Ship \u003ci\u003ePisces\u003c/i\u003e' life preserver."
+  ],
+  [
+   "TAS Kristy with Fish Trap",
+   "https://teacheratsea.files.wordpress.com/2012/05/tas-0071.jpg",
+   "Kristy Weaver",
+   "https://teacheratsea.wordpress.com/2012/05/29/kristy-weaver-one-stormy-week-may-27-2012/",
+   "Kristy Weaver: One Stormy Week, May 27,?2012",
+   "\"The wind is about 20-25 miles per hour. (That would definitely be a ?2? on our wind scale? if we used our flags today!) That is the speed limit that cars can drive on our school?s street! ?The waves are about 6 feet tall right now, which is taller than I am. The boat is rocking back and forth a lot. This makes it hard to walk, but it?s also pretty funny because I need to hold onto the walls wherever I go!\" - TAS Kristy Weaver",
+   "Choppy weather has TAS Kristy Weaver steadying herself against the ship as she prepares to launch a fish trap."
+  ],
+  [
+   "TAS Steven and floating screen",
+   "https://teacheratsea.files.wordpress.com/2011/08/0182.jpg",
+   "Steven Allen",
+   "https://teacheratsea.wordpress.com/2011/08/17/steven-allen-field-work-on-the-open-ocean-august-14-2011/",
+   "Steven Allen: Field Work on the Open Ocean, August 14, 2011",
+   "\"Members of the archaeological research crew and the R/V?Bellows?crew clear off the stern deck, so the floating screen could be pulled back up and the pump motor for the induction dredge?could be mounted on it. The floating screen and induction dredge were then towed into place by the?Bellow?s?Boston Whaler to the position marked after yesterday?s dives. ?At the buoy it was anchored and the snorkel for the pump (a long tube that draws in the water) was primed for suction... ?After allowing for the divers to descend, the pump motor was started.? The dredge works? on the??Venturi? system.? As the pump suctions water from the snorkel into the main 6? line via a tapered 4? line, this induces a vacuum?in the?6? tube which the divers use to remove sediment from the bottom.\" - TAS Steven Allen",
+   "TAS Steven Allen mans the floating screen and pump motor for the induction dredge. This set up will bring marine sediment up to the surface long enough for archaeologists to sort through it for artifacts."
+  ]
+ ]
+}

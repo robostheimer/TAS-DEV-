@@ -1,0 +1,1634 @@
+{
+ "kind": "fusiontables#sqlresponse",
+ "columns": [
+  "SlideNumber",
+  "Title",
+  "ImageUrl",
+  "Link",
+  "Description",
+  "PublishDate",
+  "Type"
+ ],
+ "rows": [
+  [
+   "NaN",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "1",
+   "2015 NOAA Teacher at Sea Julia West",
+   "https://teacheratsea.files.wordpress.com/2015/03/img_2386.jpg?w=620",
+   "#/2015/Julia*West",
+   "Learn more about Julia's cruise aboard NOAA Ship \u003ci\u003eGordon Gunter\u003c/i\u003e",
+   "03/20/2015",
+   ""
+  ],
+  [
+   "2",
+   "2015 NOAA Teacher at Sea Theresa Paulsen",
+   "https://teacheratsea.files.wordpress.com/2015/03/image16.jpg?w=320",
+   "#/2015/Theresa*Paulsen",
+   "Learn more about Theresa's cruise on NOAA Ship \u003ci\u003eOceans Explorer\u003c/i\u003e",
+   "03/20/2015",
+   ""
+  ],
+  [
+   "4",
+   "Did You Know: Tweets From Sea",
+   "https://teacheratsea.files.wordpress.com/2014/10/dyk_4_slideshow3.jpg?w=620",
+   "/dyk/#box12_text",
+   "This is one clever fish.  Click her to learn more...",
+   "10/20/2014",
+   "DYK"
+  ],
+  [
+   "5",
+   "Power-washing for science...",
+   "https://teacheratsea.files.wordpress.com/2014/06/124_2189.jpg?w=620",
+   "#/photo_of_week",
+   "Learn why it is important for NOAA ship personnel to maintain the NOAA fleet of ships.",
+   "10/20/2014",
+   "POW"
+  ],
+  [
+   "6",
+   "Teacher at Sea Alumni News...",
+   "https://teacheratsea.files.wordpress.com/2014/09/scallops.jpg?w=620",
+   "#/alumni_spotlight",
+   "TAS October is National Seafood Month! Celebrate with NOAA Chief Stewards' Recipes",
+   "10/17/2014",
+   "ALUMNI"
+  ],
+  [
+   "7",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2014/10/tas-fry-shave-ice.jpg",
+   "#/alumni_spotlight",
+   "American Samoan Desserts Are a Nice Treat After Tasty Seafood Dishes!",
+   "10/22/2014",
+   "ALUMNI"
+  ],
+  [
+   "8",
+   "High School get creative with marine debris.",
+   "https://teacheratsea.files.wordpress.com/2014/10/teacheratsea-059.jpg?w=620",
+   "#/photo_of_week/",
+   "Learn more about this exhibit at the Alaska SeaLife Center in Seward Alaska",
+   "10/27/2014",
+   "POW"
+  ],
+  [
+   "9",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2014/10/snapperpotatoepancakerice.jpg?w=620",
+   "#/alumni_spotlight/",
+   "Potato Latkes - A Great Side Dish for your Favorite Seafood Recipe",
+   "10/29/2014",
+   "ALUMNI"
+  ],
+  [
+   "10",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2014/10/snapperpotatoepancakerice.jpg?w=620",
+   "#/alumni_spotlight",
+   "Potato Latkes - A Great Side Dish for your Favorite Seafood Recipe!",
+   "10/31/2014",
+   "ALUMNI"
+  ],
+  [
+   "11",
+   "Can you name any of these crustaceans?",
+   "https://teacheratsea.files.wordpress.com/2014/04/20140413_203122.jpg?w=620",
+   "#/pow/",
+   "Learn more about planktonic crustaceans.",
+   "11/02/2014",
+   "POW"
+  ],
+  [
+   "12",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2014/11/dyk_4_slideshow.jpg",
+   "/dyk/#box18_text",
+   "How do scientists collect microscopic organisms?  Click here to find out.",
+   "11/05/2014",
+   "DYK"
+  ],
+  [
+   "13",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2014/11/christofer2.jpg?w=650",
+   "#/alumni_spotlight",
+   "John Sammons (TAS, 2005) Celebrates STEM & M Night at Greenbrier Intermediate School ",
+   "11/12/2014",
+   "ALUMNI"
+  ],
+  [
+   "14",
+   "More Colors than a Box of Crayons!",
+   "https://teacheratsea.files.wordpress.com/2014/06/dive052019-12-23-132.jpg?w=700\u003c",
+   "#/pow",
+   "Learn more about how NOAA uses ROVs to explore our marine protected areas.",
+   "11/10/2014",
+   "POW"
+  ],
+  [
+   "15",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2014/11/dyk_4_slideshow1.jpg",
+   "/dyk#box13_text",
+   "How does a filefish protect itself against predators?  Click here to find out more.",
+   "11/13/2014",
+   "DYK"
+  ],
+  [
+   "16",
+   "Deploying an ROV",
+   "http://teacheratsea.files.wordpress.com/2014/09/rov-lower-by-scott-donahue.jpg?w=620",
+   "#/pow",
+   "Learn how the NOAA Ship Nancy Foster deploys an ROV",
+   "11/16/2014",
+   "POW"
+  ],
+  [
+   "17",
+   "Lumpsucker!",
+   "http://teacheratsea.files.wordpress.com/2014/08/lump-sucker.jpg",
+   "#/pow",
+   "Learn more about Lumpsuckers.",
+   "11/24/2014",
+   "POW"
+  ],
+  [
+   "18",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2014/11/henricksen.jpg",
+   "#/alumni_spotlight",
+   "NOAA Corps Officer From Seattle Visits Chris Henricksen's (TAS, 2014), 5th Graders in Westerville, OH",
+   "11/24/2014",
+   "ALUMNI"
+  ],
+  [
+   "22",
+   "Did You Know: Tweets From Sea",
+   "https://teacheratsea.files.wordpress.com/2014/12/dyk_4_slideshow3.jpg",
+   "/dyk/#box7_text",
+   "Just shoveling some scallops. Click here to find out what scientist do with all those scallops!",
+   "01/01/2015",
+   "DYK"
+  ],
+  [
+   "23",
+   "Teacher at Sea Alumni News...",
+   "https://teacheratsea.files.wordpress.com/2015/01/expertisinphoto.jpg?w=62",
+   "#/alumni_spotlight",
+   "NOAA Teacher at Sea Alumni and NOAA Captain Rick Brennan at the Smithsonian Expert Is In",
+   "01/06/2015",
+   "ALUMNI"
+  ],
+  [
+   "24",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow.jpg",
+   "/dyk/#box8_text",
+   "Sorting Scallops.  click here to find out how scientists sort all those scallops!",
+   "01/08/2015",
+   "DYK"
+  ],
+  [
+   "28",
+   "Humpback Whale feeding frenzy!!!!",
+   "http://teacheratsea.files.wordpress.com/2011/08/sophies-vertical-lunge-feeding12.jpg?w=620",
+   "#/photo_of_week",
+   "Click here to learn more about this feeding event!",
+   "01/19/2015",
+   "POW"
+  ],
+  [
+   "29",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow1.jpg",
+   "/dyk/#box4_text",
+   "Scientists shuck the largest scallops for analysis.  Click here to learn more.",
+   "01/15/2015",
+   "DYK"
+  ],
+  [
+   "30",
+   "Teacher at Sea Alumni News...",
+   "https://teacheratsea.files.wordpress.com/2015/01/picmonkey-collage.jpg?w=620",
+   "#/alumni_spotlight",
+   "NOAA Teacher at Sea Alumni Volunteer at Regional Science Conferences",
+   "01/28/2015",
+   "ALUMNI"
+  ],
+  [
+   "31",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow2.jpg",
+   "/dyk/#box5_text",
+   "These Scallops go back in ocean after being measured and weighed.",
+   "01/22/2015",
+   "DYK"
+  ],
+  [
+   "32",
+   "Inch-long lobster larvae!",
+   "http://teacheratsea.files.wordpress.com/2012/05/img_4852.jpg?w=620",
+   "#/photo_of_week",
+   "Click here to learn more about this this lobster!",
+   "01/26/2015",
+   "POW"
+  ],
+  [
+   33.0,
+   "Holy Smokes! Batfish!",
+   "https://teacheratsea.files.wordpress.com/2012/05/p51800811.jpg",
+   "#/photo_of_week",
+   "Batfish in Gray's Reef National Marine Sanctuary (photo by ENS Jamie Park)",
+   "02/02/2015",
+   "POW"
+  ],
+  [
+   "34",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow3.jpg",
+   "/dyk/#box34_text",
+   "Lauches survey \u003ci\u003epolygons\u003c/i\u003e.  Click to learn more.",
+   "02/05/2015",
+   "DYK"
+  ],
+  [
+   "35",
+   "Who are you calling a shrimp?",
+   "https://teacheratsea.files.wordpress.com/2013/07/p7060028.jpg",
+   "#/photo_of_week",
+   "Northern Shrimp caught in a trawl aboard the NOAA Ship Oscar Dyson, 2013 ",
+   "02/09/2015",
+   "POW"
+  ],
+  [
+   "36",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/bird_island.jpg",
+   "/dyk/#box33_text",
+   "There is a tide station installed on Bird Island in the Gulf of Alaska.",
+   "02/12/2015",
+   "DYK"
+  ],
+  [
+   "37",
+   "Cookie Cutter Shark!",
+   "https://teacheratsea.files.wordpress.com/2013/06/blog4-4.jpg",
+   "#/photo_of_week",
+   "Learn more about this cookie cutter shark caught on a the Kona coast",
+   "02/16/2015",
+   "POW"
+  ],
+  [
+   "38",
+   "Did You Know?: Tweets From Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/tide_guage.jpg",
+   "/dyk/#box32_text",
+   "A tide staff is used to verify that underwater tidal gauges are accurate.",
+   "02/19/2015",
+   "DYK"
+  ],
+  [
+   "39",
+   "Transparent Eel Larvae!",
+   "https://teacheratsea.files.wordpress.com/2013/05/eel-larva.jpg",
+   "#/photo_of_week",
+   "Learn more about this eel larvae.",
+   "02/23/2015",
+   "POW"
+  ],
+  [
+   "40",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark.jpg",
+   "/dyk/#box31_text",
+   "Permanent benchmarks provide reference points for nearby tide gauges ",
+   "02/26/2015",
+   "DYK"
+  ],
+  [
+   "41",
+   "A Monkfish caught during a scallop survey.",
+   "https://teacheratsea.files.wordpress.com/2010/06/goosefishmouthopen1.jpg",
+   "#/photo_of_week",
+   "Learn more about this popular food source.",
+   "03/02/2015",
+   "POW"
+  ],
+  [
+   "42",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark2.jpg",
+   "/dyk/#box30_text",
+   "Scientists install a series of five benchmarks, lettered A-E, at a single tide station.",
+   "03/05/2015",
+   "DYK"
+  ],
+  [
+   "43",
+   "Why do scientists identify and record the sex of a catch?",
+   "https://teacheratsea.files.wordpress.com/2015/03/pow_3_9_14.jpg",
+   "#/photo_of_week",
+   "It helps them to determine sustainable catch levels.",
+   "03/09/2015",
+   "POW"
+  ],
+  [
+   "44",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark3.jpg",
+   "/dyk/#box29_text",
+   "Benchmarks are installed and stamped by hand with a hammer and letter stamps.",
+   "03/12/2015",
+   "DYK"
+  ],
+  [
+   "45",
+   "Dropping a chevron trap is a team effort!",
+   "https://teacheratsea.files.wordpress.com/2014/07/img_0739.jpg",
+   "#/photo_of_week",
+   "A chevron trap is retreived during the Southeast Fishery-Independent survey in 2014.",
+   "03/16/2015",
+   "POW"
+  ],
+  [
+   "46",
+   "Did You Know: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark4.jpg",
+   "/dyk/#box28_text",
+   "Scientists measure the elevation distance between benchmarks.",
+   "03/19/2015",
+   "DYK"
+  ],
+  [
+   "47",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2015/02/trey-kristin-and-jenny.jpg",
+   "#/alumni_spotlight",
+   "Shark Tales - Adventures with NOAA Scientists and NOAA Teacher at Sea",
+   "02/18/2015",
+   "ALUMNI"
+  ],
+  [
+   "48",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2015/03/wotkyn.jpg",
+   "#/alumni_spotlight",
+   "TAS Alumni author journal article about the importance of teacher/scientist partnerships",
+   "03/04/2015",
+   "ALUMNI"
+  ],
+  [
+   "49",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2015/03/nsta1.jpg",
+   "#/alumni_spotlight",
+   "NOAA TAS volunteer at NOAA's NSTA Booth",
+   "03/18/2015",
+   "ALUMNI"
+  ],
+  [
+   "50",
+   "What in the world is a Botcam?",
+   "https://teacheratsea.files.wordpress.com/2015/03/pow.jpg",
+   "#/photo_of_week",
+   "Crew members on the \u003ci\u003eOscar Elton Sette\u003c/i\u003e deploy a Botcam",
+   "03/23/2015",
+   "POW"
+  ],
+  [
+   "51",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum2.jpg",
+   "/dyk/#box20_text",
+   "Sargassum is free-floating seaweed that provides refuge for small creatures.",
+   "03/26/2015",
+   "DYK"
+  ],
+  [
+   "52",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum3.jpg",
+   "/dyk/#box19_text",
+   "Sargussum clumps together to form vast mats that float on the ocean surface.",
+   "04/02/2015",
+   "DYK"
+  ],
+  [
+   "53",
+   "Did You Know? Tweets From Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum.jpg",
+   "/dyk/#box15_text",
+   "This sargassum sample may contain plankton, worms, small fish and small crabs.",
+   "04/09/2015",
+   "DYK"
+  ],
+  [
+   "54",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/watersrider.jpg",
+   "/dyk/#box11_text",
+   "Pipefish and water striders live in sargassum off the coast of Florida",
+   "04/16/2015",
+   "DYK"
+  ],
+  [
+   "55",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum_fish.jpg",
+   "/dyk/#box12_text",
+   "Sargassum fish generally are weak swimmers that spend their lives clinging to floating seaweed.",
+   "04/23/2015",
+   "DYK"
+  ],
+  [
+   "56",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/filefish.jpg",
+   "/dyk/#box13_text",
+   "Filefish have retractable spines on their forehead to help protect them against predators.",
+   "04/30/2015",
+   "DYK"
+  ],
+  [
+   "57",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/filefish2.jpg",
+   "/dyk/#box14_text",
+   "The color of filefish makes it difficult to find in sargassum.",
+   "05/07/2015",
+   "DYK"
+  ],
+  [
+   "58",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2015/03/stacey-and-grace.jpeg?w=620",
+   "#/alumni_spotlight",
+   "A Match Made at Sea!",
+   "03/28/2015",
+   "ALUMNI"
+  ],
+  [
+   "59",
+   "These sponges don't have square pants.",
+   "https://teacheratsea.files.wordpress.com/2013/07/dscn0172.jpg",
+   "#/pow/",
+   "Found during a pollock survey, these sponges are some of the simplest multi-celluar animals!",
+   "03/30/2015",
+   "POW"
+  ],
+  [
+   "60",
+   "Collecting Sediment Samples is never an easy task!",
+   "https://teacheratsea.files.wordpress.com/2015/04/slideshow.jpg",
+   "#/photo_of_week/",
+   "But it is a critical part of many scientific studies. ",
+   "04/06/2015",
+   "POW"
+  ],
+  [
+   "61",
+   "Birdwatching from a ship takes a quick eye and patience!",
+   "https://teacheratsea.files.wordpress.com/2014/08/access-cruise-1407-days-1-3-104.jpg",
+   "#/photo_of_week",
+   "Bird and mammal spotters call out codes along transects aboard the R/V Fulmar.",
+   "04/13/2015",
+   "POW"
+  ],
+  [
+   "62",
+   "New Scientific Instrument tested to 8000+ meter depths!",
+   "https://teacheratsea.files.wordpress.com/2015/04/image2.jpg",
+   "#/photo_of_week",
+   "The crew aboard the \u003ci\u003eOceans\u003c/i\u003e Explorer tested a free vehicle and were able to reach 8000 meters. ",
+   "04/20/2015",
+   "POW"
+  ],
+  [
+   "63",
+   "These salps are actually a colony of tunicates!",
+   "https://teacheratsea.files.wordpress.com/2015/03/image130.jpg",
+   "#/photo_of_week/",
+   "Surprisingly, salps are more closely related to humans than shrimp are.",
+   "04/26/2015",
+   "POW"
+  ],
+  [
+   "64",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2015/04/angelagreene.jpg",
+   "#/alumni_spotlight",
+   "Angela Greene (TAS, 2013) Goes Green by Cleaning Up a Pond Ecosystem",
+   "04/27/2015",
+   "ALUMNI"
+  ],
+  [
+   "65",
+   "Emily Whalen at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/04/untitled-5.jpg",
+   "#/2015/Emily*Whalen",
+   "Learn more about Emily's cruise on the Bigelow",
+   "04/30/2015",
+   ""
+  ],
+  [
+   "66",
+   "These are some high-tech hydraulic winches!",
+   "https://teacheratsea.files.wordpress.com/2015/04/img_5345.jpg",
+   "#/photo_of_week",
+   "These hydraulic winches are controlled by an autotrawl system ensuring the net is fishing properly.",
+   "05/04/2015",
+   "POW"
+  ],
+  [
+   "67",
+   "Teacher at Sea Alumni News",
+   "https://teacheratsea.files.wordpress.com/2015/05/zupko-e1430843369986.jpg",
+   "#/alumni_spotlight/",
+   "Sue Zupko and her Students Host a Seven Seas Celebration",
+   "05/05/2015",
+   "ALUMNI"
+  ],
+  [
+   "68",
+   "NOAA Teacher at Sea June Teisan",
+   "https://teacheratsea.files.wordpress.com/2015/05/huzzah.jpg",
+   "#/2015/June*Teisan",
+   "Learn More about June's cruise on the NOAA Ship \u003ci\u003eOregon II\u003c/i\u003e",
+   "05/06/2015",
+   ""
+  ],
+  [
+   "69",
+   "This lobster has managed to regenerate a lost claw!\n",
+   "https://teacheratsea.files.wordpress.com/2015/05/img_55911.jpg",
+   "#/photo_of_week/",
+   "Many crustaceans have the ability to regenerate claws they have lost!",
+   "05/11/2015",
+   "POW"
+  ],
+  [
+   "70",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/whale1.jpg",
+   "/dyk/#box40_text",
+   "Right whales can be uniquely identified by large patches of rough tissue called callosities.",
+   "05/14/2015",
+   "DYK"
+  ],
+  [
+   "71",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/whale2.jpg",
+   "/dyk/#box51_text",
+   "Humpback whales periodically leap out of the water. This is called breaching.\n",
+   "05/21/2015",
+   "DYK"
+  ],
+  [
+   "72",
+   "Krill, and this is just a drop in the bucket! ",
+   "https://teacheratsea.files.wordpress.com/2013/08/img_6227.jpg",
+   "#/photo_of_week/",
+   "This is the catch from a methot net, this is  what is referred to as the \"Codend\", overflowing with krill! ",
+   "05/18/2015",
+   "POW"
+  ],
+  [
+   "73",
+   "NOAA Teacher at Sea Kelly Dilliard",
+   "https://teacheratsea.files.wordpress.com/2015/05/untitled-2.jpg",
+   "#/2015/Kelly*Dilliard",
+   "Learn more about Kelly's cruise on NOAA Ship Gordon Gunter",
+   "05/18/2015",
+   "POW"
+  ],
+  [
+   "74",
+   "NOAA Teacher at Sea DJ Kast",
+   "https://teacheratsea.files.wordpress.com/2015/05/kast.jpg",
+   "#/2015/DJ*Kast",
+   "Learn more about DJ's cruise NOAA Ship Henry Bigelow",
+   "05/22/2015",
+   "POW"
+  ],
+  [
+   "75",
+   "These copepods are critical to ecosystem health!",
+   "https://teacheratsea.files.wordpress.com/2015/05/img_6977.jpg",
+   "#/photo_of_week/",
+   "This jar of copepods was collected using a bongo net and will be sent off for genetic analysis!",
+   "05/25/2015",
+   "POW"
+  ],
+  [
+   "76",
+   "Did You Know?: Tweets From Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/scorpion_fish.jpg",
+   "/dyk/#box41_text",
+   "A scorpion fish's mouth has gill rakers: rows of bumpy spikes that help filter food from the water.",
+   "05/28/2015",
+   "DYK"
+  ],
+  [
+   "77",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/turtle.jpg",
+   "/dyk/#box52_text",
+   "Scientists tag Kemp's Ridley sea turtles so that they can monitor their movement, age, and growth.",
+   "06/04/2015",
+   "DYK"
+  ],
+  [
+   "78",
+   "Did You Know? Tweets from sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/crab.jpg",
+   "/dyk#box50_text",
+   "This is a type of bashful crab, also known as the flame box crab (Calappa flammea).",
+   "06/11/2015",
+   "DYK"
+  ],
+  [
+   "79",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/seahorse.jpg",
+   "/dyk/#/box46_text",
+   "Seahorses' eyes move independently of one another.",
+   "06/18/2015",
+   "DYK"
+  ],
+  [
+   "80",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/otolith.jpg",
+   "/dyk/#box37_text",
+   "Scientists use a fish's ear bones, called otoliths, to tell its age.",
+   "06/25/2015",
+   "DYK"
+  ],
+  [
+   "81",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/midshipman.jpg",
+   "/dyk/#box43_text",
+   "Stargazers have an electric organ and are able to produce electricity, known as bioelectrogenesis.",
+   "07/02/2015",
+   "DYK"
+  ],
+  [
+   "82",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/seamouse.jpg",
+   "/dyk/#box6_text",
+   "This “sea mouse” is not a mouse, but a marine polychaete worm.",
+   "07/09/2015",
+   "DYK"
+  ],
+  [
+   "83",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/octopus.jpg",
+   "/dyk/#box57_text",
+   "The male spoon arm octopus has a modified arm that aids in reproduction.",
+   "07/16/2015",
+   "DYK"
+  ],
+  [
+   "84",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/box_crab.jpg",
+   "/dyk/#box60_text",
+   "The flame box crab uses its scissor-like claws to act as a can opener. ",
+   "07/23/2015",
+   "DYK"
+  ],
+  [
+   "85",
+   "Did You Know?: Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/horseshoe.jpg",
+   "/dyk/#box62_text",
+   "Horseshoe crabs' blood has hemocyanin molecules, not hemoglobin, to carry oxygen",
+   "07/30/2015",
+   "DYK"
+  ],
+  [
+   "86",
+   "Heidi Wigman at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/dsc_10341.jpg",
+   "#/2015/Heidi*Wigman",
+   "Learn more about Heidi's cruise on the Pisces",
+   "05/31/2015",
+   ""
+  ],
+  [
+   "87",
+   "Whale, Whale, Whale, there you are...",
+   "https://teacheratsea.files.wordpress.com/2015/05/dsc_0229.jpg",
+   "#/photo_of_week",
+   "A Humpback whale spotted feeding, you can see the white baleen in her mouth.",
+   "06/01/2015",
+   "POW"
+  ],
+  [
+   "88",
+   "Alex Miller at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/img_7987.jpg",
+   "#/2015/Alexandra*Miller",
+   "Learn more about Alex's cruise on the Bell Shimada.",
+   "06/02/2015",
+   "POW"
+  ],
+  [
+   "89",
+   "Teacher at Sea Alumni News...",
+   "https://teacheratsea.files.wordpress.com/2015/06/barney.jpg",
+   "#/alumni_spotlight/",
+   "Barney Peterson (TAS, 2006) and Her Students Raise and Release Thousands of Coho Salmon",
+   "06/03/2015",
+   "ALUMNI"
+  ],
+  [
+   "90",
+   "Vellela vellela harness wind power for dispersal!",
+   "https://teacheratsea.files.wordpress.com/2015/05/img_79441.jpg",
+   "#/photo_of_week",
+   "Alexandra Miller helped sort through a neuston catch which contained many beautiful blue jellies! ",
+   "06/08/2015",
+   "POW"
+  ],
+  [
+   "91",
+   "NOAA Adopt a Drifter Program!",
+   "https://teacheratsea.files.wordpress.com/2015/05/img_75441.jpg",
+   "#/photo_of_week",
+   "Near real-time data is now being collected from  the buoy DJ Kast deployed from the Bigelow.",
+   "06/14/2015",
+   "POW"
+  ],
+  [
+   "91",
+   "Trevor Hance at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/06/hance.jpg",
+   "#/2015/Trevor*Hance",
+   "Learn more about Trevor's cruise R/V Hugh R Sharp",
+   "06/15/2015",
+   ""
+  ],
+  [
+   "92",
+   "Vincent Colombo at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/06/colombo.jpg",
+   "#/2015/Vincent*Colombo",
+   "Learn more about Vincent's cruise on the Oscar Dyson",
+   "06/15/2015",
+   ""
+  ],
+  [
+   "93",
+   "Sandra Camp at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/06/p1080937.jpg",
+   "#/2015/Sandra*Camp",
+   "Learn more about Sandra's cruise on the Hi’ialakai",
+   "06/17/2015",
+   ""
+  ],
+  [
+   "94",
+   "Nikki Durkan at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/06/nikki-fish-length.jpg",
+   "#/2015/Nicholette*Durkan/",
+   "Learn more about Nikki's cruise on the Oscar Dyson",
+   "06/18/2015",
+   ""
+  ],
+  [
+   "95",
+   "What a unique pattern these scallops have!",
+   "https://teacheratsea.files.wordpress.com/2015/06/b3g-4-shells.jpg",
+   "#/pow/",
+   "Sorting through scallops on the R/V Hugh Sharp isn't boring when you find patterns like these.",
+   "06/22/2015",
+   "POW"
+  ],
+  [
+   "96",
+   "Charting the course!",
+   "https://teacheratsea.files.wordpress.com/2015/06/p1090005.jpg?w=620",
+   "#/photo_of_week/",
+   " Sandra Camp helps plot the ship’s location on a nautical chart using the ships GPS coordinates.",
+   "06/29/2015",
+   "POW"
+  ],
+  [
+   "97",
+   "This hermit crab sure looks different without his shell!",
+   "https://teacheratsea.files.wordpress.com/2015/06/dscn9935.jpg?w=620",
+   "#/photo_of_week",
+   "This hermit crab was caught out of his shell when it was caught during a Sea Scallop Survey",
+   "07/06/2015",
+   "POW"
+  ],
+  [
+   "98",
+   "Did You Know?: Tweets From Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/tagging.jpg",
+   "/dyk/#box8_text\n",
+   "Scientists tag sharks to learn where sharks swim.",
+   "07/06/2015",
+   "DYK"
+  ],
+  [
+   "99",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/hammerhead.jpg",
+   "/dyk/#box4_text",
+   "A hammerhead shark's eyes are located at either end of its broad head, which is called a \u003ci\u003ecephalofoil.\u003c/i\u003e",
+   "07/06/2015",
+   "DYK"
+  ],
+  [
+   "100",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/measuring_sharks.jpg",
+   "/dyk/#box10_text",
+   "Captured sharks are brought on board so that scientists can collect data such as length, weight, and sex",
+   "07/07/2015",
+   "DYK"
+  ],
+  [
+   "101",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/cookie_cutter.jpg",
+   "/dyk/#box2_text",
+   "The \"cookie-cutter shark\" latches onto its prey and leaves deep, cookie-sized scars.",
+   "07/08/2015",
+   "DYK"
+  ],
+  [
+   "102",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/shark_cradle.jpg",
+   "/dyk/box11_text",
+   "Large sharks are brought up to the boat rail in a cradle, where scientists can take measurements.",
+   "07/09/2015",
+   "DYK"
+  ],
+  [
+   "103",
+   "Photospores on an Atlantic Midshipman",
+   "https://teacheratsea.files.wordpress.com/2015/06/ams1.jpg",
+   "#/photo_of_week",
+   "These light-emitting organs are used to catch prey.",
+   "07/13/2015",
+   "POW"
+  ],
+  [
+   "103",
+   "Andrea Schmuttermair at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/schmuttermair.jpg",
+   "/#/2015/Andrea*Schmuttermair",
+   "Learn More about Andrea's cruise on NOAA Ship Oscar Dyson",
+   "07/15/2015",
+   "POW"
+  ],
+  [
+   "105",
+   "Teacher at Sea's 25th Anniversary",
+   "/images/25th_4_slide.jpg",
+   "/25thAnniversary/",
+   "To Celebrate, click through this 25th Anniversary Timeline!",
+   "07/17/2015",
+   "TEACHER"
+  ],
+  [
+   "106",
+   "Michael Wing at Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/wing.png",
+   "#/2015/Michael*Wing",
+   "Learn more about Michael's cruise on the RV Fulmar",
+   "07/20/2015",
+   "POW"
+  ],
+  [
+   "107",
+   "It's Clean-up time on the RV Hugh R. Sharp",
+   "https://teacheratsea.files.wordpress.com/2015/06/dscn0157.jpg?w=650",
+   "#/pow/",
+   "The crew aboard the RV Hugh R. Sharp gets to work cleaning up after a scallop dredge.",
+   "07/20/2015",
+   "POW"
+  ],
+  [
+   "108",
+   "Shark Data Collection!!!",
+   "https://teacheratsea.files.wordpress.com/2015/07/shark.jpg",
+   "#/pow/",
+   "This shark has been tied off to the boat so scientists can collect biological data and tag the shark.",
+   "07/26/2015",
+   "POW"
+  ],
+  [
+   "109",
+   "Sargassum Fish!",
+   "https://teacheratsea.files.wordpress.com/2015/03/image65.jpg",
+   "#/pow",
+   "This little Sargassum fish blends right in to the seaweed for which it is named.",
+   "08/03/2015",
+   "POW"
+  ],
+  [
+   "110",
+   "Nom, nom...that sea pen is tasty!",
+   "https://teacheratsea.files.wordpress.com/2015/07/untitled-2.jpg",
+   "/#pow",
+   "This Striped nudibranch (right) feeds exclusively on sea pens, like the one seen on the left.",
+   "08/10/2015",
+   "POW"
+  ],
+  [
+   "111",
+   "Mola!!!!!",
+   "https://teacheratsea.files.wordpress.com/2015/07/mola.jpg?w=650",
+   "#/pow/",
+   "These fish lay on their side just under the water's surface and eat jellyfish.",
+   "08/17/2015",
+   "POW"
+  ],
+  [
+   "112",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/purse.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box0_text",
+   "Beachgoers sometimes find \"mermaid's purses\". The \"purse\" is the egg case of a skate or a shark.",
+   "11/12/2015",
+   "DYK"
+  ],
+  [
+   "113",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/measuring_sharks.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box10_text",
+   "Captured sharks are brought on board so that scientists can collect data.",
+   "12/10/2015",
+   "DYK"
+  ],
+  [
+   "114",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/shark_cradle.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box11_text",
+   "Large sharks are brought up to the boat rail in a cradle.",
+   "01/14/2016",
+   "DYK"
+  ],
+  [
+   "115",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/cradlecradle.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box12_text",
+   "A scientist weighs a medium-sized shark in a cradle before returning it to the ocean.",
+   "09/24/2015",
+   "DYK"
+  ],
+  [
+   "116",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/teeth.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box13_text",
+   "Tiger shark teeth are different from the teeth of most sharks.",
+   "11/17/2016",
+   "DYK"
+  ],
+  [
+   "117",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/claspers1.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box14_text",
+   "Male sharks have claspers (left). Female sharks do not.",
+   "1/28/2015",
+   "DYK"
+  ],
+  [
+   "118",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/sharkeye.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box16_text",
+   "The back of sharks' eyeballs have a reflective layer of tissue called a tapetum.",
+   "08/04/2016",
+   "DYK"
+  ],
+  [
+   "119",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/scallop.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box17_text",
+   "Scallops can live up to 20 years, and a single female scallop can produce up to 270 million eggs in her lifetime.",
+   "4/15/2016",
+   "DYK"
+  ],
+  [
+   "120",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/femalescallop.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box18_text",
+   "A sea scallop's eyes are the black dots that line the edges of its shells",
+   "10/08/2015",
+   "DYK"
+  ],
+  [
+   "121",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow1.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box19_text",
+   "The largest scallops are shucked so their meat weights can be analyzed later in the lab.",
+   "9/1/2016",
+   "DYK"
+  ],
+  [
+   "122",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/sharksuccker.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box1_text",
+   "Through suction, this shark sucker attaches the top of its head to larger fish or sharks to hitch a ride.",
+   "11/10/2016",
+   "DYK"
+  ],
+  [
+   "123",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box20_text",
+   "After being measured and weighed, these sea scallops are returned to the ocean.",
+   "10/22/2015",
+   "DYK"
+  ],
+  [
+   "124",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/seamouse.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box21_text",
+   "This \"sea mouse\" is not a mouse, but a marine polychaete worm.",
+   "11/03/2016",
+   "DYK"
+  ],
+  [
+   "125",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2014/12/dyk_4_slideshow3.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box22_text",
+   "A scientist distributes the catch to others who will sort it into buckets.",
+   "09/17/2015",
+   "DYK"
+  ],
+  [
+   "126",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/dredge.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box24_text",
+   "Part of surveying sea scallop populations involves skimming the ocean floor with a dredge to collect samples.",
+   "3/4/2016",
+   "DYK"
+  ],
+  [
+   "127",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/habcam.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box25_text",
+   "Scientists deploy a device called the HabCam into the ocean to take pictures of habitat on the ocean floor.",
+   "04/29/2016",
+   "DYK"
+  ],
+  [
+   "128",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/watersrider.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box26_text",
+   "Both this pipefish and this waterstrider live in the sargassum off the coast of Florida.",
+   "12/03/2015",
+   "DYK"
+  ],
+  [
+   "129",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2014/10/dyk_4_slideshow3.jpg?w=620",
+   "http://teacheratsea.noaa.gov/dyk/#box27_text",
+   "The sargassum fish is a weak swimmer that spends its life clinging to the floating seaweed.",
+   "09/22/2016",
+   "DYK"
+  ],
+  [
+   "130",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2014/11/dyk_4_slideshow1.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box28_text",
+   "Filefish have slim, retractable spines on their foreheads that help protect against predators.",
+   "12/24/2015",
+   "DYK"
+  ],
+  [
+   "131",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/filefish2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box29_text",
+   "The color of this filefish makes it difficult to find in the sargassum.",
+   "8/18/2016",
+   "DYK"
+  ],
+  [
+   "132",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/cookie_cutter.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box2_text",
+   "The \"cookie-cutter shark\" shown here latches onto its prey and leaves deep, cookie-sized scars.",
+   "7/28/2016",
+   "DYK"
+  ],
+  [
+   "133",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box30_text",
+   "This sargassum sample may contain plankton, worms, small fish, and small crabs.",
+   "10/27/2016",
+   "DYK"
+  ],
+  [
+   "134",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/neuston.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box31_text",
+   "Scientists empty the Neuston net's contents into buckets on the ship's deck for rinsing and sorting.",
+   "05/06/2016",
+   "DYK"
+  ],
+  [
+   "135",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/net.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box32_text",
+   "Because the Neuston net is pulled along the ocean's surface, it often picks up sargassum.",
+   "11/19/2015",
+   "DYK"
+  ],
+  [
+   "136",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2014/11/dyk_4_slideshow.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box33_text",
+   "The Neuston net is used to collect small organisms that live on the ocean's surface.",
+   "9/15/2016",
+   "DYK"
+  ],
+  [
+   "137",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum3.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box34_text",
+   "Sargassum can clump together to form vast mats that float on the surface of the ocean.",
+   "4/1/2016",
+   "DYK"
+  ],
+  [
+   "138",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/03/sargassum2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box35_text",
+   "Sargassum is a free-floating seaweed that provides refuge for many small creatures.",
+   "4/8/2016",
+   "DYK"
+  ],
+  [
+   "139",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/cleaning.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box36_text",
+   "While at sea, everyone working on a NOAA research ship pitches in to help clean the deck.",
+   "12/1/2016",
+   "DYK"
+  ],
+  [
+   "140",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/batfish.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box37_text",
+   "This fish, the polka dot batfish, is a bottom-dwelling species that uses its stubby fins to \"walk\" along the seafloor.",
+   "10/06/2016",
+   "DYK"
+  ],
+  [
+   "141",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/chevron.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box38_text",
+   "A chevron trap is baited, mounted with cameras, and lowered near to catch fish for 90 minutes.",
+   "08/27/2015",
+   "DYK"
+  ],
+  [
+   "142",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/chevron2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box39_text",
+   "Scientists sample reef fish using a chevron trap, a fish trap named for its chevron shape.",
+   "5/27/2016",
+   "DYK"
+  ],
+  [
+   "143",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/cradle-cradle.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box3_text",
+   "Sandbar sharks have particularly large dorsal fins.",
+   "03/25/2016",
+   "DYK"
+  ],
+  [
+   "144",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/sieve.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box40_text",
+   "A 500-micrometer sieve collects tiny organisms from the contents of a bongo net's codend.",
+   "08/20/2015",
+   "DYK"
+  ],
+  [
+   "145",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/bongos2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box41_text",
+   "At the end of each bongo net is a container called a \"codend\" that lets only tiny organisms through.",
+   "11/05/2015",
+   "DYK"
+  ],
+  [
+   "146",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/bongos.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box42_text",
+   "Scientists use a bongo net, named for its resemblance to bongo drums, to take plankton samples.",
+   "6/17/2016",
+   "DYK"
+  ],
+  [
+   "147",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark4.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box43_text",
+   "Scientists measure the elevation distance between benchmarks so they know whether the area is geologically stable.",
+   "05/20/2016",
+   "DYK"
+  ],
+  [
+   "148",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark3.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box44_text",
+   "Benchmarks are installed and stamped by hand with a hammer and letter stamps.",
+   "11/26/2015",
+   "DYK"
+  ],
+  [
+   "149",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box45_text",
+   "Scientists install a series of five benchmarks, lettered A-E, at a single tide station.",
+   "5/13/2016",
+   "DYK"
+  ],
+  [
+   "150",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/benchmark.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box46_text",
+   "Permanent benchmarks provide reference points on land for tide gauges installed nearby.",
+   "03/11/2016",
+   "DYK"
+  ],
+  [
+   "151",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/tide_guage.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box47_text",
+   "To verify that the underwater tidal gauge is calculating water levels accurately, scientists install a tide staff that allows them to read tide levels visually.",
+   "11/24/2016",
+   "DYK"
+  ],
+  [
+   "152",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/bird_island.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box48_text",
+   "A tide station installed in  the Gulf of Alaska measures, records, and transmits tide levels over time.",
+   "10/15/2015",
+   "DYK"
+  ],
+  [
+   "153",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/01/dyk_4_slideshow3.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box49_text",
+   "Once a launch has finished surveying its polygon, or survey area, it returns to the larger hydrographic ship.",
+   "2/18/2016",
+   "DYK"
+  ],
+  [
+   "154",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/hammerhead.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box4_text",
+   "A hammerhead's eyes are located at either end of its head, which is called a \"cephalofoil.\"",
+   "09/03/2015",
+   "DYK"
+  ],
+  [
+   "155",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/launch.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box50_text",
+   "NOAA hydrographic ships carry small boats called ?survey launches? that are lowered into the water to survey shallower areas.",
+   "2/11/2016",
+   "DYK"
+  ],
+  [
+   "156",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/net1.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box51_text",
+   "The trawling net is used to collect groundfish samples. This helps scientists estimate fish populations.",
+   "09/29/2016",
+   "DYK"
+  ],
+  [
+   "157",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/otolith.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box52_text",
+   "Scientists use a fish's ear bones, called otoliths, to tell its age by counting the rings just as one does with a tree trunk.",
+   "06/24/2016",
+   "DYK"
+  ],
+  [
+   "158",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/lionfish.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box53_text",
+   "Lionfish are invading Southeastern U.S. coral reefs.",
+   "01/21/2015",
+   "DYK"
+  ],
+  [
+   "159",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/gps.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box54_text",
+   "NOAA Corps Officers use both GPS and nautical charts to plot their ship?s course.",
+   "02/04/2016",
+   "DYK"
+  ],
+  [
+   "160",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/whale1.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box55_text",
+   "Right whales can be identified by large patches of rough tissue called callosities.",
+   "03/18/2016",
+   "DYK"
+  ],
+  [
+   "161",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/scorpion_fish.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box56_text",
+   "A scorpion fish's mouth has gill rakers: rows of bumpy spikes that help filter food from the water.",
+   "10/1/2015",
+   "DYK"
+  ],
+  [
+   "162",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/octopus.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box57_text",
+   "The male spoon arm octopus has a modified arm that aids in reproduction.",
+   "9/8/2016",
+   "DYK"
+  ],
+  [
+   "163",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/midshipman.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box58_text",
+   "Stargazers have an electric organ and are able to produce electricity, known as bioelectrogenesis.",
+   "7/21/2016",
+   "DYK"
+  ],
+  [
+   "164",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/spider.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box59_text",
+   "Sea spiders like this one have no lungs or other respiratory organs. ",
+   "07/08/2016",
+   "DYK"
+  ],
+  [
+   "165",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/blacknose.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box5_text",
+   "The blacknose shark is named for the black coloring on the tip of its nose.",
+   "8/11/2016",
+   "DYK"
+  ],
+  [
+   "166",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/box_crab.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box60_text",
+   "The flame box crab uses its scissor-like claws to act as a can opener. It opens hermit crabs in this way.",
+   "8/25/2016",
+   "DYK"
+  ],
+  [
+   "167",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/seahorse.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box61_text",
+   "Seahorses' eyes move independently of one another.",
+   "7/15/2016",
+   "DYK"
+  ],
+  [
+   "168",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/horseshoe.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box62_text",
+   "Horseshoe crabs' blood has hemocyanin molecules, not hemoglobin, to carry oxygen.",
+   "12/31/2015",
+   "DYK"
+  ],
+  [
+   "169",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/safety1.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box63_text",
+   "Science crew on a research ship are required to wear protective equipment like hard hats and life vests.",
+   "04/22/2016",
+   "DYK"
+  ],
+  [
+   "170",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/ctd2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box64_text",
+   "This instrument is called a CTD. It measures the ocean's Conductivity, Temperature, and Depth.",
+   "10/13/2016",
+   "DYK"
+  ],
+  [
+   "171",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/crab.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box65_text",
+   "This is a type of bashful crab, also known as the flame box crab (Calappa flammea).",
+   "10/20/2016",
+   "DYK"
+  ],
+  [
+   "172",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/whale2.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box66_text",
+   "Humpback whales periodically leap out of the water. This is called breaching.",
+   "1/7/2016",
+   "DYK"
+  ],
+  [
+   "173",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/05/turtle.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box67_text",
+   "Scientists tag Kemp's Ridley sea turtles so that they can monitor their movement, age, and growth.",
+   "6/10/2016",
+   "DYK"
+  ],
+  [
+   "174",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/camou.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box68_text",
+   "Artificial reefs provide a sturdy structure for a wide variety of species to call home.",
+   "10/29/2015",
+   "DYK"
+  ],
+  [
+   "175",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/camtrawl.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box69_text",
+   "Scientists use an instrument called the Cam-Trawl to take photos of fish during surveys in Alaska.",
+   "07/01/2016",
+   "DYK"
+  ],
+  [
+   "176",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/hooks.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box6_text",
+   "Circle hooks are designed to catch a shark or fish without the hook being swallowed.",
+   "12/17/2015",
+   "DYK"
+  ],
+  [
+   "177",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/release.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box7_text",
+   "Once scientists have measured, weighed, and tagged the shark, they allow the shark to swim free.",
+   "02/01/2016",
+   "DYK"
+  ],
+  [
+   "178",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/07/tagging.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box8_text",
+   "Scientists tag an Atlantic sharpnose shark. Each time the shark is captured again, scientists will record its new location. ",
+   "06/03/2016",
+   "DYK"
+  ],
+  [
+   "179",
+   "Did You Know? Tweets from Sea",
+   "https://teacheratsea.files.wordpress.com/2015/08/weighing.jpg",
+   "http://teacheratsea.noaa.gov/dyk/#box9_text",
+   "A member of the science crew weighs a small shark before returning it to the ocean.",
+   "9/10/2015",
+   "DYK"
+  ],
+  [
+   "180",
+   "Teacher at Sea Alumni Spotlight",
+   "https://teacheratsea.files.wordpress.com/2015/08/dsc00463.jpg",
+   "#/alumni_spotlight",
+   "Teacher at Sea Alumni and NOAA Scientists Participate in World Oceans Day at the Smithsonian",
+   "08/20/2015",
+   "ALUMNI"
+  ],
+  [
+   "181",
+   "Anchor Ball!",
+   "https://teacheratsea.files.wordpress.com/2015/08/anchorball1.jpg",
+   "#pow/",
+   "An anchor ball, like the one seen here, signals that a vessel is anchored.\n",
+   "08/24/2015",
+   "POW"
+  ],
+  [
+   "182",
+   "Teacher at Sea Alumni Spotlight",
+   "https://teacheratsea.files.wordpress.com/2015/08/laura-and-sam.jpg",
+   "#alumni_spotlight",
+   "Dr. Laura Guertin and Ret. Rear Admiral Sam DeBow at the Smithsonian Expert is In",
+   "08/26/2015",
+   "ALUMNI"
+  ],
+  [
+   "183",
+   "Did You Know?: Year in Review",
+   "https://teacheratsea.files.wordpress.com/2016/01/dyk.jpg",
+   "/TopTen/top-ten-dyk-2015.html",
+   "Click here to see the top 10 Did You Knows of 2015!",
+   "01/07/2016",
+   "DYK"
+  ],
+  [
+   "184",
+   "Photo of the Week: Year in Review",
+   "https://teacheratsea.files.wordpress.com/2016/01/pow.jpg",
+   "/TopTen/top-ten-pow-2015.html",
+   "Click here to see the top 10 Photos of the Week of 2015!",
+   "01/06/2016",
+   "POW"
+  ],
+  [
+   "185",
+   "WordPress Blog: Year in Review",
+   "https://teacheratsea.files.wordpress.com/2016/01/wp.jpg",
+   "/TopTen/top-ten-wp-2015.html",
+   "Click here to see the top 10 Blog Posts of 2015!",
+   "01/05/2016",
+   "POW"
+  ]
+ ]
+}

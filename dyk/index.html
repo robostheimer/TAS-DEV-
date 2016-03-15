@@ -1,0 +1,1285 @@
+<!DOCTYPE html>
+<html class="no-js"><head>
+<meta charset="utf-8">
+
+<meta name="viewport" content="initial-scale=1">
+<script tpe="text/javascript" src="../Scripts/jquery-1.7.1.js">
+</script>
+<script type="text/javascript" src="../Scripts/jquery.history.js"></script>
+<script type="text/javascript" src="../Scripts/jgestures.min.js"></script>
+<script src="../Scripts/overthrow.js"></script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35055349-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAX7RDYm6KK3MO-3NicHWLwBTafHuuk0qh40iy4xjG_CO_uXzXNxRsX8FDzCSKbiHHFKxs7pqRAaXLVQ">
+
+</script>
+
+<script type="text/javascript"> 
+google.load('feeds', '1', {'nocss' : 1}) 
+</script>
+
+
+    
+<script type="text/javascript" src="../Scripts/changeClass.js"></script>
+<script type="text/javascript" src="../Scripts/localStorage.js"></script>
+<script type="text/javascript"  src="../Scripts/jquery-ui.min.js"></script>
+<script type="text/javascript" src="../Scripts/jquery.easing.1.3.min.js"></script>
+<script type="text/javascript" src="../Scripts/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="../Scripts/dyk.js"></script> 
+<script type="text/javascript" src="../Scripts/rss_parser_dyk_search.js"></script> 
+<script type="text/javascript" src="../Scripts/jpreloader.js"></script> 
+<script type="text/javascript" src="/js/prototypes.js"></script> 
+
+
+<style>
+
+
+body {
+
+	overflow:visible;
+	width:100%;
+
+	margin: auto;
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	/*background:url(../images/bg1.jpg) center left;*/
+	background:url(../images/bg7.png);
+	background-repeat:repeat;
+	
+	color:#333333
+
+
+
+
+
+	
+	}#jpreOverlay, #qLoverlay {
+   background-image:url(../images/bg7.png);
+    width:100%;
+    height:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:11;
+}
+
+#jpreSlide {
+    font-size:22px;
+    font-weight:700;
+    color:#FFF;
+    text-align:center;
+    width:100%;
+}
+
+#jpreLoader, #qLloader {
+    width:440px;
+    height:287px;
+   /* background:url('..../images/loader_logo.jpg') 0 100% no-repeat;*/
+    position:fixed;
+    top:43%;
+    left:50%;
+    margin-left:0px;
+    margin-top: -300px;
+
+}
+
+#jpreBar, #qLbar {
+    width:220px;
+    height:0;
+    position:absolute;
+	top:26%;
+    bottom:0;
+
+    background:url('../images/dyk/dyk_logo.png') 100px 100% no-repeat;
+	opacity:0;
+}
+
+#jprePercentage, #qLpercentage {
+    color:#888;
+	width:220px;
+    position:relative;
+    margin-top: 40px;
+	display:none;
+	
+}
+
+::-webkit-scrollbar {
+      width: 10px;
+	  padding:0px;
+} /* this targets the default scrollbar (compulsory) */
+
+::-webkit-scrollbar-track {
+      background-color: none;
+} /* the new scrollbar will have a flat appearance with the set background color */
+::-webkit-scrollbar-thumb {
+      background-color: #eeeeee;
+	  opacity:.1;
+} /* this will style the thumb, ignoring the track */
+::-webkit-scrollbar-thumb:hover {
+      background-color: rgba(0, 0, 0, 0.2);
+	  opacity:.8
+}
+#bigImg
+{
+	background:#fff;
+	z-index:90000;
+	padding:30px;
+	position:absolute;
+	display: none;
+	margin-left:125px;
+	border: 1px solid #ccc;
+	margin-top: 80px;
+	margin-bottom:30px;
+	max-width: 750px;
+	-moz-box-shadow: 5px 5px 5px #ccc;
+	-webkit-box-shadow: 5px 5px 5px #ccc;
+	box-shadow: 5px 5px 5px #ccc;
+
+	
+	}
+
+#bigImg2
+{
+	background:#fff;
+	z-index:90001;
+	padding:30px;
+	position:absolute;
+	display: none;
+	margin-left:125px;
+	border: 1px solid #ccc;
+	margin-top: 130px;
+	max-width: 750px;
+	margin-top: 80px;
+	margin-bottom:25px;
+	-moz-box-shadow: 5px 5px 5px #ccc;
+	-webkit-box-shadow: 5px 5px 5px #ccc;
+	box-shadow: 5px 5px 5px #ccc;
+
+	}
+
+#bigImg3
+{
+	background:#fff;
+	z-index:90001;
+	padding:30px;
+	position:absolute;
+	display: none;
+	margin-left:125px;
+	border: 1px solid #ccc;
+	margin-top: 130px;
+	max-width: 750px;
+	margin-top: 80px;
+	margin-bottom:25px;
+	-moz-box-shadow: 5px 5px 5px #ccc;
+	-webkit-box-shadow: 5px 5px 5px #ccc;
+	box-shadow: 5px 5px 5px #ccc;
+
+	}
+a{font-size:12px; text-decoration:none;}
+arrow, .arrow_open{
+	margin-top:28px;
+	border:none;
+	margin-left:10px; 
+	}
+#footer{
+	font-size: 12px;
+	color: #999;
+	margin-bottom:10px;
+	width:100%
+}
+
+#footer h3{color:#999999; font-size:12px;}
+#footer a {
+	margin-left: 3px;
+	margin-right: 3px;
+	font-size:12px
+}
+
+#footer a:link {
+	color: #189E81;
+}
+#footer a:visited {
+	color: #189E81;
+}
+#footer a:hover {
+	color: #ECBD00;
+}
+#footer div.footer_box{border-right:1px solid #ccc;margin-left:30px; float:left;padding-right:20px; width:190px;}
+a.gotolink{color:#0057a5}
+
+.search_favorite_image_on{position:absolute;padding-left:5px; padding-top:0px; top:0px; z-index:199999999;}
+.search_favorite_image_off{position:absolute;margin-left:-200px; z-index:19999999;}
+
+/* Overthrow CSS:
+   Enable overflow: auto on elements with overthrow class when html element has overthrow class too */
+.overthrow-enabled .overthrow {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+@font-face {
+   font-family: 'abeatbykairegular';
+    src: url('/Infographics/css/fonts/abeatbykairegular-webfont.eot');
+    src: url('/Infographics/css/fonts/abeatbykairegular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/Infographics/css/fonts/abeatbykairegular-webfont.woff') format('woff'),
+         url('/Infographics/css/fonts/abeatbykairegular-webfont.ttf') format('truetype'),
+         url('/Infographics/css/fonts/abeatbykairegular-webfont.svg#abeatbykairegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face{
+    font-family: 'centurygothic';
+    src: url('/Infographics/css/fonts/gothic.eot');
+    src: url('/Infographics/css/fonts/gothic.eot?#iefix') format('embedded-opentype'),
+         url('/Infographics/css/fonts/gothic.woff') format('woff'),
+         url('/Infographics/css/fonts/gothic.ttf') format('truetype'),
+         url('/Infographics/css/fonts/gothic.svg#gothic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+   font-family: 'DYK';
+    src: url('/Infographics/css/fonts/DYK.eot');
+    src: url('/Infographics/css/fonts/DYK.eot?#iefix') format('embedded-opentype'),
+         url('/Infographics/css/fonts/DYK.woff') format('woff'),
+         url('/Infographics/css/fonts/DYK.ttf') format('truetype'),
+         url('/Infographics/css/fonts/DYK.svg#DYK') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.fontface .header div.text{ font-family:'abeatbyKaiRegular'; font-size:2em }
+
+.fontface .header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;}
+.fontface .header div.subtext{
+	font-family:'centurygothic',san-serif;
+	color:#189E81;
+	margin-bottom: 10px;
+}
+ .header div.icon{
+	font-family:'DYK', san-serif;
+	float:left;
+	color:#0057a5;
+	background-image:url(../images/dyk/dyk_logo_120.png);width:120px; height:120px;
+	background-repeat:no-repeat;
+
+}
+.fontace.header div.whaler{
+	font-family:'DYK', san-serif;
+	position: absolute;
+	color:white;
+}
+.no-fontface .header div.icon {background:url(../images/dyk_logo_120.png);width:120px; height:120px;
+	background-repeat:no-repeat;}
+.no-fontface .header div.whaler{display:none;}
+.no-fontface .header .text-container{display:none;}
+
+ /*Use the following CSS code if you want to use data attributes for inserting your icons */
+[data-icon]:before {
+	font-family: 'DYK';
+	content: attr(data-icon);
+	speak: none;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+ br{margin-bottom:3px}
+.header{ width:100%; background:#EBFAF7;font-family:'DYK', Arial, Helvetica, sans-serif;color:#0057a5;position:fixed;top:0px;z-index:10000; border:1px solid #ccc; box-shadow: 5px 5px 30px #ccc}
+
+.header .header_contain{width:800px;margin:auto;})
+.header .header_contain{})
+.header div.icon{float:left;background-image:url(../images/dyk/dyk_logo_120.png) })
+.header div.whaler{ position:absolute;})
+.header .textcontainer{float:left;})
+.header div.text{color:#0057a5;})
+.header div.subtext{color:#189E81;})
+.header .links{display:none;float:left; color:#189E81;})
+.header .links ul li a{float:left; list-style-type:none;})
+.header .drop{font-size: 1.6em;
+    margin: 0.8em;
+    padding: 20px; }
+.header .drop div{float:left }
+
+.header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;}
+.header div.subtext{
+	font-family:'centurygothic',san-serif;
+	color:#189E81;
+	margin-bottom: 10px;
+}
+.header div.icon{
+	font-family:'DYK', san-serif;
+	float:left;
+	color:#0057a5;
+	background-image:url(../images/dyk/dyk_logo_120.png)
+	width:120px; height:120px;
+	background-repeat:no-repeat;
+}
+.header div.whaler{
+	font-family:'DYK', san-serif;
+	position: absolute;
+	color:white;
+	
+}
+
+
+.column{margin: 30px 25px 20px 0;width: 172px})
+.square{width:172px; margin:7px; border-radius:1.5px; border-width:3px})
+.square_text{width:180px;  border-radius:3px;border-width:5px;min-height: 509px})		
+.square_text p{width:300px;font-size:1.1em; margin-top:10px;margin-left:15px ; background:none;})
+.square_text .social{width:300px;font-size: 1.1em; margin-top:15px; margin-left:15px })
+.square_text h3{font-size:1.4em;margin-top:15px;margin-left:15px})
+.square_text a{text-deocration:none; color:#0057a5;;font-size:1.1em;margin-top:15px})
+
+.social{background-color:white;}
+
+.square_text div{overflow:hidden})
+
+div.fb {cursor:pointer;float:left; background-position: 0 0;height:24px;margin-right: 2px;width:22px; background-repeat:no-repeat; margin-left:2px; margin-bottom:10px})
+div.tw{cursor:pointer;float:left;width:22px;height:24px;background-position:-24px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px})
+div.g{cursor:pointer;float:left;width:22px;height:24px;background-position:-51px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px})
+div pi {cursor:pointer;float:left;width:22px;height:24px; background-position:-79px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px})
+div.tu{cursor:pointer;float:left;width:22px; height:24px; background-position:-104px 0;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px})
+.green_icon{background-image: url(../images/dyk/sprites_green_125.png)})
+.blue_icon{background-image: url(../images/dyk/sprites_blue_125.png)})
+
+div.fb:hover {background-position: 0 -37px})
+div.tw:hover{background-position:-24px -37px})
+div.g:hover{background-position:-51px -37px})
+div pi:hover{background-position:-79px -37px})
+div.tu:hover{background-position:-104px -37px})
+
+
+
+#feature{display:inline;}
+
+
+
+
+.square{overflow:hidden; cursor:pointer;float:left;display:inline;position:relative ; top:0px; right;0px; left:0px; bottom:0px;}
+.square_text{z-index:1000;float:left;display:inline;z-index:1000;}
+.blue_square {border-style:solid;border-color: #0057a5;background:#0057a5; }
+.green_square {border-style:solid;border-color: #189E81;background:#189E81; }
+.blue_text {border-style:solid;border-color: #0057a5;background:#EBFAF7; margin-top:20px; overflow:hidden; cursor:pointer;box-shadow: 15px 15px 50px #444444;z-index:10}
+.green_text {border-style:solid;border-color: #189E81;background:#FFF8DF; ; overflow:hidden; cursor:pointer;box-shadow: 15px 15px 50px #444444;z-index:10}
+.on {display:block; opacity:1}
+.off {display:none; }
+.blue_text ul,.green_text ul{padding:0; margin:0}
+.square_blue_text ul li, .square_green_text ul li{list-style-type:none; display:inline}
+
+
+
+/*.square_blue_text div{padding:2%}
+.square_green_text div{padding:2%}*/
+.blue_text h3{color:#0057a5; font-family:abeatbyKaiRegular;text-align:justify;font-weight:normal;}
+.green_text h3{color:#189E81;font-family:abeatbyKaiRegular;font-weight:normal;}
+.blue_text p{ font-family:'centurygothic',sans-serif;}
+.green_text p{font-family:'centurygothic',sans-serif;}
+
+
+.hiddenText{margin:10px;margin-top:0px; color:white;margin-bottom:10px}
+.hiddenDiv{float:left;position:absolute;}
+
+/*a .dyk{color:#FFF8DF}*/
+
+no.font-face{font-family:Arial, Helvetica, sans-serif}t
+
+#col0{float:left;}
+#col2{float:left;}
+#col3{float:left;}
+#col1{float:left;}  
+
+/*.hiddenDiv a{color:#189E81 }*/
+
+div .hiddenDiv div.hidden div.infobox{z-index:8999;position:absolute;top:0px; left:0px; }
+
+div.hiddenDiv, div.info, div.hiddenDiv div.share, div.hiddenDiv div.pdf, div.favorite, {cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 2.5em;opacity:.75;z-index:7000}
+div.hiddenDiv div.info{background-image:url(../images/dyk/info_btn_blue.png); width:38px; height:38px; background-repeat:no-repeat;}
+div.hiddenDiv div.share{background-image:url(../images/dyk/share.png);width:38px; height:38px; background-repeat:no-repeat;;} 
+div.hiddenDiv div.pdf{background-image:url(../images/dyk/pdf.png); width:38px; height:38px; background-repeat:no-repeat;} 
+div.favorite{background-image:url(../images/dyk/favorite_lt_blue.png);width:38px; height:38px; background-repeat:no-repeat;}
+
+
+
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5; cursor:pointer}
+div.lessons{font-family:'Lessons'}
+
+div.home:hover, div.favorite_nav:hover, div.search:hover, div.lessons:hover{color:#ECBD00}
+div.hiddenDiv a div.info:hover,div.hiddenDiv div.share:hover,div.hiddenDiv div.pdf:hover, div.favorite:hover {color:#FFF8DF;opacity:1}
+
+div.hiddenDiv div.share{position:absolute;top:60px; left:10px;}
+
+div.hiddenDiv div.pdf{position:absolute;top:110px; left:10px;}
+div.favorite{position:absolute;top:160px; left:10px;}
+
+div.hiddenDiv div.share div div.blue_icon{display:block}
+
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 1.5em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv a div.info-on:hover{opacity:1;color:#FFF8DF}
+
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc;z-index:8999; overflow-x:none;}
+div.hiddenDiv div.hidden div.infobox div.info-text div.scroller{margin:20px;padding:10px;display:none;}
+div.hiddenDiv div.hidden div.infobox div.info-text div div.otherpost, div.hiddenDiv div.hidden div.infobox div.info-text div div.otherimage{margin:0px;padding:0px; margin-top:5px;overflow:visible;}
+
+.hiddenDiv a div.close{background-image:url(../images/dyk/close_btn_blue.png);height:20px; width:20px; background-repeat:no-repeat;position:absolute;top:5px; right:5px;}
+.hiddenDiv a div.close:hover{color:#FFF8DF;opacity:1}
+
+div.close_tn{position:absolute;top:5px; right:20px;color:#EBFAF7; background-image:z-index:1001100;padding:2px;}
+div.close_tn:hover{color:#FFF8DF;opacity:1}
+
+div.close_tn{ background-image:url(../images/dyk/close_btn_bluedk_sm.png); padding-right:5px;height:12px; background-repeat:no-repeat; width:12px;cursor:pointer; display:block;}
+
+
+
+div.close_tn:hover{color:#FFF8DF;opacity:1; display:block;}
+
+.hiddenDiv:hover a div.close{color:#EBFAF7; z-index: 7001}
+.hiddenDiv:hover a div.info{color:#EBFAF7; }
+.hiddenDiv a div.close:hover{color:#FFF8DF;opacity:1}
+.hiddenDiv a div.leftarrow{position:absolute; width:5%; left: 0%; background-image:url(../images/dyk/right_arrow_blue.png);background-repeat:no-repeat; background-position:center;}
+
+.hiddenDiv a div.rightarrow{position:absolute;top:30px; right:0%;height:100%;width:5%; background-image:url(../images/dyk/left_arrow_blue.png); background-repeat:no-repeat;background-position:center;}
+.hiddenDiv a div.leftarrow div {position:relative;top:40%;left:5%;}
+.hiddenDiv a div.rightarrow div{position:relative;top:40%;right:5%;}
+.hiddenDiv a:hover div.leftarrow, .hiddenDiv a:hover div.rightarrow{opacity:.75}
+.hidden img.bigimg{box-shadow:15px 15px 50px #444444}
+.otherimage div img{z-index:90000000;}
+#favorites_holder{display:none;}
+#search_holder{display:none;}
+#thumbnails, #presearch{ box-shadow: 5px 5px 30px #999}
+#presearch {position:absolute; right:0px} 
+#thumbnails_open_btn, #presearch_open_btn{display:block; position:fixed; top:50%; padding:5px; background:#EBFAF7; padding: 10px;z-index:30000000; cursor:pointer}
+#presearch_open_btn{right:0px;}
+#thumbnails_close_btn, #presearch_close_btn{display:block; position:fixed; top:50%;  background:#EBFAF7; padding: 10px; display:none;z-index:30000000;cursor:pointer}
+#presearch_close_btn{right:0px;}
+.presearch_icon{padding:10px; padding-left:15px;}
+#settings_open_btn div{display:block; position:fixed;  top:10px; right:10px;z-index:30000000}
+#settings_open_btn div.settings_open{display:none;background:#EBFAF7; border: 1px solid #ffffff; box-shadow: 5px 5px 30px #999; width:30%; }
+#settings_open_btn div.settings_open div{position:static;padding:3px; border dotted #ffffff; }
+#settings_open_btn div.settings_open div.close_tn{padding:5px;position:absolute; right: 10px;font-size:13px}
+#settings_open_btn div.settings_open div a{color:#0057a5}
+#settings_open_btn div.settings_open div a:visited{color:#0057a5}
+
+#settings_open_btn div.settings_open div:hover{ background:#189E81}
+#settings_open_btn div.settings_open div:hover a{color:#ffffff;}
+#settings_open_btn div.settings_open div.close_tn:hover, #settings_open_btn div.settings_open div.closeme:hover{background:none;}
+
+
+
+
+@media screen and  (min-width:1600px) {	
+#dyk_squares{width:1350px; margin:auto; }
+.header .header_contain{width:1350px;}
+.header .header_contain{margin-top:.5em; margin-bottom:1em;width:1350px;}
+.header div.icon{float:left; font-size:9em; margin-right:.1em}
+.header div.whaler{font-size:5.5em;padding: .05em;padding-right:.1em; padding-left:.1em; top:.39em; margin-left:.05em}
+.header .textcontainer{float:left;margin-top:2em;margin-right:2em; margin-left:2em;}
+.fontface .header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;font-size:3em;}
+.fontface .header div.subtext{font-family:'centurygothic',san-serif; color:#189E81;font-size:1.5em;}
+.fontface .header .links{float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:6.5em;}
+.header .links{display:none;float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links ul li a{float:left; list-style-type:none;margin:2.2em;font-size:1.3em}
+.header .drop{ font-size:2.2em; margin:.8em;  }
+.header .drop div div{display:block; float:left;padding-left:30px;}
+
+.header .drop:hover div div{display:block; }
+
+.header .drop:hover {color::#189E81;}
+.header .drop .sitefield{width:18em;margin-top:10px;}
+.header .drop .searchimage{margin-top:10px;}
+
+.header .searchBox{float:right; ;padding:10px; padding-top:0px;}
+
+.square{width:300px;height:200px;   border-radius:1.5px; border-width: 3px}
+.square_text{width:315px; margin:25px; border-radius:3px;border-width:5px;min-height:771px;}		
+.square_text p{width:600px;font-size:1.7em; margin-top:10px;margin-left:15px; }
+.square_text .social{width:600px;font-size:1.7em; margin-top:15px; margin-left:15px }
+.square_text h3{font-size:1.9em;margin-top:15px;margin-left:15px}
+.square_text a{text-deocration:none; color:#0057a5;;font-size:.9em;margin-top:15px;}
+
+		
+.square_text div{overflow:hidden}
+div.fb {cursor:pointer;float:left;background-position: 0 0;height: 24px;margin-right: 5px;width:26px; background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div.tw{cursor:pointer;float:left;width:26px;height:24px;background-position:-29px 0;margin-right:5px;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div.g{cursor:pointer;float:left;width:26px;height:24px;background-position:-60px 0;margin-right:5px;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div .pi{float:left;width:26px;height:24px; background-position:-95px 0;margin-right:5px;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div.tu{cursor:pointer;float:left;width:26px; height:24px; background-position:-126px 0;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+
+.green_icon{background-image: url(../images/dyk/sprites_green_150.png);}
+.blue_icon{background-image: url(../images/dyk/sprites_blue_150.png);}
+
+
+
+div.fb:hover {background-position: 0 -45px}
+div.tw:hover{background-position:-29px -45px;}
+div.g:hover{background-position:-61px -45px;}
+div .pi:hover{background-position:-95px -45px;}
+div.tu:hover{background-position:-126px -45px;}
+
+#thumbnail_arrow-left, #thumbnail_arrow-right {font-size:22px}	
+div.close_tn{font-size:18px;}
+
+div.hiddenDiv a div.info, div.hiddenDiv div.share, div.hiddenDiv div.pdf, div.favorite{cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 2.6em;opacity:.75;z-index:7000;display:none;}
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5;font-size: 2.8em;}
+div.hiddenDiv div.share{position:absolute;top:60px; left:10px;}
+div.hiddenDiv div.pdf{position:absolute;top:110px; left:10px;}
+div.favorite{position:absolute;top:160px; left:10px;}
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 2.3em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc; font-size:1.2em;}
+div.hiddenDiv div.hidden div.infobox div.info-text a{font-size:1.0em;color:0057a5;}
+div.hiddenDiv div.hidden div.infobox div.info-text h6{font-size:1.1em;}
+
+.hiddenDiv a div.close{position:absolute;top:5px; right:5px;color:#EBFAF7; font-size: 1.5em;opacity:.85}
+.hiddenDiv a div.leftarrow{position:absolute; font-size:3em;top:40px; left: 0%;color:#EBFAF7;opacity:.1; height:100%;cursor:pointer;width:5%;margin-left:3%;}
+.hiddenDiv a div.rightarrow{position:absolute;font-size:3em;top:40px; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5%;}
+#thumbnails_open{margin-left:12px;}	
+#thumbnails, #presearch{padding-top:10px; padding-bottom:10px;width:166px;  z-index: 200000; position:fixed;cursor:pointer; display:none}
+#presearch{right:0px}
+#thumbnails_open{width:150px;}
+
+div.home{background-image:url(../images/dyk/home_blue_45.png); width:45px; height:45px; background-repeat:no-repeat;}
+div.favorite_nav{background-image:url(../images/dyk/star_blue_45.png); width:45px; height:45px; background-repeat:no-repeat;}
+div.searcher, div.search{background-image:url(../images/dyk/search_blue_45.png); width:45px; height:45px; background-repeat:no-repeat;}
+div.settings{background-image:url(../images/dyk/settings_blue_45.png); width:45px; height:45px; background-repeat:no-repeat;}
+div.lessons{background-image:url(../images/dyk/chalk_blue_45.png); width:45px; height:45px; background-repeat:no-repeat;}
+
+
+div.home:hover{background-image:url(../images/dyk/home_orange_45.png);  background-repeat:no-repeat;}
+div.favorite_nav:hover{background-image:url(../images/dyk/star_orange_45.png);  background-repeat:no-repeat;}
+div.searcher:hover, div.search:hover{background-image:url(../images/dyk/search_orange_45.png);  background-repeat:no-repeat;}
+div.lessons:hover{background-image:url(../images/dyk/chalk_orange_45.png); background-repeat:no-repeat;}
+
+
+
+}
+
+
+
+@media screen and (max-width:1599px) and (min-width: 1200px) {	
+#dyk_squares{width:950px; margin:auto; }
+.header .header_contain{width:950px;}
+.header .header_contain{margin-top:.5em; margin-bottom:1em;}
+.header div.icon{float:left; font-size:8em; margin-right:.1em; background-image:url(../images/dyk/dyk_logo_110.png); width:110px; height:110px;}
+.header div.whaler{font-size:4.5em;padding: .05em;padding-right:.1em; padding-left:.1em; top:.47em; margin-left:.1em}
+.header .textcontainer{float:left;margin-top:2em;margin-right:2em; margin-left:1.25em;}
+.fontface .header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;font-size:2.5em;}
+.fontface .header div.subtext{font-family:'centurygothic',san-serif; color:#189E81;font-size:1.5em;}
+.fontface .header .links{float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:6.5em;}
+.header .links{display:none;float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links ul li a{float:left; list-style-type:none;margin:2em;font-size:1.3em}
+.header .drop{ font-size:2em; margin:.8em;  }
+.header .drop div div{display:block; float:left;padding:15px;}
+
+.header .drop:hover div div{display:block; }
+
+.header .drop:hover {color::#189E81;}	
+.header .drop .searchimage{margin-top:10px;}
+
+.header .searchBox{float:right; ;padding:10px; padding-top:0px;}
+
+.column {margin: 30px 0px 0px 0;width: 225px;}
+.square{width:210px;height:140px;  border-radius:1.5px; border-width: 3px}
+.square_text{width:215px; margin:20px; border-radius:3px;border-width:5px;min-height:663px}		
+.square_text p{width:410px;font-size:1.6em; margin-top:10px;margin-left:15px }
+.square_text .social{width:410px;font-size:1.6em; margin-top:15px; margin-left:15px }
+.square_text h3{font-size:1.8em;margin-top:15px;margin-left:15px}
+.square_text a{text-deocration:none; color:#0057a5;;font-size:1.0em;margin-top:15px;}
+
+		
+.square_text div{overflow:hidden}
+div.fb {cursor:pointer;float:left;background-position: 0 0;height: 24px;margin-right: 5px;width:26px; background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div.tw{cursor:pointer;float:left;width:26px;height:24px;background-position:-29px 0;margin-right:5px;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div.g{cursor:pointer;float:left;width:26px;height:24px;background-position:-60px 0;margin-right:5px;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div .pi{float:left;width:26px;height:24px; background-position:-95px 0;margin-right:5px;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+div.tu{cursor:pointer;float:left;width:26px; height:24px; background-position:-126px 0;background-repeat:no-repeat; margin-left:5px; margin-bottom:10px}
+
+.green_icon{background-image: url(../images/dyk/sprites_green_150.png);}
+.blue_icon{background-image: url(../images/dyk/sprites_blue_150.png);}
+
+
+
+div.fb:hover {background-position: 0 -45px}
+div.tw:hover{background-position:-29px -45px;}
+div.g:hover{background-position:-61px -45px;}
+div .pi:hover{background-position:-95px -45px;}
+div.tu:hover{background-position:-126px -45px;}
+#thumbnail_arrow-left, #thumbnail_arrow-right {font-size:20px}	
+div.close_tn{font-size:17px;}
+
+div.hiddenDiv a div.info, div.hiddenDiv div.share,div.hiddenDiv div.pdf, div.favorite{cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 2.4em;opacity:.75;z-index:7000;display:none;}
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5;font-size: 2.6em;}
+
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 2.2em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc; font-size:1.0em;}
+div.hiddenDiv div.share{position:absolute;top:55px; left:10px;}
+div.hiddenDiv div.pdf{position:absolute;top:100px; left:10px;}
+div.favorite{position:absolute;top:145px; left:10px;}
+
+.hiddenDiv a div.close{position:absolute;top:5px; right:5px;color:#EBFAF7; font-size: 1.3em;opacity:.85}
+.hiddenDiv a div.leftarrow{position:absolute; font-size:2.5em;top:40px; left: 0%;color:#EBFAF7;opacity:.1; height:100%;cursor:pointer;width:5%;margin-left:3%;}
+.hiddenDiv a div.rightarrow{position:absolute;font-size:2.5em;top:40px; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5%;}
+#thumbnails_open{margin-left:12px;}	
+#thumbnails, #presearch{padding-top:10px; padding-bottom:10px;width:147px;   z-index: 200000; position:fixed;cursor:pointer; display:none}
+#thumbnails_open{width:125px}
+.presearch_icon{padding:10px; padding-left:15px;}
+div.home{background-image:url(../images/dyk/home_blue_40.png); width:40px; height:40px; background-repeat:no-repeat;}
+div.favorite_nav{background-image:url(../images/dyk/star_blue_40.png); width:40px; height:40px; background-repeat:no-repeat;}
+div.searcher, div.search{background-image:url(../images/dyk/search_blue_40.png); width:40px; height:40px; background-repeat:no-repeat;}
+div.settings{background-image:url(../images/dyk/settings_blue_40.png); width:40px; height:40px; background-repeat:no-repeat;}
+div.lessons{background-image:url(../images/dyk/chalk_blue_40.png); width:40px; height:40px; background-repeat:no-repeat;}
+
+
+div.home:hover{background-image:url(../images/dyk/home_orange_40.png);  background-repeat:no-repeat;}
+div.favorite_nav:hover{background-image:url(../images/dyk/star_orange_40.png);  background-repeat:no-repeat;}
+div.searcher:hover, div.search:hover{background-image:url(../images/dyk/search_orange_40.png);  background-repeat:no-repeat;}
+div.lessons:hover{background-image:url(../images/dyk/chalk_orange_40.png); background-repeat:no-repeat;}
+
+.header .drop div div.searcher{
+position: absolute;
+margin-left: 195px;
+margin-top: 55px;
+}
+
+.header .drop .sitefield{
+width: 200px;
+margin-top: 10px;
+margin-left: -235px;
+position: absolute;
+top: 90px;
+
+}
+
+}
+
+@media screen and (max-width: 1199px) and (min-width: 920px)  {	
+
+.search_favorite_image_on{position:absolute;z-index:1999999999999;}
+.search_favorite_image_off{position:absolute;z-index:1999999999999;}
+
+#dyk_squares{width:800px; margin:auto; }
+.header .header_contain{width:800px;}
+.header .header_contain{margin-top:.5em; margin-bottom:1em;}
+.header div.icon{float:left; font-size:7em; margin-right:.005em; background-image:url(../images/dyk/dyk_logo_100.png); width:100px; height:100px;}
+.header div.whaler{font-size:4em;padding: .05em;padding-right:.1em; padding-left:.1em;top:.42em; margin-left:.1em}
+.header .textcontainer{float:left;margin-top:2.2em;margin-right:2em; margin-left:1.2em;}
+.fontface .header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;font-size:2.0em;}
+.fontface .header div.subtext{font-family:'centurygothic',san-serif; color:#189E81;font-size:1.0em;}
+.fontface .header .links{float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links{display:none;float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links ul li a{float:left; list-style-type:none;margin:1.8em;font-size:.1.1em}
+.header .drop{ font-size:1.6em; margin:.8em; padding:20px;  }
+.header .drop div div{display:block; float:left;padding-left:10px;}
+
+.header .drop:hover div div{display:block; }
+
+.header .drop:hover {color::#189E81;}
+.header .drop .searchimage{margin-top:10px;}
+
+.header .drop:hover {color::#189E81;}
+.header .searchBox{float:right; ;padding:10px; padding-top:0px;}
+
+.column{margin: 30px 25px 20px 0; width: 172px;}
+.square{width:172px;height:116px;   border-radius:1.5px; border-width: 3px}
+.square_text{width:180px; margin:20px; border-radius:3px;border-width:5px;max-height:0px;min-height:509px;}		
+.square_text p{font-size:1.1em; width:300px; margin-top:10px;margin-left:15px }
+.square_text .social{width:300px;font-size: 1.1em; margin-top:15px; margin-left:15px }
+.square_text h3{font-size:1.4em;margin-top:15px;margin-left:15px}
+.square_text a{text-deocration:none; color:#0057a5;;font-size:1.1em;margin-top:15px;}
+
+
+
+.square_text div{overflow:hidden;}
+
+div.fb {cursor:pointer;float:left; background-position: 0 0;height: 24px;margin-right: 2px;width:22px; background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div.tw{cursor:pointer;float:left;width:22px;height:24px;background-position:-24px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div.g{cursor:pointer;float:left;width:22px;height:24px;background-position:-51px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div .pi{float:left;width:22px;height:24px; background-position:-79px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div.tu{cursor:pointer;float:left;width:22px; height:24px; background-position:-104px 0;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+.green_icon{background-image: url(../images/dyk/sprites_green_125.png);}
+.blue_icon{background-image: url(../images/dyk/sprites_blue_125.png);}
+
+div.fb:hover {background-position: 0 -37px}
+div.tw:hover{background-position:-24px -37px;}
+div.g:hover{background-position:-51px -37px;}
+div .pi:hover{background-position:-79px -37px;}
+div.tu:hover{background-position:-104px -37px;}
+#thumbnail_arrow-left, #thumbnail_arrow-right {font-size:18px}	
+div.close_tn{font-size:15px;}
+
+
+div.hiddenDiv a div.info, div.hiddenDiv div.share,div.hiddenDiv div.pdf, div.favorite{cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 2.2em;opacity:.75;z-index:7000;display:none;}
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5;font-size: 2.4em;}
+
+div.hiddenDiv div.share{position:absolute;top:52px; left:10px;}
+div.hiddenDiv div.pdf{position:absolute;top:94px; left:10px;}
+div.favorite{position:absolute;top:136px; left:10px;}
+
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 2.0em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc; font-size:1.0em;}
+.hiddenDiv a div.close{position:absolute;top:5px; right:5px;color:#EBFAF7; font-size: 1.3em;opacity:.85}
+.hiddenDiv a div.leftarrow{position:absolute; font-size:2.4em;top:40px; left: 0%;color:#EBFAF7;opacity:.1; height:100%;cursor:pointer;width:5%;margin-left:3.5%}
+.hiddenDiv a div.rightarrow{position:absolute;font-size:2.4em;top:40px; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5%;}
+#thumbnails_open{margin-left:12px;}	
+#thumbnails, #presearch{padding-top:10px; padding-bottom:10px;width:130px;  z-index: 200000; position:fixed;cursor:pointer; display:none}
+#thumbnails_open{width:110px}
+
+div.home{background-image:url(../images/dyk/home_blue_35.png); width:35px; height:35px; background-repeat:no-repeat;}
+div.favorite_nav{background-image:url(../images/dyk/star_blue_35.png); width:35px; height:35px; background-repeat:no-repeat;}
+div.searcher, div.search{background-image:url(../images/dyk/search_blue_35.png); width:35px; height:35px; background-repeat:no-repeat;}
+div.settings{background-image:url(../images/dyk/settings_blue_35.png); width:35px; height:35px; background-repeat:no-repeat;}
+div.lessons{background-image:url(../images/dyk/chalk_blue_35.png); width:35px; height:35px; background-repeat:no-repeat;}
+
+
+div.home:hover{background-image:url(../images/dyk/home_orange_35.png);  background-repeat:no-repeat;}
+div.favorite_nav:hover{background-image:url(../images/dyk/star_orange_35.png);  background-repeat:no-repeat;}
+div.searcher:hover, div.search:hover{background-image:url(../images/dyk/search_orange_35.png);  background-repeat:no-repeat;}
+div.lessons:hover{background-image:url(../images/dyk/chalk_orange_35.png); width:35px; height:35px; background-repeat:no-repeat;}
+
+.header .drop div div.searcher{
+position: absolute;
+margin-left: 155px;
+margin-top: 28px;
+}
+
+.header .drop .sitefield{
+width: 200px;
+margin-top: 10px;
+margin-left: -195px;
+position: absolute;
+top: 70px;
+
+
+}
+}
+@media screen and  (max-width: 919px) and (min-width: 700px)  {	
+
+.search_favorite_image_on{position:absolute;z-index:1999999999999;}
+.search_favorite_image_off{position:absolute;z-index:1999999999999;}
+
+#dyk_squares{width:575px; margin:auto; }
+
+.header .header_contain{width:575px;}
+.header div.icon{float:left; font-size:6em; margin-right:.005em; background-image:url(../images/dyk/dyk_logo_80.png); width:80px; height:80px;}
+.header div.whaler{font-size:3.5em;padding: .05em;padding-right:.1em; padding-left:.1em; top:.2em; margin-left:.1em}
+.header .textcontainer{float:left;margin-top:1.5em;margin-right:2em; margin-left:1.2em;}
+.fontface .header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;font-size:2.0em;}
+.fontface .header div.subtext{font-family:'centurygothic',san-serif; color:#189E81;font-size:1.0em;}
+.header .links{display:none;float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links ul li a{float:left; list-style-type:none;margin:1.5em;font-size:.9em}
+.header .drop{font-size:1.4em; margin:.2em; padding:25px;  }
+
+.header .drop div div{display:block; float:left;padding-left:10px;}
+.header .drop .sitefield{position:absolute; width:120px;top:55px;margin-left:-120px;}
+.header .drop .searchimage{margin-top:10px;}
+
+
+.header .drop:hover {color::#189E81;}
+.header .searchBox{float:right; ;padding:10px; padding-top:0px;}
+
+.column{    margin: 30px 14px 13px 0;
+    width: 113px;}
+.square {
+    border-radius: 1.5px 1.5px 1.5px 1.5px;
+    border-width: 3px;
+    width: 125px;
+	height:83px;
+}
+.square_text{width:123px; margin:20px; border-radius:3px;border-width:3px;min-height:389px;}		
+.square_text p{width:215px;font-size:.95em; margin-top:7px;margin-left:10px }
+.square_text .social{width:215px;font-size: .95em; margin-top:15px; margin-left:10px }
+.square_text h3{font-size:1.1em;margin-top:10px;margin-left:10px}
+.square_text a{text-deocration:none; color:#0057a5;;font-size:..95em;margin-top:15px;}
+.square_text div{overflow:hidden;}
+div.fb {cursor:pointer;float:left; background-position: 0 0;height: 24px;margin-right: 2px;width:22px; background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div.tw{cursor:pointer;float:left;width:22px;height:24px;background-position:-24px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div.g{cursor:pointer;float:left;width:22px;height:24px;background-position:-51px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div .pi{float:left;width:22px;height:24px; background-position:-79px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+div.tu{cursor:pointer;float:left;width:22px; height:24px; background-position:-104px 0;background-repeat:no-repeat; margin-left:2px; margin-bottom:10px}
+.green_icon{background-image: url(../images/dyk/sprites_green_125.png);}
+.blue_icon{background-image: url(../images/dyk/sprites_blue_125.png);}
+
+div.fb:hover {background-position: 0 -37px}
+div.tw:hover{background-position:-24px -37px;}
+div.g:hover{background-position:-51px -37px;}
+div .pi:hover{background-position:-79px -37px;}
+div.tu:hover{background-position:-104px -37px;}
+#thumbnail_arrow-left, #thumbnail_arrow-right{font-size:15px}
+div.close_tn{font-size:12px}	
+
+div.hiddenDiv a div.info, div.hiddenDiv div.share,div.hiddenDiv div.pdf,div.favorite {cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 1.75em;opacity:.75;z-index:7000;display:none;}
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5;font-size: 1.9em;}
+
+div.hiddenDiv div.share{position:absolute;top:50px; left:10px;}
+div.hiddenDiv div.pdf{position:absolute;top:90px; left:10px;}
+div.favorite{position:absolute;top:130px; left:10px;}
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 1.5em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc; font-size:1.0em;}
+.hiddenDiv a div.close{position:absolute;top:5px; right:5px;color:#EBFAF7; font-size: 1.35em;opacity:.85}
+.hiddenDiv a div.leftarrow{position:absolute; font-size:2.2em;top:30px; left: 0%;color:#EBFAF7;opacity:.1; height:100%;cursor:pointer;width:5%; margin-left:2.5%;}
+.hiddenDiv a div.rightarrow{position:absolute;font-size:2.2em;top:30px; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5.0%;}
+
+#thumbnails_open{margin-left:8px;}	
+#thumbnails, #presearch{padding-top:10px; padding-bottom:10px;width:97px;   z-index: 200000; position:fixed;cursor:pointer; display:none}
+#thumbnails_open{width:83px}	
+
+div.home{background-image:url(../images/dyk/home_blue_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.favorite_nav{background-image:url(../images/dyk/star_blue_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.searcher, div.search{background-image:url(../images/dyk/search_blue_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.settings{background-image:url(../images/dyk/settings_blue_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.lessons{background-image:url(../images/dyk/chalk_blue_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+
+
+div.home:hover{background-image:url(../images/dyk/home_orange_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.favorite_nav:hover{background-image:url(../images/dyk/star_orange_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.searcher:hover, div.search:hover{background-image:url(../images/dyk/search_orange_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+div.lessons:hover{background-image:url(../images/dyk/chalk_orange_30.png); width:30px; height:30px; background-repeat:no-repeat;}
+
+.header .drop div div.searcher{
+position: absolute;
+margin-left: 155px;
+margin-top: 23px;
+}
+
+.header .drop .sitefield{
+width: 150px;
+margin-top: 10px;
+margin-left: -130px;
+position: absolute;
+top: 52px;;
+}
+
+.presearch_icon{padding:5px; padding-left:15px;}
+
+}
+
+@media screen and (min-width: 415px) and  (max-width: 699px) {	
+
+.search_favorite_image_on{position:absolute;z-index:1999999999999;}
+.search_favorite_image_off{position:absolute;z-index:1999999999999;}
+
+#dyk_squares{width:400px; margin:auto; }
+.header{max-height:75px}
+.header .header_contain{width:400px; margin-top:-1.3em}
+.header div.icon{    float: left;
+    font-size: 5em;
+    margin-right: 0.005em;
+	background-image:url(../images/dyk/dyk_logo_65.png);
+	width:65px;
+	height:65px;
+	}
+.header div.whaler{font-size: 3.05em;
+    margin-left: 0.1em;
+    padding: 0.05em 0.1em;
+    top: 0.2em;
+	}
+.header .textcontainer{float: left;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 0.8em;
+	}
+.fontface .header div.text{ color: #0057A5;
+    font-family: 'abeatbyKaiRegular',san-serif;
+    font-size: 1.26em;}
+.fontface .header div.subtext{font-family:'centurygothic',san-serif; color:#189E81;font-size:.9em;}
+.fontface .header .links{display:none;float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links ul li a{float:left; list-style-type:none;margin:.6em;font-size:.9em}
+.header .drop{ font-size:1.2em; margin:.6em;margin-top:1.3em  }
+.header .drop div div{display:block; float:left;padding-left:15px;}
+
+.header .drop:hover div div{display:block; }
+
+
+.header .drop .searchimage{margin-top:10px;}
+.header div div.searchBox{float:left;width:}
+.header .drop div{margin-top: .5em}
+
+.column{ margin: 0px 0 0 0;width: 125px;}
+.square{width:105px; height:68px; border-radius:1.5px; border-width: 3px; }
+.square_text{width:420px; border-radius:3px;border-width:3px;position:absolute}		
+.square_text p{width:205px;font-size:.75em; margin-top:3px;margin-left:5px;margin-bottom:5px; }
+.square_text a{text-deocration:none; color:#0057a5;;font-size:.9em;  }
+
+.square_text .social{width:190px;font-size: 1.0em;  margin-left:5px }
+.square_text h3{font-size:.95em;margin-top:5px;margin-left:5px;margin-bottom:2px;}
+.square_text a{text-deocration:none; color:#0057a5;;font-size:.1.1em;margin-top:15px;}
+.square_text div{overflow:hidden;float:left; height:133px; margin-right:5px;}
+div.fb {cursor:pointer;float:left; background-position: 0 0;height: 24px;margin-right: 2px;width:22px; background-repeat:no-repeat; margin-left:2px; }
+div.tw{cursor:pointer;float:left;width:22px;height:24px;background-position:-24px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; }
+div.g{cursor:pointer;float:left;width:22px;height:24px;background-position:-51px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; }
+div .pi{float:left;width:22px;height:24px; background-position:-79px 0;margin-right:1px;background-repeat:no-repeat; margin-left:2px; }
+div.tu{cursor:pointer;float:left;width:22px; height:24px; background-position:-104px 0;background-repeat:no-repeat; margin-left:2px; }
+.green_icon{background-image: url(../images/dyk/sprites_green_125.png);}
+.blue_icon{background-image: url(../images/dyk/sprites_blue_125.png);}
+
+div.fb:hover {background-position: 0 -37px}
+div.tw:hover{background-position:-24px -37px;}
+div.g:hover{background-position:-51px -37px;}
+div .pi:hover{background-position:-79px -37px;}
+div.tu:hover{background-position:-104px -37px;}
+#col0{float:left;}
+#col1{float:left;}
+#col2{float:left; }
+#col3{float:left;}
+#thumbnail_arrow-left, #thumbnail_arrow-right, div.close_tn{font-size:14px}	
+#thumbnails_open{margin-left:8px;}	
+#thumbnails, #presearch{padding-top:10px; padding-bottom:10px;width:85px;   z-index: 200000; position:fixed;cursor:pointer; display:none}
+		
+#thumbnails_open{width:72px}
+div.hiddenDiv div.hidden div.infobox div.info-text div.scroller{margin:7px;padding:3px;display:none;}
+
+div.hiddenDiv a div.info, div.hiddenDiv div.share,div.hiddenDiv div.pdf, div.favorite{cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 1.5em;opacity:.75;z-index:7000;display:none;}
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5;font-size: 1.7em;}
+
+.header .drop div div.searcher{
+position: absolute;
+margin-left: 110px;
+margin-top: 30px;
+}
+
+.header .drop .sitefield{
+width: 100px;
+margin-top: 10px;
+margin-left: -130px;
+position: absolute;
+top: 38px;;
+}
+
+
+div.home{background-image:url(../images/dyk/home_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.favorite_nav{background-image:url(../images/dyk/star_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.searcher, div.search{background-image:url(../images/dyk/search_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.settings{background-image:url(../images/dyk/settings_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.lessons{background-image:url(../images/dyk/chalk_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+
+
+div.home:hover{background-image:url(../images/dyk/home_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.favorite_nav:hover{background-image:url(../images/dyk/star_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.searcher:hover, div.search:hover{background-image:url(../images/dyk/search_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+
+div.lessons:hover{background-image:url(../images/dyk/chalk_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+
+
+div.hiddenDiv div.share{position:absolute;top:48px; left:10px;}
+div.hiddenDiv div.pdf{position:absolute;top:85px; left:10px;}
+div.favorite{position:absolute;top:122px; left:10px;}
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 1.5em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc; font-size:.9em;}
+.hiddenDiv a div.close{position:absolute;top:5px; right:5px;color:#EBFAF7; font-size: 1.15em;opacity:.85}
+.hiddenDiv a div.leftarrow{position:absolute; font-size:2.2em;top:20px; left: 0%;color:#EBFAF7;opacity:.1; height:100%;cursor:pointer;width:5%;margin-left:2%}
+.hiddenDiv a div.rightarrow{position:absolute;font-size:2.2em;top:30px; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5%;}
+
+.presearch_icon{padding:5px; padding-left:15px;}
+}
+
+@media screen and (max-width: 414px) {	
+.search_favorite_image_on{position:absolute;z-index:1999999999999;}
+.search_favorite_image_off{position:absolute;z-index:1999999999999;}
+
+#dyk_squares{width:200px; margin:auto; ;margin-top:20px}
+.column{width:105px; margin:7px; margin-top:30px;margin-left:0px;}
+
+.header div.icon{float:left; font-size:3.5em; margin-right:.005em;background-image:url(../images/dyk/dyk_logo_50.png);
+	width:50px;
+	height:50px;}
+.header div.whaler{font-size:1.9em;padding: .05em;padding-right:.1em; padding-left:.1em; top: .52em; margin-left:.15em}
+.header .textcontainer{display:none; float:left;margin-top:.5em;margin-right:2em; margin-left:1.2em;}
+.header div.text{ font-family:'abeatbyKaiRegular',san-serif; color:#0057a5;font-size:1.75em;width:150px;}
+.header div.subtext{font-family:'centurygothic',san-serif; color:#189E81;font-size:.85em;}
+.header .links{display:none;float:left;font-family:'centurygothic',san-serif; color:#189E81;;margin-top:5em;}
+.header .links ul li a{float:left; list-style-type:none;margin:.8em;font-size:.9em}
+.header .drop{font-size:1.2em; margin:.6em;  }
+.header .drop div{float:right; }
+.header .drop div div{display:block; float:left;padding-left:10px; }
+.header .searchbox{display:none;}
+.header .drop:hover div div{display:block; }
+
+.header .drop:hover {color::#189E81;}
+
+.header .drop .searchimage{margin-top:10px;}
+.header div div.searchBox{float:left; margin-top:-8px}
+.header div.close_tn{font-size: .5em}
+
+.square{width:105px; height:68px; border-radius:3px; border-width: 2px}
+.square_text{width:180px; margin:20px; border-radius:4px;border-width:3px;position:absolute;top:70px;}		
+.square_text p{width:160px;font-size:.8em; margin-top:7px;margin-left:15px }
+.square_text .social{width:160px;font-size: .8em; margin-top:15px; margin-left:15px }
+.square_text h3{font-size:1.2em;margin-top:10px;margin-left:15px}
+.square_text a{text-deocration:none; color:#0057a5;;font-size:1.1em;margin-top:15px;}
+
+div.fb {cursor:pointer;float:left;background-position: 0 0;height: 18px;margin-right: 1px;width:18px; background-repeat:no-repeat; margin-left:1px; margin-bottom:5px}
+div.tw{cursor:pointer;float:left;width:18px;height:18px;background-position:-19px 0;margin-right:1px;background-repeat:no-repeat; margin-left:1px; margin-bottom:5px}
+div.g{cursor:pointer;float:left;width:18px;height:18px;background-position:-40px 0;margin-right:1px;background-repeat:no-repeat; margin-left:1px; margin-bottom:5px}
+div .pi{float:left;width:18px;height:18px; background-position:-62px 0;margin-right:1px;background-repeat:no-repeat; margin-left:1px; margin-bottom:10px}
+div.tu{cursor:pointer;float:left;width:18px; height:18px; background-position:-82px 0;background-repeat:no-repeat; margin-left:1px; margin-bottom:5px}
+.green_icon{background-image:url(../images/dyk/sprites_green_100.png)}
+.blue_icon{background-image:url(../images/dyk/sprites_green_100.png)}
+
+div.fb:hover {background-position: 0 -29px}
+div.tw:hover{background-position:-19px -29px;}
+div.g:hover{background-position:-40px -29px;}
+div .pi:hover{background-position:-62px -29px;}
+div.tu:hover{background-position:-82px -29px;}
+#col0{;margin-top:7px;}
+#col1{;margin-top:7px;}
+#col2{ margin-top:7px;clear:both;display:none;}
+#col3{margin-top:7px;display:none;}
+#thumbnails, #presearch{display:none}
+#thumbnail_arrow-left, #thumbnail_arrow-right, div.close_tn{font-size:12px}	
+#thumbnails_open{margin-left:12px;display:none;overflow-x:scroll}	
+
+
+
+div .hiddenDiv div.hidden div.infobox{ display:none;}
+
+div.hiddenDiv a div.info, div.hiddenDiv div.share,div.hiddenDiv div.pdf, div.favorite{cursor:pointer;position:absolute;top:10px; left:10px;color:#EBFAF7;font-size: 1.2em;opacity:.75;z-index:7000;display:none;}
+div.home, div.favorite_nav, div.search, div.searcher, div.settings, div.lessons{color:#0057a5;font-size: 1.4em;}
+
+div.hiddenDiv div.share{position:absolute;top:40px; left:10px;}
+div.hiddenDiv div.pdf{position:absolute;top:73px; left:10px;}
+div.favorite{position:absolute;top:106px; left:10px;}
+
+div.hiddenDiv a div.info:hover{color:#FFF8DF;opacity:1;display:none;}
+
+
+div.hiddenDiv a div.info-on{position:absolute;top:10px; left:10px;color:#0057a5; font-size: 1.5em;opacity:.65; float:right;display:none;z-index:7000;}
+div.hiddenDiv a div.info-on:hover{opacity:1;color:#FFF8DF}
+
+div.hiddenDiv div.hidden div.infobox div.info-text{background: #ffffff;border:1px solid #ccc}
+div.hiddenDiv div.hidden div.infobox div.info-text div.scroller{margin:20px;padding:10px;display:none;}
+div.hiddenDiv div.hidden div.infobox div.info-text div div.otherpost, div.hiddenDiv div.hidden div.infobox div.info-text div div.otherimage{margin:0px;padding:0px; margin-top:5px;overflow:visible;}
+
+.hiddenDiv a div.close{position:absolute;top:5px; right:5px;color:#EBFAF7; font-size: 1.25em;opacity:.85}
+.hiddenDiv a div.close:hover{color:#FFF8DF;opacity:1}
+
+div.close_tn{color:#EBFAF7; font-size: 1.25em;opacity:.85;z-index:1001100;padding:2px;}
+div.close_tn:hover{color:#FFF8DF;opacity:1}
+
+div.close_tn{;color:#0057a5; font-size: 1.25em;opacity:.85; cursor:pointer; display:none;}
+div.close_tn:hover{color:#FFF8DF;opacity:1; display:block;}
+
+.hiddenDiv:hover a div.close{color:#EBFAF7; z-index: 7001}
+.hiddenDiv:hover a div.info{color:#EBFAF7; }
+.hiddenDiv a div.close:hover{color:#FFF8DF;opacity:1}
+.hiddenDiv a div.leftarrow{position:absolute; font-size:2em;top:0%; left: 0%;color:#EBFAF7;opacity:.1; height:100%;cursor:pointer;width:5%;}
+
+.hiddenDiv a div.rightarrow{position:absolute;font-size:2em;top:0%; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5%;margin-right:3%}
+.hiddenDiv a div.leftarrow div {position:relative;top:40%;left:0%;}
+.hiddenDiv a div.rightarrow div{position:relative;top:40%;right:0%;}
+.hiddenDiv a:hover div.leftarrow, .hiddenDiv a:hover div.rightarrow{opacity:.75}
+
+#search_holder{display:none;}
+#favorites_holder{display:none;}
+#favorite_nav{display:none;}
+.search{display:none}
+#thumbnails_close_btn, #presearch_close_btn{display:none;}	
+#thumbnails_open_btn, presearch_open_btn{display:none;}	
+#presearch_open_btn{position:fixed;  right:0px;}
+a{text-decoration:none; color:#0057a5}
+a:link{text-decoration:none; color:#0057a5}
+a:visited{text-decoration:none; color:#0057a5}
+.hiddenDiv a div.rightarrow{position:absolute;font-size:2.2em;top:30px; right:0%;color:#EBFAF7;opacity:.1; height:100%;width:5%;}
+/*.header .drop div div.searcher{margin-top:0px;;}
+
+.header .drop .sitefield{width:90px;top:33px;margin-left:-100px;}
+
+*/
+
+.header .drop div div.searcher{
+position: absolute;
+margin-left: 100px;
+margin-top: 20px;
+}
+
+.header .drop .sitefield{
+width: 100px;
+margin-top: 10px;
+margin-left: -120px;
+position: absolute;
+top: 28px;;
+}
+
+
+div.home{background-image:url(../images/dyk/home_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.favorite_nav{background-image:url(../images/dyk/star_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.searcher, div.search{background-image:url(../images/dyk/search_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.settings{background-image:url(../images/dyk/settings_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.lessons{background-image:url(../images/dyk/chalk_blue_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+
+
+div.home:hover{background-image:url(../images/dyk/home_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.favorite_nav:hover{background-image:url(../images/dyk/star_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+div.searcher:hover, div.search:hover{background-image:url(../images/dyk/search_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+
+div.lessons:hover{background-image:url(../images/dyk/chalk_orange_20.png); width:25px; height:25px; background-repeat:no-repeat;}
+
+.presearch_icon{padding:10px; padding-left:15px;}
+
+}
+
+
+ 
+ 
+	</style>
+
+<title>DID YOU KNOW?  Tweets from Sea</title>
+<script type="text/javascript" src="../Scripts/modernizr.custom.js"></script>
+</head>
+ <!--onload="setUpData()"-->
+ 
+ <script type="text/javascript">
+   $(document).ready(function() { 
+     if ((navigator.appName=="Microsoft Internet Explorer" &&navigator.appVersion.match('MSIE 8')) || (navigator.appName=="Microsoft Internet Explorer" &&navigator.appVersion.match('MSIE 7'))||(navigator.appName=="Microsoft Internet Explorer" &&navigator.appVersion.match('MSIE 6')))
+ {
+
+  
+  document.getElementById('IE_box').innerHTML="<h4 style='color:red'>This site is optimized for use with <a href='http://www.getfirefox.com'>Firefox</a>, <a href='https://www.google.com/intl/en/chrome/browser/#brand=CHMB&utm_campaign=en&utm_source=en-ha-na-us-sk&utm_medium=ha'>Chrome</a>, <a href='http://www.apple.com/safari/'>Safari</a>  and <a href='http://www.microsoft.com/windows/internet-explorer/default.aspx'>Internet Explorer</a> version 10 or higher.</h4><p>For an optimal user experience, please utilize a newer version of either of these browsers.</p><p>If you continue to use one of these browsers many of the features on this site, like the ability to favorite blogposts and images and email them to yourself will not work."
+ 
+}
+
+   });
+</script>
+ 
+<body id="body" onLoad="setUpData()">
+<a href="#"><div id="message" style="width:'+($(window).width()-40)+'px; color:white;padding:20px; position:fixed;background:#189E81;z-index:200; bottom:0px;display:none;">For a better experience, please switch to landscape mode. </div></a>
+<!--<button>Start Animation</button>
+<p>By default, all HTML elements have a static position, and cannot be moved. To manipulate the position, remember to first set the CSS position property of the element to relative, fixed, or absolute!</p>-->
+ <div id="IE_box"  style="margin:10px;margin-top:0px;margin-bottom:0px;"></div>
+<div class="header">
+	<div class='header_contain'>
+   		<div class="icon"></div>
+   		
+        <div class="textcontainer">
+            <div class="text">DID YOU <span style="color:#189E81">KNOW?</span></div>
+            <div class="subtext"><em>Tweets from Sea</em></div>
+        </div>
+         
+       
+      <div class="drop">
+            
+              
+               
+  <div>
+               	<a href="#home"><div class="home"></div></a>
+
+                <a href="#favorites"><div  class="favorite_nav"></div></a>
+                <a href="/2007/LessonPlans/Eubanks/NOAATASDidYouKnow_EEubanks_1-2013_new.pdf" target="_blank"><div style="font-family:'Lessons'" class="lessons" ></div></a>  
+         		
+        <div class="searchBox" style="display:none">
+
+          <form id="searchdyk" name="searchdyk" action="javascript:void(0)" onSubmit="searchDYK($('.sitefield').val(), dyk.searchIndex);">
+        
+           <input class="sitefield" type="text" name="sitefield"  onfocus="document.forms['searchdyk']['sitefield'].focus()" onKeyDown="if(event.keyCode==13){searchDYK($('.sitefield').val(), dyk.searchIndex); $('#dyk_squares').hide(); $('#favorites_holder').hide()};"/>
+       </form>
+        </div>  
+   	
+                <a href="#search"><div  class="search" ></div></a>
+               <a href="#searcher"><div  class="searcher"  style="display:none" onClick="searchDYK($('.sitefield').val(), dyk.searchIndex)"></div></a>
+				
+        </div>
+              
+           <div>
+               	      
+    <div style="clear:both"></div>
+              
+    	
+   </div>
+            
+       
+       
+       </div>
+      
+ 
+	</div>
+
+    <div style="clear:both"></div>
+</div>
+
+<div id="hiddenHolder" style=" margin:auto;width:100%">
+ <div id="bigImg" style="margin:auto;" ><img src='../images/loading.gif' alt='loading animation'  class="no-border"/></div> 
+ <div id="bigImg2" style="margin:auto;"><img src='../images/loading.gif' alt='loading animation'  class="no-border"/></div> 
+<div id="bigImg3" style="margin:auto;" ><img src='../images/loading.gif' alt='loading animation'  class="no-border"/></div> 
+
+</div>
+
+
+
+
+
+<div id="thumbnails" style="background:#EBFAF7; opacity:.95; ">
+	
+    <div id="thumbnails_open" ><div id="thumbnail_holder"></div>
+</div>
+  
+</div>
+	<div onClick="divOpen_search(this.id);" id="thumbnails_open_btn"><a style="border:none" tabindex="10"><img width="10" height="10" src="../images/arrow.png" alt="collapse button_bigger" class="arrow" id="arrow"></a></div>
+	<div onClick="divClose_search(this.id);" id="thumbnails_close_btn"><a style="border:none" tabindex="10"><img width="10" height="10" src="../images/arrow_left.png" alt="collapse button_bigger" class="arrow" id="arrow"></a></div>
+   
+     
+  <div id="presearch" style="background:#EBFAF7; opacity:.95;">
+	
+    <div id="presearch_open" >
+    <div id="presearch_holder">
+    <div class = "presearch_icon"><a href="#searcher" onClick="searchDYK('hydro', dyk.collectionIndex);$('.hiddenDiv').addClass('off').removeClass('on');$('.hiddenDiv').addClass('off').removeClass('on');$('.hidden').addClass('off').removeClass('on');"><img src="http://teacheratsea.files.wordpress.com/2014/02/hydro_icon.png?w=100" alt="hydro"/></a></div>
+    <div class = "presearch_icon"><a href="#searcher" onClick="searchDYK('marine life', dyk.collectionIndex);$('.hiddenDiv').addClass('off').removeClass('on');$('.hidden').addClass('off').removeClass('on');"><img src="http://teacheratsea.files.wordpress.com/2014/02/marine_life_icon.png?w=100" alt="marine life"/></a></div>
+    <div class = "presearch_icon"><a href="#searcher" onClick="searchDYK('sargassum', dyk.collectionIndex);$('.hiddenDiv').addClass('off').removeClass('on');$('.hidden').addClass('off').removeClass('on');" ><img src="http://teacheratsea.files.wordpress.com/2014/02/sargassum_icon.png?w=100" alt="sargassum"/></a></div>
+    <div class = "presearch_icon"><a href="#searcher" onClick="searchDYK('reef fish', dyk.collectionIndex);$('.hiddenDiv').addClass('off').removeClass('on');$('.hidden').addClass('off').removeClass('on');"><img src="http://teacheratsea.files.wordpress.com/2014/02/reef_fish_icon.png?w=100" alt="reef_fish"/></a></div>
+    <div class = "presearch_icon"><a href="#searcher" onclick= "searchDYK('scallops', dyk.collectionIndex);$('.hiddenDiv').addClass('off').removeClass('on');$('.hidden').addClass('off').removeClass('on');"><img src="http://teacheratsea.files.wordpress.com/2014/02/scallops_icon.png?w=100" alt="scallops"/></a></div>
+    </div>
+    <div class = "presearch_icon"><a href="#sharks" onclick= "searchDYK('sharks', dyk.collectionIndex);$('.hiddenDiv').addClass('off').removeClass('on');$('.hidden').addClass('off').removeClass('on');"><img src="https://teacheratsea.files.wordpress.com/2015/06/shark_icon.png?w=100" alt="sharks"/></a></div>
+    </div>
+</div>
+  
+</div>
+	<div onClick="divOpen_search2(this.id);" id="presearch_open_btn"><a style="border:none" tabindex="24"><img width="24" height="24" src="../images/dyk/settings_eq.png" alt="collapse button_bigger" class="arrow" id="arrow"></a></div>
+	<div onClick="divClose_search2(this.id);" id="presearch_close_btn"><a style="border:none" tabindex="10"><img width="10" height="10" src="../images/arrow.png" alt="collapse button_bigger" class="arrow" id="arrow"></a></div>
+   
+   
+
+<div id="dyk_squares">
+	
+
+
+</div>
+<div id="favorites_holder"></div>
+<div id="search_holder"><h6>Please enter your search terms</h6></div>
+<div style="clear:both"></div>
+ <div id="settings_open_btn">
+    	<div  class="settings" ></div>
+    	<div class="settings_open"> 
+       <div class="closeme"> <a ><div class ="close_tn" ></div></a></div><br/>
+       
+        <div><a href="/">NOAA Teacher at Sea Program</a></div> 
+         <div><a href="/privacy.html">Privacy Policy</a> </div>
+         <div><a href="http://www.rdc.noaa.gov/~foia/">FOIA</a></div> 
+         <div><a href="http://www.cio.noaa.gov/Policy_Programs/info_quality.html">Information Quality</a></div>  
+        <div><a href="http://www.noaa.gov/disclaimer.html">Disclaimer</a> </div>
+         <div><a href="http://www.usa.gov">USA.gov</a> </div>
+         <div><a href="http://www.ready.gov">Ready.gov</a> </div>
+        <div> <a href="mailto:teacheratsea@noaa.gov">Contact Webmaster</a></div>
+        <div style="font-size:9px;">**Sargassum Icon & Scallop Icon, Courtesy of the Integration and Application Network, University of Maryland Center for Environmental Science (ian.umces.edu/symbols/). </div>
+     </div>
+    </div>
+	
+    
+	    
+</body>
+</html>

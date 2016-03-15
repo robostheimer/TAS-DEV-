@@ -1,0 +1,1399 @@
+<!--?xml version="1.0" encoding="utf-8"  ?-->
+<rss version="2.0" class="ng-scope">
+	<channel ng-app="TAS_SITE" ng-controller="rssController" class="ng-scope">
+		<title>NOAA Teacher at Sea Alumni Spotlight</title>
+		<description>Teacher at Sea Alumni Spotlight</description>
+		<link>http://www.tas.noaa.gov/alumni/spotlight.html
+		<lastbuilddate class="ng-binding"></lastbuilddate>
+		<pubdate class="ng-binding"></pubdate>
+		<!-- ngRepeat: item in data --><item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Shark Tales - Adventures with  NOAA Scientists and NOAA Teacher at Sea</title>
+			<description class="ng-binding">&lt;p&gt;
+Dr. Trey Driggers and Ms. Kristin Hannan, two NOAA National Marine Fisheries Service (NMFS), Mississippi Labs    &lt;a href="http://www.sefsc.noaa.gov/labs/mississippi/"&gt;Southeast Fisheries Science Center (SEFSC)&lt;/a&gt; research fisheries biologists, visited Silver Spring,
+    MD February 6 and 7 to share their vast shark research and knowledge with students and the public. During their visit they collaborated with NOAA Teachers
+    at Sea, Julie Karre (2013) and Jenny Goldner (2011).
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;
+        Washington Post Article Featuring Dr. Trey Driggers, Ms. Kristin Hannan and Teacher at Sea Alumna, Jenny Goldner at NOAA’s Annual Open House –
+        &lt;a
+            href="http://www.washingtonpost.com/lifestyle/kidspost/shark-scientists-share-passion-for-the-fish-with-a-scary-reputation/2015/02/17/9a58fa48-b141-11e4-827f-93f454140e2b_story.html" target="_blank"
+        &gt;
+            here
+        &lt;/a&gt;
+        .
+    &lt;/strong&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Shark_Tales_-_Adventures_with__NOAA_Scientists_and_NOAA_Teacher_at_Sea
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">02/18/2015</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni Volunteer at Regional Science Conferences        </title>
+			<description class="ng-binding">&lt;p&gt;NOAA Teacher at Sea Alumni, John Sammons (2005); &lt;a href="http://teacheratsea.noaa.gov/2009/stephens.html"&gt;Jill Stephens&lt;/a&gt; (2009);    &lt;a href="http://teacheratsea.noaa.gov/2014/clark.html"&gt;Dana Clark&lt;/a&gt; (2014); and &lt;a href="http://teacheratsea.noaa.gov/2012/fry.html"&gt;Jennifer Fry&lt;/a&gt;
+    (2009/2012) volunteered at regional science conferences in order to share their experiences at sea, inform the public about the TAS Program and distribute
+    NOAA education materials. Through their efforts at these conferences, NOAA Teacher at Sea Alumni communicate NOAA’s mission and service to the public, as
+    well as, show NOAA’s impact on science, technology, engineering, and mathematics education (STEM).
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_Volunteer_at_Regional_Science_Conferences________
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">01/15/2015</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni and  NOAA Captain Rick Brennan Speak at the Smithsonian Expert Is In Event</title>
+			<description class="ng-binding">&lt;p&gt;
+NOAA Teacher at Sea Alumni, &lt;a href="http://teacheratsea.noaa.gov/2009/patterson.html"&gt;Mary Patterson&lt;/a&gt; (2009) and &lt;a href="http://teacheratsea.noaa.gov/2014/clark.html"&gt;Dana Clark&lt;/a&gt; (2014), and NOAA CAPT Rick Brennan, Chief of the    &lt;a href="http://www.nauticalcharts.noaa.gov/csdl/RD.html"&gt;Coast Survey Dev elopement Laboratory&lt;/a&gt; in Silver Spring, MD, presented at the Smithsonian
+    National Museum of Natural History’s Expert Is In Event on December 17, 2014. They spoke about how NOAA ships chart the seafloor, provided hands-on
+    activities, and shared their research and experiences with the public at the Smithsonian’s &lt;a href="http://qrius.si.edu/"&gt;Q?rius Education Center&lt;/a&gt;.
+    Nautical charts are created by NOAA and the Coast Survey to support safe and efficient marine navigation and a healthy coastal environment.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_and__NOAA_Captain_Rick_Brennan_Speak_at_the_Smithsonian_Expert_Is_In_Event
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">01/06/2015</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni in the Mid-Atlantic Region  Attend Workshop at the Smithsonian Environmental Research Center</title>
+			<description class="ng-binding">&lt;p&gt;NOAA Teacher at Sea Alumni from the Mid-Atlantic Region (Washington D.C., DE, MD, VA and WV) attended a two-day workshop at the &lt;a href="http://www.serc.si.edu/"&gt;Smithsonian Environmental Research Center&lt;/a&gt; (SERC) in Edgewater, MD on November 7-8, 2014. &lt;b&gt;The workshop met the following objectives:&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;· Enhance science content knowledge and pedagogical skills. &lt;/p&gt;
+
+&lt;p&gt;· Model scientific field investigations and classroom activities.&lt;/p&gt;
+
+&lt;p&gt;· Promote environmental stewardship&lt;/p&gt;
+
+&lt;p&gt;· Strengthen a sustainable NOAA Teacher at Sea Alumni network in the Mid-Atlantic region.&lt;/p&gt;
+
+&lt;p&gt;SERC’s 2,600 acre campus includes forests, wetlands, marshes and miles of protected shoreline. It is a natural lab for  ecological research. &lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_in_the_Mid-Atlantic_Region__Attend_Workshop_at_the_Smithsonian_Environmental_Research_Center
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">12/31/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Eleventh Graders Visit NOAA Ship Oscar Elton Sette </title>
+			<description class="ng-binding">&lt;p&gt;    &lt;a href="http://teacheratsea.noaa.gov/2014/acord.html"&gt;Dr. Suzanne Acord&lt;/a&gt;
+(TAS, 2014), and her 11th grade students from Mid-Pacific Institute in Honolulu, HI learned about ocean careers and research aboard NOAA ship    &lt;em&gt;Oscar Elton&lt;/em&gt; &lt;em&gt;Sette&lt;/em&gt; on December 1, 2014. Students toured the &lt;em&gt;Oscar Elton Sette&lt;/em&gt; and had the opportunity to talk with NOAA Officers
+    and Chief Scientist, Dr. Don Kobayashi, about life at sea, science at sea, and marine navigation. Students visited the bridge, the Texas deck, the wet lab,
+the bunk house, and the flying bridge throughout the morning. They prepared for their trip by viewing Dr. Acord's    &lt;a href="http://teacheratsea.noaa.gov/2014/acord.html"&gt;TAS blog&lt;/a&gt;.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Eleventh_Graders_Visit_NOAA_Ship_Oscar_Elton_Sette_
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">12/16/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Corps Officer From Seattle, WA Visits Chris Henricksen's (TAS, 2014), Fifth Graders in Westerville, OH</title>
+			<description class="ng-binding">&lt;p&gt;
+    Eighty-five of &lt;a href="http://teacheratsea.noaa.gov/2014/henricksen.html"&gt;Chris Henricksen’s&lt;/a&gt; (TAS, 2014) fifth graders from Mark Twain Elementary
+    School in Westerville, OH received a special visit from NOAA Corps Officer, Lieutenant Junior Grade (LTJG) Theresa Smith, on November 7, 2014. LTJG Smith
+is an alumnus of Westerville City Schools currently assigned to the    &lt;a href="http://www.afsc.noaa.gov/"&gt;NOAA National Marine Fisheries Service Alaska Fisheries Science Center&lt;/a&gt; (NOAA NMFS AFSC). She shared information
+    with the students about her career at NOAA and information about estimating fish populations. Students also learned about fish distribution and NOAA
+    opportunities in their state.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Corps_Officer_From_Seattle,_WA_Visits_Chris_Henricksen's_(TAS,_2014),_Fifth_Graders_in_Westerville,_OH
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/25/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">John Sammons (TAS, 2005) Celebrates STEM &amp; M Night  at Greenbrier Intermediate School </title>
+			<description class="ng-binding">&lt;p&gt;Greenbrier Intermediate School held its third PTA Science, Technology, Engineering, Mathematics &amp;amp; Muscles (STEM &amp;amp; M) Night on October 16, 2014 in
+    Chesapeake, Virginia. The STEM &amp;amp; M event featured community presenters from local, regional and state organizations, including NOAA ENS (Ensign)
+    Roxanne Carter from the &lt;a href="http://www.moc.noaa.gov/MOC-A/index.html"&gt;NOAA Marine Operations Center Atlantic Office&lt;/a&gt; in Norfolk, VA. The community
+    exercised their minds with interactive STEM activities and their muscles with fitness activities in the school gym. STEM &amp;amp; M was organized by NOAA
+    Teacher at Sea, John C. Sammons (TAS, 2005), Greenbrier’s technology integration specialist.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/John_Sammons_(TAS,_2005)_Celebrates_STEM_&amp;_M_Night__at_Greenbrier_Intermediate_School_
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/17/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Potato Latkes - A Great Side Dish  for your Favorite Seafood Recipe!</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2013/cullumber.html"&gt;Sue Cullumber&lt;/a&gt;, (TAS, 2013), enjoyed Chief Steward, Margaret Coyle’s Cheese and Onion Potato Latke recipe, while aboard NOAA Ship &lt;em&gt;Gordon Gunter.&lt;/em&gt; When Ms. Coyle was asked what skills and experiences are needed to become a Chief Steward, she said, “A person needs good cooking skills,
+    to be organized, personable, and dedicated – this is a career. I work 24 hours a day, 7 days a week, 365 days a year. I live to cook and cook to live!”
+&lt;/p&gt;
+    &lt;strong&gt;Cheese and Onion Potato Latke&lt;/strong&gt;
+&lt;/p&gt;
+    &lt;strong&gt;Recipe Courtesy of Margaret Coyle, Chief Steward of NOAA Ship &lt;em&gt;Gordon Gunter&lt;/em&gt;&lt;/strong&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Potato_Latkes_-_A_Great_Side_Dish__for_your_Favorite_Seafood_Recipe!
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/31/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">American Samoan Desserts Are a Nice Treat After Tasty Seafood Dishes!</title>
+			<description class="ng-binding">&lt;p&gt;
+        &lt;a href="http://teacheratsea.noaa.gov/2012/fry.html"&gt;Jennifer Fry&lt;/a&gt;, (TAS, 2012 and 2009) while aboard NOAA Ship &lt;em&gt;Oscar Elton Sette&lt;/em&gt; off the coast of American Samoa, enjoyed cuisine prepared by Chief Steward,
+        Clementine Lutali. Ms. Lutali was the first Samoan woman to be a Chief Steward for NOAA and has been with them for 14 years! This American Samoan
+        dessert delicacy is a great treat after Faiai Fe′e: Octopus with coconut milk, or Lehi: a type of snapper.
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;PANI POPO (COCONUT BUNS)&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Recipe Courtesy of Clementine Lutali, Chief Steward of NOAA Ship &lt;em&gt;Oscar Elton Sette&lt;/em&gt;&lt;/strong&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/American_Samoan_Desserts_Are_a_Nice_Treat_After_Tasty_Seafood_Dishes!
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/23/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">National Seafood Month Continues with a Delicious Stuffed Flounder</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2013/cullumber.html"&gt;Sue Cullumber’s&lt;/a&gt;
+    (TAS, 2013) favorite recipe while aboard NOAA Ship &lt;em&gt;Gordon Gunter&lt;/em&gt;, was the Stuffed Flounder prepared by Chief Steward, Margaret Coyle. Ms. Coyle
+    has been with NOAA for 8 years and cooking for 25 years!
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Stuffed Flounder&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;strong&gt;Recipe Courtesy of Margaret Coyle, Chief Steward of NOAA Ship &lt;em&gt;Gordon Gunter&lt;/em&gt;&lt;/strong&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/National_Seafood_Month_Continues_with_a_Delicious_Stuffed_Flounder
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/15/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Celebrate National Seafood Month With a Crab Boil!</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2013/mcginnis.html"&gt;Patty McGinnis (TAS, 2013) &lt;/a&gt;
+sailed on R/V &lt;em&gt;Ocean Starr&lt;/em&gt; in May, 2013. While at sea, her favorite recipe prepared by Chief Steward, Crystal Nailor, was the    &lt;a href="http://www.fishwatch.gov/index.htm"&gt;Crab Boil&lt;/a&gt;. You too can enjoy this recipe!
+&lt;/p&gt;
+    &lt;strong&gt;Crab Boil&lt;/strong&gt;
+&lt;/p&gt;
+    &lt;strong&gt;Recipe courtesy of Crystal Nailor, NOAA R/V &lt;em&gt;Ocean Starr &lt;/em&gt;Chief Steward&lt;/strong&gt;
+&lt;/p&gt;
+</description>
+			<link>/indiv_spotlight/Celebrate_National_Seafood_Month_With_a_Crab_Boil!
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/09/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">October is National Seafood Month! Celebrate with NOAA Chief Stewards' Recipes</title>
+			<description class="ng-binding">&lt;p&gt;
+        October is &lt;a href="http://www.nmfs.noaa.gov/"&gt;National Seafood Month&lt;/a&gt;! This is a time to highlight smart seafood choices, sustainable fisheries and
+        the health benefits of eating a diet rich in seafood.
+    &lt;/p&gt;
+        &lt;a href="http://teacheratsea.noaa.gov/2013/harrington.html"&gt;Elizabeth Harrington &lt;/a&gt;
+        (TAS 2013), while aboard NOAA Ship &lt;em&gt;Oregon II, &lt;/em&gt;enjoyed a Scallops Provencal recipe prepared by Chief Steward, Walter Coglan.
+    &lt;/p&gt;
+        &lt;strong&gt;Scallops Provencal&lt;/strong&gt;
+    &lt;/p&gt;
+        &lt;strong&gt;Recipe Courtesy of Walter Coglan, Chief Steward of NOAA Ship &lt;em&gt;Oregon II&lt;/em&gt;&lt;/strong&gt;
+    &lt;/p&gt;</description>
+			<link>/indiv_spotlight/October_is_National_Seafood_Month!_Celebrate_with_NOAA_Chief_Stewards'_Recipes
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">9/30/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">TAS Alumni Volunteer at the Maker Faire in Silver Spring, MD</title>
+			<description class="ng-binding">&lt;p&gt;
+Four TAS Alumni – &lt;a href="http://teacheratsea.noaa.gov/2014/le.html"&gt;Joan Le&lt;/a&gt; (2014), &lt;a href="http://teacheratsea.noaa.gov/2012/peretich.html"&gt;Amanda Peretich&lt;/a&gt; (2012), &lt;a href="http://teacheratsea.noaa.gov/2011/bullock.html"&gt;Elizabeth Bullock&lt;/a&gt; (2011) and &lt;a href="http://teacheratsea.noaa.gov/2007/martz/index.html"&gt;Elizabeth Martz &lt;/a&gt;(2007) volunteered at the NOAA booth during the  &lt;a href="http://makerfairesilverspring.com/"&gt;Maker Faire&lt;/a&gt; in Silver Spring, MD on September 14, 2014. The Alumni assisted Jeannine Montgomery,
+    Outreach Specialist from NOAA’s Office of Education, with hands-on activities. The public put their ideas about buoyancy to the test during the “Boat
+    Building Challenge”. They had to design, build and load their boat to see how long it would float. Maker Faire participants also learned about how mariners
+    and cultures from around the world began making rope out of natural fibers thousands of years ago and the engineering secrets that they discovered. They
+    explored the strength of rope and unlocked some of these secrets by making ropes of their own in the “Rope Making Activity”. Over 750 families stopped by
+    the NOAA booth to check out these activities!
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/TAS_Alumni_Volunteer_at_the_Maker_Faire_in_Silver_Spring,_MD
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">09/24/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Students From Annadale High School in VA Visit NOAA Silver Spring, MD Campus</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2013/crane.html"&gt;Yaara Crane&lt;/a&gt;, (TAS, 2013), Lindsay Zurawski and Hassan Mims - teachers from Annadale High School, in Annandale, VA led a week-long     summer program in July for rising 11&lt;sup&gt;th&lt;/sup&gt; graders. The program is inquiry-based and introduces students to new experiences in different subject areas. Each day, students took a field trip to a new place to hear from experts in their field. On July 10, 2014 the group visited&lt;a href="http://preserveamerica.noaa.gov/gateway.html"&gt; Gateway to NOAA&lt;/a&gt; and the &lt;a href="http://sosinssmc.education.noaa.gov/index.php"&gt;Science on a Sphere &lt;/a&gt;on NOAA’s campus in Silver Spring, MD. LTJG Aaron Colohan spoke to the students about the NOAA Corps and Dr. Walter Smith, NOAA Geophysicist, demonstrated visualizations on Science on a Sphere.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Students_From_Annadale_High_School_in_VA_Visit_NOAA_Silver_Spring,_MD_Campus
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">09/09/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Fish Have Ear Bones! NOAA Scientist and Teacher at Sea Alumni Explain Why</title>
+			<description class="ng-binding">&lt;p&gt;NOAA Teacher at Sea Alumni, &lt;a href="http://teacheratsea.noaa.gov/2012/mendillo.html"&gt;Johanna Mendillo&lt;/a&gt; (2012),&lt;a href="http://teacheratsea.noaa.gov/2011/mortimer.html"&gt;Anne Mortimer&lt;/a&gt; (2011), and NOAA    &lt;a href="http://www.afsc.noaa.gov/RACE/midwater/default_mw.php"&gt;Alaska Fisheries Science Center (AFSC) Midwater Assessment and Conservation Engineering&lt;/a&gt;
+    (MACE) scientist, Darin Jones, were invited by the Smithsonian National Museum of Natural History museum to share their knowledge about walleye pollock in the North
+    Pacific and Bering Sea during &lt;em&gt;Experts Are In &lt;/em&gt; at the Smithsonian’s &lt;a href="http://qrius.si.edu/"&gt;Q?rius Education Center&lt;/a&gt; on July 17, 2014.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Fish_Have_Ear_Bones!_NOAA_Scientist_and_Teacher_at_Sea_Alumni_Explain_Why
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">08/27/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">OceansLIVE Panelist, Jillian Worssam (TAS, 2004) Speaks About Marine Science Education During Capitol Hill Ocean Week in Washington D.C.</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2004/worssam.html"&gt;Jillian Worssam&lt;/a&gt;
+, (TAS, 2004), an eighth grade teacher at Sinagua Middle School in Flagstaff, Arizona, was invited by the &lt;a href="http://nmsfocean.org/"&gt;National Marine Sanctuary Foundation&lt;/a&gt; to be an    &lt;a href="http://oceanslive.org/oceanslive/video-gallery/itemlist/category/52-capitol-hill-ocean-talk-2014"&gt;OceansLIVE&lt;/a&gt; panelist in Washington D.C.
+    during Capitol Hill Ocean Week on June 12, 2014. OceansLIVE is a web-based platform that links educators, scientists and others to a geographically
+    dispersed audience. Ms. Worssam spoke about the importance of marine science education and her teacher research experience as a NOAA Teacher at Sea in 2004
+on NOAA ship &lt;em&gt;Miller Freeman. &lt;/em&gt;She also shared information about a mentorship program that she started at her middle school called    &lt;a href="http://scientistsintheclassroom.pbworks.com/w/page/46470916/Welcome"&gt;&lt;em&gt;Scientist in the Classroom&lt;/em&gt;&lt;/a&gt;. This program partners seventh and
+    eighth grade students with mentor scientists who work together to develop a variety of technological and scientific projects.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/OceansLIVE_Panelist,_Jillian_Worssam_(TAS,_2004)_Speaks_About_Marine_Science_Education_During_Capitol_Hill_Ocean_Week_in_Washington_D.C.
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">8/20/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Steven Frantz (TAS, 2012) Makes Learning About Sharks Fun!</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2012/frantz.html"&gt;Steven Frantz &lt;/a&gt;
+    (TAS, 2012) was aboard NOAA ship &lt;em&gt;Oregon II’s 300&lt;sup&gt;th&lt;/sup&gt; &lt;/em&gt;fishery and living marine resource missions during a shark longline survey in July
+    2012. During this research mission, Mr. Frantz learned about a variety of sharks and one of the many ways he chose to share what he experienced was to
+    create a shark card game. By playing the card game students learn about different species of sharks – what they look like, their scientific names, teeth
+    shape and size. They also learn about the NOAA scientists and crew aboard NOAA ships. Mr. Frantz had the idea to create the cards but needed some talented
+    illustrators to make the cards a reality. He asked two of his science students, Mai Lor and Norn Htaw, to illustrate the cards and they gladly accepted the
+    opportunity.
+&lt;/p&gt;
+&lt;p&gt;
+    You can view the shark card lesson plan&lt;a href="http://teacheratsea.noaa.gov/2012/frantz.html#lessonsbox"&gt; here&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Steven_Frantz_(TAS,_2012)_Makes_Learning_About_Sharks_Fun!
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">8/8/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Right Whales from Sea and Air</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2012/o'donnell.html"&gt;Ellen O’Donnell&lt;/a&gt;
+    (TAS, 2012) flew in a NOAA Twin Otter with &lt;a href="http://www.nefsc.noaa.gov/"&gt;Northeast Fisheries Science Center &lt;/a&gt;(NEFSC) aerial survey team, led by
+    Tim Cole, on their North Atlantic Right Whale surveys in the Gulf of Maine on June 23 – 27, 2014. Ellen saw a variety of marine life and whales from the
+    air and gained a unique perspective from her previous experience on NOAA Ship &lt;em&gt;Delaware II&lt;/em&gt;, where she saw right whales from the ship. “To see these
+    animals from the air is magnificent. You don’t get a sense of their size from a ship, where you might see a small part of the animal, but from the air you
+    see so much more,” O’Donnell said of the flying experience as a Teacher in the Air.
+&lt;/p&gt;
+&lt;p&gt;
+    Read a NEFSC featured article about Ellen’s experience &lt;a href="http://www.nefsc.noaa.gov/news/features/odonnell/"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Right_Whales_from_Sea_and_Air
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">08/06/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Britta Culbertson (TAS, 2013) Flies With NOAA Hurricane Hunters</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2013/culbertson.html"&gt;Britta Culbertson&lt;/a&gt;
+    (TAS, 2013) participated in the 2014 Hurricane Awareness Tour on May 21 in New Orleans, LA and on May 22 in Tallahassee, FL. During the tour, NOAA’s
+    Hurricane Hunter aircraft, a Lockheed WP-3D Orion, traveled to several regional airports on the Gulf Coast. Britta met up with the plane and its crew in
+New Orleans and then assisted &lt;a href="http://www.weather.gov/"&gt;National Weather Service&lt;/a&gt; staff and    &lt;a href="http://flightscience.noaa.gov/"&gt;Hurricane Hunter&lt;/a&gt; crew members in giving tours and information to school groups about hurricane awareness and
+    NOAA’s Hurricane Research in general. Data collected by airborne hurricane missions helps to better forecast the intensity of a hurricane and where it will
+    make landfall.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Britta_Culbertson_(TAS,_2013)_Flies_With_NOAA_Hurricane_Hunters
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">7/30/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">"The One Who Got Away"</title>
+			<description class="ng-binding">&lt;p&gt;
+    Artist Sydney Inouye beautifully painted, “The One Who Got Away” for the science crew of NOAA ship &lt;em&gt;Oscar Elton Sette&lt;/em&gt;. Sydney is a 2014 graduate of
+    Mid-Pacific Institute in Honolulu, HI and one of &lt;a href="http://teacheratsea.noaa.gov/2014/acord.html"&gt;Suzanne Acord’s&lt;/a&gt; (TAS, 2014) former students.
+    She is very interested in squid and after learning about Dr. Acord’s Teacher at Sea experience volunteered to paint a squid as a gift for the science crew.
+    Dr. Don Kobayashi, NOAA Chief Scientist for the &lt;em&gt;Oscar Elton Sette &lt;/em&gt;received the painting on behalf of the rest of the science crew.
+&lt;/p&gt;
+&lt;p&gt;
+You can read about NOAA scientists from NOAA's National Marine Fisheries Service&lt;a href="http://www.nmfs.hawaii.edu/"&gt; Pacific Islands Fisheries Science Center&lt;/a&gt; (&lt;a href="http://www.pifsc.noaa.gov/"&gt;NMFS PIFSC&lt;/a&gt;) visit to    &lt;a href="http://teacheratsea.noaa.gov/2014/acord.html"&gt;Suzanne Acord’s&lt;/a&gt; (TAS, 2014) ninth grade students at Mid-Pacific Institute in Honolulu, HI on May
+    15, 2014
+    &lt;a
+        href="http://teacheratsea.noaa.gov/alumni/spotlights/index.html#scientists_from_noaa_s_national_marine_fisheries_service__pacific_islands_fisheries_science_center_visit_suzanne_acord_s_tas,_2014_school"
+    &gt;
+        here
+    &lt;/a&gt;
+    .
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/"The_One_Who_Got_Away"
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">07/09/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Jacqueline Hams (TAS 2004, 2011) Judges at the Intel International Science and Engineering Fair (ISEF)</title>
+			<description class="ng-binding">&lt;p&gt;
+1,700 finalists from around the world competed at  &lt;a href="https://student.societyforscience.org/intel-isef"&gt;Intel International Science and Engineering Fair &lt;/a&gt;in May, 2014 in Los Angeles, CA. Finalists
+qualify for Intel ISEF by participating in local, regional, state, or national fairs associated with  &lt;a href="https://www.societyforscience.org/mission-and-history"&gt;Society for Science &amp;amp; the Public&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Jacqueline_Hams_(TAS_2004,_2011)_Judges_at_the_Intel_International_Science_and_Engineering_Fair_(ISEF)
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">6/25/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Corps Visits Elizabeth Bullock’s (TAS, 2011) School to Support Boat Race Kick Off</title>
+			<description class="ng-binding">&lt;p&gt;
+NOAA Corps Officers LT Madeleine Adler and LTJG Aaron Colohan visited Green Acres School in Rockville, MD on June 9, 2014. Fifth grade students in    &lt;a href="http://teacheratsea.noaa.gov/2011/bullock.html"&gt;Elizabeth Bullock’s&lt;/a&gt; class constructed boats out of at least 50% recycled materials and raced
+    them as a culminating activity for an interdisciplinary Boat Race Project. LT Adler and LTJG Colohan discussed their roles as NOAA Corps officers and blew
+    the whistle to start the race.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Corps_Visits_Elizabeth_Bullock’s_(TAS,_2011)_School_to_Support_Boat_Race_Kick_Off
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">06/18/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Scientists from NOAA's National Marine Fisheries Service Pacific Islands Fisheries Science Center Visit Suzanne Acord's (TAS, 2014) School</title>
+			<description class="ng-binding">&lt;p&gt;
+NOAA scientists from NOAA's National Marine Fisheries Service &lt;a href="http://www.pifsc.noaa.gov/"&gt;Pacific Islands Fisheries Science Center&lt;/a&gt; (NMFS PIFSC) visited    &lt;a href="http://teacheratsea.noaa.gov/2014/acord.html"&gt;Suzanne Acord’s&lt;/a&gt; (TAS, 2014) ninth grade students at Mid-Pacific Institute in Honolulu, HI on May
+    15, 2014. The Chief Scientist, Dr. Don Kobayashi, and the science crew from NOAA ship &lt;em&gt;Oscar Elton Sette&lt;/em&gt; (Adrienne Copeland, Melanie Abecassis, Eric Mooney, Giacomo Giorli, Ali Bayless and Jessica Chen) spoke to the students about how they became scientists during a career path discussion and shared
+    hands-on activities at science stations. Students learned about deep-sea trawl catches, hydrophones for marine mammal observation, humpback and sperm
+    whales, and how scientists record conductivity, temperature and depth in the ocean.
+&lt;/p&gt;
+&lt;p&gt;</description>
+			<link>/indiv_spotlight/Scientists_from_NOAA's_National_Marine_Fisheries_Service_Pacific_Islands_Fisheries_Science_Center_Visit_Suzanne_Acord's_(TAS,_2014)_School
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">6/4/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Two Endangered Smalltooth Sawfish Named After TAS Alumni</title>
+			<description class="ng-binding">&lt;p&gt;
+    Dr. John Carlson, NOAA Southeast Fisheries Science Center research fishery biologist, and his team traveled to Andros, Bahamas in March 2014 to locate, tag
+and track one of the most endangered marine fish, the smalltooth sawfish.&lt;a href="http://teacheratsea.noaa.gov/2007/eubanks/index.html"&gt; Elizabeth Eubanks&lt;/a&gt; (TAS, 2007), &lt;a href="http://teacheratsea.noaa.gov/2011/orilio.html"&gt;Tammy Orilio&lt;/a&gt; (TAS, 2011) and their students followed Dr. Carlson’s expedition through twitter
+    @NOAAFish_SERO and learned about sawfish in class. Three smalltooth sawfish were found on the expedition. The first one was named Blair and the other two
+    were named Elizabeth and Tammy after TAS alumni!
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Two_Endangered_Smalltooth_Sawfish_Named_After_TAS_Alumni
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/28/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Candice Autry's (TAS, 2006) Students Visit NOAA's Science on a Sphere</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2006/autry/index.html"&gt;Candice Autry&lt;/a&gt;
+    , (TAS, 2006), taught her seventh and eighth grade students at the Sheridan School in Washington DC several global concepts this year such as: climate
+    change, sea level rise, population density, plate tectonics, and food vs feed. On May 13, 2014, Ms. Autry and her colleagues, Mr. Simon Kanter and Mr. Mike
+    Stoll, brought their eighth grade students to &lt;a href="http://sos.noaa.gov/What_is_SOS/index.html"&gt;NOAA’s Science on a Sphere&lt;/a&gt; (SOS) in Silver Spring,
+    MD. SOS is an animated globe that shows dynamic, animated images of the atmosphere, oceans, and land of a planet. With the instruction and knowledge that
+    NOAA Education’s Britta Culbertson brought to the SOS demonstration, concepts taught in the classroom that are often considered intangible and abstract,
+    were “brought to life” in this visual experience. Ms. Autry’s seventh grade students will also visit the SOS on May 15, 2014.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Candice_Autry's_(TAS,_2006)_Students_Visit_NOAA's_Science_on_a_Sphere
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">05/14/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni Volunteer at USA Science and Engineering Festival</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2007/martz/index.html"&gt;Elizabeth Martz&lt;/a&gt;
+    (TAS, 2007) and &lt;a href="http://teacheratsea.noaa.gov/2010/king.html"&gt;Steven King&lt;/a&gt; (2010), volunteered at the NOAA booth on April 26 and 27, 2014
+    during the 3&lt;sup&gt;rd&lt;/sup&gt; &lt;a href="http://www.usasciencefestival.org/"&gt;USA Science and Engineering Festival&lt;/a&gt;. The festival was held at the Washington DC
+    Convention Center and was attended by over 325,000 people. Ms. Martz displayed marine specimens and shared information with the public about her Teacher at
+    Sea Experience. Mr. King shared information about NOAA buoys and then helped children construct their own buoy models! A huge thank you to both Ms. Martz
+    and Mr. King for your hard work and time at the booth!
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;em&gt;
+        The mission of the USA Science &amp;amp; Engineering Festival is to re-invigorate the interest of our nation’s youth in science, technology, engineering
+        and math (STEM) by producing and presenting the most compelling, exciting, educational and entertaining science festival in the United States.
+    &lt;/em&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_Volunteer_at_USA_Science_and_Engineering_Festival
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">05/08/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Fishing for Information Lesson Plan: How Can Datasets Help Answer Scientific Questions?</title>
+			<description class="ng-binding">&lt;p&gt;
+    Britta Culbertson, (TAS, 2013), was aboard NOAA ship &lt;em&gt;Oscar Dyson &lt;/em&gt;during a Walleye Pollock survey in September, 2013. Her high school level lesson
+    plan “Fishing for Information”, has students examine large NOAA fisheries datasets and develop research questions based on the data. Students analyze the
+    data and create graphical or other mathematical representations, and develop a conclusion based on the evidence they’ve discovered. They then research the
+    species on which they’re focusing and state any relevant regulations and prior research applicable to the organism.
+&lt;/p&gt;
+&lt;p&gt;
+    You can read Britta’s lesson, “Fishing for Information”, &lt;a href="http://teacheratsea.noaa.gov/2013/culbertson.html#lessonsbox"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Fishing_for_Information_Lesson_Plan:_How_Can_Datasets_Help_Answer_Scientific_Questions?
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">4/30/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Truro Central School Hosts NOAA Ocean Day</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2009/klimkosky/index.html"&gt;Stacey Klimkosky&lt;/a&gt; (TAS, 2009), Truro Central School media teacher, staff and students welcomed NOAA Outreach and Education on Protected Species (&lt;a href="http://www.nefsc.noaa.gov/psb/NOEPS/"&gt;NOEPS&lt;/a&gt;) marine educators and scientists from the NOAA Northeast Fisheries Science Center (    &lt;a href="http://www.nefsc.noaa.gov/"&gt;NEFSC&lt;/a&gt;) in Woods Hole, MA to their school for NOAA Ocean Day on April 15, 2014. These “Scientists Teaching Science”
+    from the NEFSC Protected Species Branch spent the day teaching 140, K-6 students about bioacoustics, marine mammals, sea turtles, and ocean surface current
+    drifters.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Truro_Central_School_Hosts_NOAA_Ocean_Day
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">04/16/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher Sea Alumni Volunteer at NSTA in Boston</title>
+			<description class="ng-binding">&lt;p&gt;
+   15 NOAA Teacher at Sea alumni (TASA) volunteered April 3-5, 2014 at the NOAA booth during the National Science Teacher Association Conference in Boston.
+    TASA distributed NOAA education materials and demonstrated hands-on ocean activities. They informed science teachers and others about NOAA’s mission and service to the public, as well as showed our
+    impact on science, technology, engineering, and mathematics education.
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;p&gt;
+    &lt;/p&gt;
+See a short NSTA video (featuring our TASA) to learn more about the conference  &lt;a href="https://www.youtube.com/watch?v=vNmNGcgjvyU&amp;amp;list=PLGVe6BxyFHNWL3cvD1ojpy0aX2VvN3ciD&amp;amp;index=29"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_Sea_Alumni_Volunteer_at_NSTA_in_Boston
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">4/9/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Mary Patterson, (TAS, 2009) Volunteers at Congressman Henry Cuellar's STEM Alliance Event  in Laredo, TX</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2009/patterson.html"&gt;Mary Patterson&lt;/a&gt;,(TAS, 2009)
+ volunteered at the &lt;a href="http://cuellar.house.gov/news/documentsingle.aspx?DocumentID=370954"&gt;STEM Alliance Event&lt;/a&gt; on March 28, 2014 in
+    Laredo, TX. The event was hosted by the Office of Congressman Henry Cuellar (D-TX28) and 
+Texas A&amp;amp;M International University. STEM professionals,
+    activities and career information reached local Hispanic and female students who are underrepresented in the areas of Science, Technology, Engineering and
+    Mathematics. Ms. Patterson demonstrated a hands-on sea floor mapping activity using a hydrography model to Laredo Independent School District students.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Mary_Patterson,_(TAS,_2009)_Volunteers_at_Congressman_Henry_Cuellar's_STEM_Alliance_Event__in_Laredo,_TX
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">4/1/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Mid-Atlantic Region Teacher at Sea Alumni Attend Workshop at NOAA Headquarters</title>
+			<description class="ng-binding">&lt;p&gt;
+Seventeen NOAA Teacher at Sea Alumni from the Mid-Atlantic Region (DC, DE, MD, and VA) met in Silver Spring, MD on March 14 – 17, 2014 for a three-day workshop with the following objectives: 
+&lt;/p&gt;
+&lt;ul&gt;
+    
+    &lt;li style="list-style-type:disc"&gt;
+        Enhance science content knowledge
+    &lt;/li&gt;
+    &lt;li style="list-style-type:disc"&gt;
+        Share local NOAA data and resources
+    &lt;/li&gt;
+    &lt;li style="list-style-type:disc"&gt;
+    Explore ways in which workshop content can be incorporated in curriculum
+&lt;/li&gt;
+    &lt;li style="list-style-type:disc"&gt;
+     Develop a plan to work together and promote NOAA science in Mid-Atlantic schools and communities.
+&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;
+    The workshop, held on NOAA’s Main Campus, included tours of NOAA’s Science Center and Auditorium, NOAA’s Science on a Sphere, and the Gateway to NOAA. Topics included geodesy, ocean circulation, tide prediction, measuring sea level, jellyfish and sponges history and evolution, and other ocean topics.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Mid-Atlantic_Region_Teacher_at_Sea_Alumni_Attend_Workshop_at_NOAA_Headquarters
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">03/19/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Rita Salisbury (TAS,2013) Volunteers at NOAA Heritage Week Open House</title>
+			<description class="ng-binding">&lt;p&gt;
+Rita Salisbury (TAS, 2013) volunteered to share information about the NOAA Teacher at Sea Program and demonstrated fisheries hands-on activities at &lt;a href="http://preserveamerica.noaa.gov/hw14.html"&gt;NOAA’s Heritage Week Open House&lt;/a&gt; on Saturday, February 15, 2014 at NOAA’s Science Center in Silver
+Spring, MD. A series of free activities was open to the public, including guest presentations, interactive exhibits, and hands-on activities for ages 5 and
+up. Ms. Salisbury shared her &lt;a href="http://teacheratsea.noaa.gov/2013/salisbury.html"&gt;TAS experience&lt;/a&gt; aboard NOAA ship &lt;em&gt;Oscar Elton Sette&lt;/em&gt; with
+the community and explained how light waves in water provide camouflage for some deep sea bottomfish. NOAA’s Heritage Week is an annual event and is part
+of the &lt;a href="http://www.preserveamerica.gov/"&gt;Preserve America Initiative.&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Sussex Technical High School Article about Ms. Salisbury at NOAA Heritage Week Open House -
+&lt;a href="http://www.sussexvt.k12.de.us/school/j-pages/announce-list/1213-st-biology-teacher-is-invited-host-at-noaa-heritage-week-open-house"&gt;
+Click Here
+&lt;/a&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Rita_Salisbury_(TAS,2013)_Volunteers_at_NOAA_Heritage_Week_Open_House
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">02/26/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Paul Ritter (TAS, 2013) Speaks at Science in the South Conference</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2013/ritter.html"&gt;Paul Ritter (TAS, 2013)&lt;/a&gt;
+was the keynote speaker at the 18&lt;sup&gt;th&lt;/sup&gt; annual Science in the South Conference at Southern Illinois University in Carbondale, IL on January 31,
+2014. K-12 educators from across Illinois attended to build teaching skills, expand content knowledge and network with other teachers. Mr. Ritter shared
+his experience aboard NOAA ship &lt;em&gt;Pisces &lt;/em&gt;with over 200 science educators. He also spoke about the &lt;a href="http://p2d2program.wordpress.com/"&gt; Prescription Pill and Drug Disposal Program (P2D2)&lt;/a&gt; and &lt;a href="http://www.statefarmyab.com/projects/details/operation-endangered-species-the-alligator-snapping-turtle-project/"&gt;Operation Endangered Species&lt;/a&gt;, two student-led initiatives at Pontiac High School, where he teaches.
+&lt;/p&gt;
+&lt;p&gt;</description>
+			<link>/indiv_spotlight/Paul_Ritter_(TAS,_2013)_Speaks_at_Science_in_the_South_Conference
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">2/5/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Frank Hubacz (TAS, 2013) Visits US Senator Shaheen (NH) in Washington DC</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://www.shaheen.senate.gov/"&gt;U.S. Senator Jeanne Shaheen&lt;/a&gt;
+(NH) invited Frank Hubacz (TAS, 2013) to visit her in her Capitol Hill office while he was in Washington DC in December, 2013. Senator Shaheen was
+interested in learning more about the NOAA Teacher at Sea Program and how Frank's research experience aboard NOAA ship &lt;em&gt;Oscar Dyson &lt;/em&gt;in April, 2013
+impacted him professionally.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Frank_Hubacz_(TAS,_2013)_Visits_US_Senator_Shaheen_(NH)_in_Washington_DC
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">1/22/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Rebecca Himschoot (TAS, 2007) Receives Presidential Award</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2007/himschoot/index.html"&gt;Rebecca Himschoot&lt;/a&gt;
+(TAS 2007) was one of 102 teachers nationwide to receive the 2012 &lt;a href="https://www.paemst.org/"&gt;Presidential Award for Excellence in Mathematics and Science&lt;/a&gt;. The White House announced the winners of the nation’s
+highest honor for teachers of math and science on December 20, 2013. Congratulations Rebecca!
+&lt;/p&gt;
+&lt;p&gt;
+The award includes a $10,000 cash prize from the National Science Foundation, a trip to Washington DC to meet President Obama, and a tour of the
+Smithsonian.
+&lt;/p&gt;
+&lt;p&gt;
+You can read more about Rebecca’s honor &lt;a href="http://www.alaskapublic.org/2014/01/06/sitka-teacher-wins-white-house-award/"&gt;here&lt;/a&gt; and view Rebecca’s
+profile on the Presidential Awards for Excellence in Mathematics and Science Teaching Recognition Program &lt;a href="https://recognition.paemst.org/finalist_profile/29473"&gt;here.&lt;/a&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Rebecca_Himschoot_(TAS,_2007)_Receives_Presidential_Award
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">1/10/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Teacher at Sea Alumni Present at the Smithsonian</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2013/hubacz.html"&gt;Frank Hubacz&lt;/a&gt;
+(2013), &lt;a href="http://teacheratsea.noaa.gov/2013/crane.html"&gt;Yaara Crane&lt;/a&gt; (2013) and &lt;a href="http://teacheratsea.noaa.gov/2013/peters.html"&gt;Chris Peters&lt;/a&gt; (2013) presented hands-on ocean related activities and their TAS experiences at
+the Smithsonian National Museum of Natural History on Wednesday, December 18, 2013. They were invited to participate in a weekly public event called &lt;a href="http://ocean.si.edu/ocean-news/scientist"&gt;“&lt;em&gt;The Scientist is In: Ask an Expert”&lt;/em&gt;&lt;/a&gt; that is held at the Sant Ocean Hall of the museum each
+week.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Teacher_at_Sea_Alumni_Present_at_the_Smithsonian
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">01/01/2014</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni Attend NSTA in Denver, Colorado</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2012/urasky.html"&gt;Lesley Urasky&lt;/a&gt;
+(2012), &lt;a href="http://teacheratsea.noaa.gov/2012/schmuttermair.html"&gt;Andrea Schmuttermair&lt;/a&gt; (2012),&lt;a href="http://teacheratsea.noaa.gov/2011/fox.html"&gt;Cathrine Fox&lt;/a&gt; (2011) and &lt;a href="http://teacheratsea.noaa.gov/2013/culbertson.html"&gt;Britta Culbertson&lt;/a&gt; (2013) represented the NOAA Teacher at Sea Program (TAS) at the regional &lt;a href="http://www.nsta.org/conferences/area3.aspx"&gt;National Science Teachers Association Conference in Denver, Colorado&lt;/a&gt; on December 11 -14, 2013. The
+NOAA Teacher at Sea Alumni (TASA) shared their TAS experiences with the public, informed them about the TAS program, and distributed NOAA education
+materials. TASA’s work at this conference, helped to teach science teachers and others NOAA’s mission and service to the public, as well as, show NOAA's
+impact on science, technology, engineering, and mathematics education.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_Attend_NSTA_in_Denver,_Colorado
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">12/16/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">The "Right" Kind of Lessons</title>
+			<description class="ng-binding">&lt;p&gt;
+The "Right" Kind of Lessons: &lt;a href="http://teacheratsea.noaa.gov/2013/greene.html"&gt;Angela Greene&lt;/a&gt; (TAS, 2013) joined NOAA scientists on NOAA ship &lt;em&gt;Gordon Gunter&lt;/em&gt; in May to survey the population of the critically endangered North Atlantic right whale. This gentle giant is listed under the &lt;a href="http://www.nmfs.noaa.gov/stories/2013/11/11_21_13esa_turns_40.html"&gt;Endangered Species Act, which celebrates 40 years&lt;/a&gt; this December. In an
+interview with NOAA Fisheries, Angela explains what she learned and what she’s sharing with her students.
+&lt;/p&gt;
+&lt;p&gt;
+You can read the NOAA Fisheries feature story &lt;a href="http://www.fisheries.noaa.gov/stories/2013/12/12_13_2013tas_right_whale_survey.html" target="_blank"&gt;here&lt;/a&gt;.
+
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/The_"Right"_Kind_of_Lessons
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">12/13/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni Attend NSTA in Charlotte, NC</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2013/owens.html"&gt;Beverly Owens (2013)&lt;/a&gt;
+, &lt;a href="http://teacheratsea.noaa.gov/2013/culbertson.html"&gt;Britta Culbertson (2013)&lt;/a&gt;, and &lt;a href="http://teacheratsea.noaa.gov/2010/byford.html"&gt;Anne Byford (2010&lt;/a&gt;) represented the NOAA Teacher at Sea Program (TAS) at the regional &lt;a href="http://www.nsta.org/conferences/area2.aspx"&gt;National Science Teachers Association Conference in Charlotte&lt;/a&gt;, NC on November 7-9, 2013. The NOAA
+Teacher at Sea Alumni (TASA) shared their TAS experiences with the public, informed them about the TAS program, and distributed NOAA education materials.
+TASA’s work at this conference, helped to teach science teachers and others NOAA’s mission and service to the public, as well as, show NOAA's impact on
+science, technology, engineering, and mathematics education.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_Attend_NSTA_in_Charlotte,_NC
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/27/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Channa Comer (2011) Creates Engineering Design Challenge</title>
+			<description class="ng-binding">&lt;p&gt;
+Channa Comer (2011), a high school science teacher at Urban Assembly Academy of History and Citizenship for Young Men in Bronx, NY was aboard R/V &lt;em&gt;Hugh R. Sharp &lt;/em&gt;while scientists conducted fisheries research on sea scallops in northeastern waters.
+&lt;/p&gt;
+&lt;p&gt;
+Ms. Comer challenges her students to design a sea scallop dredge in order to understand the impact of human activity on ocean ecology, and to discover how
+the engineering and design process can be used to solve problems.
+&lt;/p&gt;
+&lt;p&gt;
+Read Ms. Comer’s &lt;em&gt;Atlantic Sea Scallop Dredge Design Challenge &lt;/em&gt;lesson plan by going to &lt;a href="http://teacheratsea.noaa.gov/2011/comer.html"&gt;http://teacheratsea.noaa.gov/2011/comer.html&lt;/a&gt; and clicking on the &lt;a href="http://teacheratsea.noaa.gov/2011/comer.html#lessons"&gt;lessons and products tab&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Channa_Comer_(2011)_Creates_Engineering_Design_Challenge
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/7/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumni Attend Regional Science Conferences</title>
+			<description class="ng-binding">&lt;p&gt;
+Marla Crouch (2013), Julia Harvey (2013), Katie Sard (2013), Britta Culbertson (2013) and Barney Peterson (2006) represented the NOAA Teacher at Sea
+Program at the regional &lt;a href="http://www.nsta.org/conferences/area1.aspx"&gt;NSTA conference in Portland, OR&lt;/a&gt; on October 24-26, 2013. The NOAA Teacher
+at Sea Alumni (TASA) shared their TAS experiences with the public, informed them about the TAS program, and distributed NOAA education materials.
+&lt;/p&gt;
+&lt;p&gt;
+Paul Ritter (2013), President of the Illinois Science Teachers Association (ISTA), represented the NOAA Teacher at Sea Program and shared his TAS
+experience during his presentation – &lt;em&gt;Backyard Biodiversity: Interdisciplinary Innovations and Classroom Connections&lt;/em&gt; at &lt;a href="http://www.ista-il.org"&gt;the ISTA Illinois Science Education Annual Conference&lt;/a&gt; in Tinley Park, IL on October 24-26, 2013.
+&lt;/p&gt;
+&lt;p&gt;
+TASA’s work at these conferences, helped to teach science teachers and others NOAA’s mission and service to the public, as well as, show NOAA's impact on
+science, technology, engineering, and mathematics education.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumni_Attend_Regional_Science_Conferences
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/30/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Elizabeth Bullock (2011) and Yaara Crane (2013) Share Activities at STEM Fair</title>
+			<description class="ng-binding">&lt;p&gt;
+Elizabeth Bullock (2011) and Yaara Crane (2013) shared hands-on STEM activities related to their NOAA Teacher at Sea Cruise at the NOAA booth during U.S.
+Representative Frank Wolf and the National Science Foundation sponsored &lt;em&gt;Change the World: Science &amp;amp; Engineering Careers, a public STEM fair &lt;/em&gt;on
+September 28, 2013 held at the Dulles Towne Center Mall in Dulles, VA.
+&lt;/p&gt;
+&lt;p&gt;
+The STEM Careers Fair showcased exciting science and innovation with the goal of encouraging young people to pursue careers in science, technology,
+engineering and math. The fair provided an opportunity for over 100 science-related organizations to showcase STEM research and education activities that
+are taking place throughout the United States and highlighted the vast diversity of STEM career possibilities.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Elizabeth_Bullock_(2011)_and_Yaara_Crane_(2013)_Share_Activities_at_STEM_Fair
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/23/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Drifter Buoy, Launched By Sue Cullumber (2013), Travels 528 Nautical Miles</title>
+			<description class="ng-binding">&lt;p&gt;
+While aboard NOAA ship NOAA ship, &lt;em&gt;Gordon Gunter&lt;/em&gt;, in June 2013, &lt;a href="http://teacheratsea.noaa.gov/2013/cullumber.html"&gt;Sue Cullumber&lt;/a&gt; (TAS,
+2013), launched a &lt;a href="http://www.aoml.noaa.gov/phod/dac/gdp_drifter.php"&gt;Global Drifter Buoy&lt;/a&gt; (GDB) off of the coast of New Jersey. That buoy has
+now traveled 528 nautical miles.
+&lt;/p&gt;
+&lt;p&gt;
+You can track the drifter &lt;a href="http://www.aoml.noaa.gov/phod/trinanes/xbt.html"&gt;here&lt;/a&gt;. Follow the steps below:
+&lt;/p&gt;
+1. Choose Data Set: GTS Buoys and Platform # 44932
+&lt;/p&gt;
+2. Highlight the East Coast of the US on both the large and small map
+&lt;/p&gt;
+3. Make sure you put the Initial date as: June 19, 2013
+&lt;/p&gt;
+4. Click Go
+&lt;/p&gt;
+5. To Zoom in highlight this area again and click Go.
+&lt;/p&gt;
+6. Do this several more times to get a close up picture of the Buoy’s track.
+&lt;/p&gt;
+You can view Ms. Cullumber’s drifter buoy lesson plan that uses buoy tracking data &lt;a href="http://teacheratsea.noaa.gov/2013/LessonPlans/Cullumber/SueCullumberdrifterbuoylessonplan.pdf"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Drifter_Buoy,_Launched_By_Sue_Cullumber_(2013),_Travels_528_Nautical_Miles
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">9/26/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Kathleen DeLussey (2012) Sparks Passion for the Ocean</title>
+			<description class="ng-binding">&lt;p&gt;
+After returning from her Teacher at Sea (TAS) cruise in 2012, &lt;a href="http://teacheratsea.noaa.gov/2012/delussey.html"&gt;Kathleen DeLussey&lt;/a&gt;, wasted no
+time sharing her experience with her third grade students. In September, 2012, Ms. DeLussey created a project,&lt;em&gt;Teacher at Sea = Third Graders Learning and Loving Oceans&lt;/em&gt;, requesting public funding for ocean related non-fiction reading materials through &lt;a href="http://www.donorschoose.org/about"&gt;Donors Choose&lt;/a&gt;. She received nearly $600 worth of non-fiction books that were the beginning of a
+multidisciplinary unit of study to build ocean literacy.
+&lt;/p&gt;
+&lt;p&gt;
+Ms. DeLussey shared her NOAA TAS experience with her students prior to their research of ocean topics. They then wrote their own ocean-themed books, built
+ocean models, created hallway ocean displays and wrote persuasive letters to local representatives and President Obama asking them to protect oceans and
+ocean life. “My students were so engaged! They were so eager! They were so…connected!”
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Kathleen_DeLussey_(2012)_Sparks_Passion_for_the_Ocean
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">9/18/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">TAS Lesson Plan Search Now Online</title>
+			<description class="ng-binding">&lt;p&gt;
+Welcome Back to School! Now that school is back in session, you may need to search for lesson plans by a specific topic or grade level.
+&lt;/p&gt;
+&lt;p&gt;
+There is a new lesson search function on the &lt;a href="http://www.teacheratsea.noaa.gov/"&gt;Teacher at Sea website&lt;/a&gt;. Click in the Search box top right, and
+Search Lessons for "shark", “careers” (or other topics). Then use the filter to narrow results by grade level.
+&lt;br/&gt;
+&lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Try searching “fisheries”, to find a lesson about Fisheries and Aquaculture written by &lt;a href="http://teacheratsea.noaa.gov/2011/mortimer.html"&gt;Anne Mortimer&lt;/a&gt; (TAS 2011).
+
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/TAS_Lesson_Plan_Search_Now_Online
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">9/4/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Amanda Peretich (TAS, 2012) Visits NOAA Scientists at the Alaska Fisheries Science Center</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2012/peretich.html"&gt;Amanda Peretich&lt;/a&gt;, (TAS, 2012) was one of twenty teachers selected as a participant in the 2013 &lt;a href="http://siemensstemacademy.com/index.cfm?event=showPage&amp;amp;p=programOverview"&gt;Siemens Science Teachers As Researchers (STARs)&lt;/a&gt; Program at the
+Pacific Northwest National Laboratories (PNNL) in July. After two weeks of research immersion at PNNL, Ms. Peretich went to &lt;a href="http://www.afsc.noaa.gov/"&gt;NOAA Fisheries Alaska Fisheries Science Center (AFSC)&lt;/a&gt; in Seattle, WA. She visited Neal Williamson and Denise
+McKelvey, two NOAA research fish biologists who were on NOAA ship &lt;em&gt;Oscar Dyson &lt;/em&gt;during her TAS cruise in July 2012. The scientists set up lab tours
+and took her on a tour of the rest of the AFSC.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Amanda_Peretich_(TAS,_2012)_Visits_NOAA_Scientists_at_the_Alaska_Fisheries_Science_Center
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">08/22/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Susie Hill, (TAS,2007) Visits NOAA Headquarters in Norfolk, VA with her Explore the Bay Campers</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2007/hill/index.html"&gt;Susie Hill&lt;/a&gt;
+, &lt;a href="http://www.nauticus.org/"&gt;Nauticus&lt;/a&gt; Education Specialist and NOAA Teacher at Sea '07, and her &lt;em&gt;&lt;a href="http://www.nauticus.org/programs-activities/summer-camp"&gt;Explore the Bay&lt;/a&gt;&lt;/em&gt; Summer Campers had the field trip of a lifetime at the NOAA
+Headquarters in Norfolk, VA on August 6, 2013. The six campers, ages 10-13, spent the day with NOAA Corps Officers LCDR Denise Gruccio and ENS Charles
+Wisotzkey touring the &lt;a href="http://www.moc.noaa.gov/tj/"&gt;NOAA Ship &lt;em&gt;Thomas Jefferson&lt;/em&gt;&lt;/a&gt;&lt;em&gt; &lt;/em&gt;where they saw spaces such as the Charting
+Room, Galley, Damage Control Locker Equipment Room, and Navigation Bridge. They also had the opportunity to learn about ocean bathymetry with NOAA Physical
+Scientist, Ms. Tyanne Faulkes while she demonstrated the processes of sidescan and multibeam sonar mapping.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Susie_Hill,_(TAS,2007)_Visits_NOAA_Headquarters_in_Norfolk,_VA_with_her_Explore_the_Bay_Campers
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">08/15/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Jennifer Goldner and Her Students Create Their Own Shark-Themed Coloring Book</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2011/goldner.html"&gt;Jennifer Goldner&lt;/a&gt;, a fifth grade math teacher at Jay Public Upper Elementary School in Jay, OK, was aboard the NOAA ship &lt;em&gt;Oregon II &lt;/em&gt;in August 2011.
+Scientists conducted a shark longline survey in the Southern Atlantic Ocean and the Gulf of Mexico. During this research cruise, Ms. Goldner met Dr. William
+Driggers and Ms. Kristin Hannan from the NOAA Fisheries Laboratory in Pascagoula, Mississippi. Both scientists helped generate ideas to help her
+students learn more about ocean life. They helped her fill her journal with facts about sharks along with lessons to implement in the classroom. After a
+year-long collaboration, Jennifer Goldner, her fifth grade students, Dr. Driggers and Ms. Hannan produced a scientifically accurate Shark Alphabet coloring
+book, called &lt;em&gt;Under the Sea with Sharks ABC’s. &lt;/em&gt;You can view the book by clicking the link below.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="http://www.tas.noaa.gov/books/pdf/DaftariAlphabetBook.pdf"&gt;&lt;em&gt;Under the Sea with Sharks ABC’s&lt;/em&gt;&lt;/a&gt; (pdf, 7.1Mb)&lt;/em&gt;.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Jennifer_Goldner_and_Her_Students_Create_Their_Own_Shark-Themed_Coloring_Book
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">8/7/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Michele Brustolon (TAS, 2010) and Allan Phipps (TAS, 2012) Speak at House Oceans Caucus Briefing in Washington D.C.</title>
+			<description class="ng-binding">&lt;p&gt;The House Ocean Caucus invited NOAA Teacher at Sea alumni Michele Brustolon (2010) and Allan Phipps (2012) to the United States Capitol Building in Washington D.C. on July 11, 2013, to speak at a briefing titled NOAA Science Transforming Classrooms and Communities. They were asked to address how the Science, Technology, Engineering, and Mathematics (STEM) consolidation proposal in the President’s Fiscal Year 2014 Budget Request impacts their own community. The goal of the House Ocean Caucus is to build awareness, exchange information and ideas, and to explore important issues that relate to the ocean. Representative Sam Farr (CA), Co-Chair of the House Ocean Caucus met with Ms. Brustolon and Mr. Phipps at the beginning of the briefing. Staff from the House of Representatives were in attendance.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Michele_Brustolon_(TAS,_2010)_and_Allan_Phipps_(TAS,_2012)_Speak_at_House_Oceans_Caucus_Briefing_in_Washington_D.C.
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">7/18/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teachers at Sea Spread the Word about Fisheries Science</title>
+			<description class="ng-binding">&lt;p&gt;
+Read how four 2013 TAS experienced NOAA Fisheries Science first-hand and the lessons that they learned in a &lt;a href="http://www.nmfs.noaa.gov/stories/2013/06/6_27_13tas_science_at_sea.html"&gt;National Marine Fisheries Service (NMFS) feature story&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teachers_at_Sea_Spread_the_Word_about_Fisheries_Science
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">7/3/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Staci DeSchryver (TAS 2011) Shares Ocean Acidification Unit Plan</title>
+			<description class="ng-binding">&lt;p&gt;
+Staci DeSchryver (TAS 2011), an earth science teacher at &lt;a href="http://www.cths.ccsd.k12.co.us/" target="_blank"&gt;Cherokee Trail High School&lt;/a&gt; in
+Aurora, CO was aboard NOAA Ship &lt;em&gt;&lt;a href="http://www.moc.noaa.gov/od/" target="_blank"&gt;Oscar Dyson&lt;/a&gt;&lt;/em&gt; while scientists conducted &lt;a href="http://www.afsc.noaa.gov/species/pollock.php" target="_blank"&gt;Fisheries research off the coast of Alaska&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2011/deschryver.html#lessons"&gt;Below Basic: Ocean Acidification and Its Impacts on Marine Organisms&lt;/a&gt;
+&lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;By: Staci DeSchryver &lt;/strong&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Grade Level&lt;/strong&gt;
+: 9-12
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Subject (Focus/Topic)&lt;/strong&gt;
+: This lesson addresses the impacts that ocean acidification has on marine organisms, particularly those with calcium carbonate (CaCO3) shells.
+&lt;/p&gt;
+&lt;p&gt;
+&lt;strong&gt;Lesson Summary (Overview/Purpose)&lt;/strong&gt;
+: Students will demonstrate how CaCO3 forms protective shells for marine organisms, how CO2 enters the ocean and impacts pH, why CO2 can remain in solution
+easily in the ocean, what happens when the balance of CO2 is disrupted in the ocean, how it impacts Calcium Carbonate fixing organisms such as pteropods,
+and predict how this impacts the global food web.
+&lt;/p&gt;
+&lt;p&gt;
+You can read Ms. DeSchryver’s complete unit plan at: &lt;a href="http://teacheratsea.noaa.gov/2011/deschryver.html#lessons"&gt;http://teacheratsea.noaa.gov/2011/deschryver.html#lessons&lt;/a&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Staci_DeSchryver_(TAS_2011)_Shares_Ocean_Acidification_Unit_Plan
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">6/21/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA's Alaska Fisheries Science Center's Science and Research Director Supports Teacher at Sea</title>
+			<description class="ng-binding">&lt;p&gt;
+&lt;a href="http://www.afsc.noaa.gov/generalinfo/aboutus.htm"&gt;NOAA’s Alaska Fisheries Science Center’s&lt;/a&gt;
+(AFSC) Science and Research Director, Dr. Douglas DeMaster, recently expressed his support for the NOAA Teacher at Sea (TAS) Program. In his letter, he
+explains that over the last 21 years, NOAA science benefits “greatly from the assistance provided to our research scientists by the many teachers we have
+had the pleasure to sail with,” and “the TAS program serves a critical role” in fisheries research.
+&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://teacheratsea.noaa.gov/highlights/pdfs/afsc_thank_you_letter_6_2013.pdf"&gt;
+Letter from Dr. Douglas DeMaster, AFSC Science and Research Director
+&lt;/a&gt; &lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA's_Alaska_Fisheries_Science_Center's_Science_and_Research_Director_Supports_Teacher_at_Sea
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">6/13/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Corps Officer Visits Elizabeth Bullock's (TAS 2011) School</title>
+			<description class="ng-binding">&lt;p&gt;
+NOAA Teacher at Sea alumna, Elizabeth Bullock’s fifth grade students at Green Acres School in Rockville, MD had a special visit from NOAA Corps Officer, LT
+Wendy Lewis on Tuesday, June 4. Ms. Bullock’s students constructed boats out of at least 50% recycled materials and raced them as a culminating activity
+for an interdisciplinary boat race project. LT Lewis discussed her role as a NOAA Corps officer and blew the whistle to start the race.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Corps_Officer_Visits_Elizabeth_Bullock's_(TAS_2011)_School
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">06/05/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Ship Shape: Careers on a NOAA Ship</title>
+			<description class="ng-binding">&lt;p&gt;
+Andrea Schmuttermair (TAS 2012) was aboard NOAA Ship &lt;em&gt;Oregon II&lt;/em&gt; during a SEAMAP Summer Ground Fish Survey. While on her research cruise, Ms.
+Schmuttermair learned about NOAA Careers during an interview with one of the junior NOAA Corps officers. You can view the interview by going to Ms.
+Schmuttermair’s &lt;a href="http://teacheratsea.wordpress.com/2012/07/07/andrea-schmuttermair-back-on-solid-ground-july-7-2012/"&gt;blog&lt;/a&gt;, and you can see the
+lesson plan that she wrote about NOAA Careers by going to the &lt;a href="http://teacheratsea.noaa.gov/2012/schmuttermair.html#lessons"&gt; lesson tab of her page&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Ship_Shape:_Careers_on_a_NOAA_Ship
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/22/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Stacey Jambura (TAS 2012) Creates Sargassum Hide-n-Seek Lesson Plan</title>
+			<description class="ng-binding">&lt;p&gt;
+See how Stacey Jambura (TAS 2012) brings her experience aboard NOAA ship &lt;em&gt;Oregon II &lt;/em&gt;back to her classroom by going to the &lt;a href="http://teacheratsea.noaa.gov/2012/jambura.html#lessons"&gt;lesson plan tab of her page &lt;/a&gt;. Although Ms. Jambura lives in Iowa, she was able to
+bring the Gulf of Mexico to her students by teaching them about marine research sampling. Through a hands-on simulated research survey of surface dwelling
+marine organisms that rely on sargassum as a habitat, Ms. Jambura recreated a day during her research cruise when she used a Neuston net to collect marine
+organism samples living in sargassum. Check out her
+&lt;em&gt;
+&lt;a href="http://teacheratsea.wordpress.com/2012/07/15/stacey-jambura-sargassum-sargassum-sargassum-july-15-2012/"&gt;Sargassum, Sargassum, Sargassum &lt;/a&gt;
+&lt;/em&gt;
+blog to see where her lesson, &lt;em&gt;Sargassum Hide-n-Seek, &lt;/em&gt;idea originated.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Stacey_Jambura_(TAS_2012)_Creates_Sargassum_Hide-n-Seek_Lesson_Plan
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/14/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Program By the Numbers</title>
+			<description class="ng-binding">&lt;p&gt;
+    NOAA Teacher at Sea Program’s mission is to provide teachers hands-on, research experience at sea, giving them unique insight into oceanographic,
+    hydrographic, and fisheries research by facilitating partnerships between educators and world-renowned NOAA Scientists. Over the last 23 years that the
+    program has operated, 650+ teachers have experienced this mission.
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;em&gt;&lt;a href="http://teacheratsea.noaa.gov/highlights/pdfs/TAS_for_web.pdf"&gt;NOAA Teacher at Sea By the Numbers &lt;/a&gt;&lt;/em&gt;
+    highlights data that has been collected throughout the history of the program, such as the number of science blog posts written, number of educational
+    products created, number of students reached, and more.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Program_By_the_Numbers
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/8/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Alicia Gillean (TAS, 2012) Heads to Alaska to Study Arctic Ground Squirrels</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2012/gillean.html"&gt;Alicia Gillean (TAS, 2012)&lt;/a&gt;
+    was one of over 200 applicants to be selected by &lt;a href="http://www.polartrec.com/"&gt;PolarTREC &lt;/a&gt;(Teachers and Researchers Exploring and Collaborating)
+    in November 2012. Mrs. Gillean is going to Northern Alaska from May 30, 2013 – June 27, 2013 to participate in a PolarTREC research expedition at Toolik
+    Research Station in conjunction with the University of Alaska. She will work with a team of five scientists to monitor the daily habits of arctic ground
+    squirrels.
+&lt;/p&gt;
+&lt;p&gt;
+While in San Antonio, Texas in April 2013 for a TAS Alumni Meeting, Mrs. Gillean met fellow alumna,&lt;a href="http://teacheratsea.noaa.gov/2011/fox.html"&gt;Cat Fox&lt;/a&gt;. Mrs. Fox sailed aboard the &lt;em&gt;Oscar Dyson&lt;/em&gt; in 2011, resulting in her    &lt;a href="http://teacheratsea.files.wordpress.com/2013/04/blueworld014.jpg"&gt;Adventures in a Blue World &lt;/a&gt;cartoon series that highlights her TAS
+    experience. Mrs. Gillean told the TAS Alumni during the meeting that she would soon be traveling to Northern Alaska to study arctic ground squirrels, so
+    Mrs. Fox drew a cartoon arctic ground squirrel that resulted in the “Inter-Species Exchange Program”.
+&lt;/p&gt;
+&lt;p&gt;
+    In this Inter-Species Exchange Program, Mrs. Gillean travels from Oklahoma to the Arctic and Mrs. Fox’s cartoon arctic ground squirrel heads to Oklahoma
+and anywhere else it decides to travel. Once the    &lt;a href="https://docs.google.com/file/d/0BxEmTMvFJfCVdXhxYmpkRHRCVnM/edit?usp=sharing"&gt;squirrel cartoon is downloaded &lt;/a&gt;anyone can take him on an
+    adventure and take a picture with the squirrel. Mrs. Gillean will post the pictures she receives by &lt;a href="mailto:agillean@polartrec.com"&gt;email &lt;/a&gt;on
+    her &lt;a href="http://www.polartrec.com/expeditions/arctic-ground-squirrel-studies/journals/2013-04-18"&gt;PolarTREC blog&lt;/a&gt; so that everyone can see where the
+    arctic ground squirrel has travelled.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Alicia_Gillean_(TAS,_2012)_Heads_to_Alaska_to_Study_Arctic_Ground_Squirrels
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">4/30/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Dakota Feather Wins First Place at Art Festival</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/books/pdf/DaftariAlphabetBook.pdf"&gt;ABC Shark Coloring Book&lt;/a&gt;
+    Illustrator, Dakota Feather, Wins First Place at &lt;a href="http://www.tulsaindianartfestival.com/history.html"&gt;Tulsa Indian Art Festival &lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Dakota Feather, a sixth grader at Jay Middle School and student of TAS alumna 2011,&lt;a href="http://teacheratsea.noaa.gov/2011/goldner.html"&gt;Jenny Goldner&lt;/a&gt;, won first place for his artwork at the 2013 Tulsa Indian Art Festival in February. Dakota sold his artwork to a festival attendee. Congratulations Dakota!
+&lt;/p&gt;
+&lt;p&gt;
+    Dakota is the illustrator for the &lt;a href="http://teacheratsea.noaa.gov/books/pdf/DaftariAlphabetBook.pdf"&gt;ABC Shark Coloring Book &lt;/a&gt;that he and his
+    classmates designed as a result of Ms. Goldner’s TAS experience aboard NOAA Ship &lt;em&gt;Oregon II. &lt;/em&gt;NOAA scientists, Trey Driggers and Kristin Hannan
+    worked with Ms. Goldner and her class to edit and publish the coloring book. They later visited Jay Upper Elementary School in Jay, Oklahoma in May of 2012
+    to talk with Ms. Goldner’s class and sign the coloring books.
+&lt;/p&gt;
+&lt;p&gt;
+    NOAA Teacher at Sea is very proud of you Dakota and we hope that you continue your work as an illustrator!
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Dakota_Feather_Wins_First_Place_at_Art_Festival
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">4/24/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Bryan Hirschman (2008) Selected as Planet Steward</title>
+			<description class="ng-binding">&lt;p&gt;
+Congratulations to Bryan Hirschman (2008) for being accepted as a  &lt;a href="http://planetstewards.wordpress.com/"&gt;NOAA Planet Steward! &lt;/a&gt;Twenty-five high school teachers from all over the United States were selected in
+    the fall 2012 and will launch the pilot project this spring with their students.
+    &lt;br/&gt;
+&lt;/p&gt;
+&lt;p&gt;
+Planet Stewards is a project of the National Oceanic and Atmospheric Administration (&lt;a href="http://www.noaa.gov/"&gt;NOAA&lt;/a&gt;) and    &lt;a href="http://3dgamelab.org.shivtr.com/"&gt;3D GameLab&lt;/a&gt; to provide high school students the opportunity to earn up to 15 NOAA-certified career pathway badges. The student’s use 3D GameLab, a quest-based learning platform, to complete quests using NOAA educational materials. 
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Bryan_Hirschman_(2008)_Selected_as_Planet_Steward
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">4/3/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Ellen O'Donnell Presents at New Hampshire Science Teachers Association Conference</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2012/o'donnell.html"&gt;Ellen O’Donnell (TAS, 2012)&lt;/a&gt;
+    presented at the &lt;a href="http://www.nhsta.net/home/conference_info"&gt;New Hampshire Science Teachers Association Conference &lt;/a&gt;on March 10 and 11, 2013.
+    She talked about the Teacher at Sea Program, her experience at sea, and the project &lt;em&gt;Sisters at Sea&lt;/em&gt;. &lt;em&gt;Sisters at Sea &lt;/em&gt;is a middle school
+    collaborative research project that was created by Ms. O’Donnell and her sister Laura Rodriguez (TAS, 2010). Ms. Rodriguez’s students at Hall Memorial
+    School in Willington, Connecticut and Ms. O’Donnell’s students at Deerfield Community School in Deerfield, New Hampshire collaborated on a variety of
+    research projects through the use of a wiki. The students worked together online during Ellen O’Donnell’s research cruise and incorporated the information
+    she was learning from NOAA scientists. Student research topics ranged from the study of cetaceans to plate tectonics and marine pollution. The students
+    chose their topics and then were placed into groups of students from both schools by shared interest. Students were able to message each other through the
+    wiki and “discuss” their projects.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Ellen_O'Donnell_Presents_at_New_Hampshire_Science_Teachers_Association_Conference
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">3/20/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Valerie Bogan (2012) Presents at Hoosier Association of Science Teachers Conference</title>
+			<description class="ng-binding">&lt;p&gt;
+    Valerie Bogan (TAS, 2012) presented at the 42&lt;sup&gt;nd&lt;/sup&gt; Annual Hoosier Association of Science Teachers (HASTI) Conference for Professional Development
+    in Indianapolis, Indiana on February 6-8, 2013. Ms. Bogan presented information about the Teacher at Sea Program and her experience to educators from all
+    grade levels. She also presented hands-on activities that she developed after her TAS experience, specifically a fresh water chemistry lab that allows
+    students who aren’t located on the coast to do the same sort of tests they do on a ship, but on fresh water. Ms. Bogan said, “This type of activity helps
+    to make the NOAA TAS trip real for students who haven’t even seen the ocean.”
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Valerie_Bogan_(2012)_Presents_at_Hoosier_Association_of_Science_Teachers_Conference
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">3/14/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Megan O'Leary (2007) and Stacey Klimkosky (2009) Honored at Grant Award Reception</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2009/klimkosky/index.html"&gt;Stacey Klimkosky&lt;/a&gt;
+    and &lt;a href="http://teacheratsea.noaa.gov/2007/oleary/index.html"&gt;Megan O’Leary&lt;/a&gt;, two New England Teacher at Sea alumni from Truro Central School in
+Truro, Massachusetts, received a mini-grant from the    &lt;a href="http://www.capecodfive.com/home/abt/new/st36"&gt;Cape Cod 5 Cents Savings Bank Charitable Foundation &lt;/a&gt;in order to partner with NOAA oceanographer,
+    Jim Manning, to track the pathways for water particles across the North Atlantic with student-built, fisherman-deployed, satellite-tracked drifters. Ms.
+    Klimkosky and Ms. O’Leary were honored on January 10, 2013 by the Cape Cod Five Charitable Foundation Trust at their 13&lt;sup&gt;th&lt;/sup&gt; annual Mini-Grant
+    reception that recognized local teachers who received awards this year. The foundation received 148 applications in 2012. It awarded grants for 73 projects
+    from 99 teachers in 41 schools at the reception.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Megan_O'Leary_(2007)_and_Stacey_Klimkosky_(2009)_Honored_at_Grant_Award_Reception
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">3/1/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Program Director and Deputy Director Present at Conference in Boston</title>
+			<description class="ng-binding">&lt;p&gt;
+    NOAA&lt;strong&gt; &lt;/strong&gt;Teacher at Sea Program Director, Jennifer Hammond, and Deputy Director, Liz McMahon, presented at the International Teacher and
+    Scientist Partnership (ITSP) conference on February 13-15, 2013 in Boston, MA. They shared information about the program with other research experience
+    programs that pair teachers with scientists. The ITSP conference included a mix of keynote speakers, panel sessions, and workshops. The conference preceded
+    the annual American Association for the Advancement of Science conference.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Program_Director_and_Deputy_Director_Present_at_Conference_in_Boston
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">2/21/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Caroline Singler (TAS 2010) Presents at the American Association for the Advancement of Science</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2010/singler.html"&gt;Caroline Singler &lt;/a&gt;
+    (2010) shared her TAS experience aboard the USCGC &lt;em&gt;Healy &lt;/em&gt;in the Arctic&lt;em&gt; &lt;/em&gt;and hands-on activities that demonstrated how sound waves travel
+through the air, water and solids at the    &lt;a href="http://www.aaas.org/meetings/2013/program/fsd/"&gt;American Association for the Advancement of Science Family Science Days &lt;/a&gt;on Saturday and
+    Sunday, February 16-17, 2013 in Boston, MA.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Caroline_Singler_(TAS_2010)_Presents_at_the_American_Association_for_the_Advancement_of_Science
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">2/21/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Four Teacher at Sea Alumni Present Posters at the International Teacher Scientist Partnership Conference in Boston</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2012/o'donnell.html"&gt;Ellen O'Donnell&lt;/a&gt;
+(2012), &lt;a href="http://teacheratsea.noaa.gov/2010/rodriguez.html"&gt;Laura Rodriguez &lt;/a&gt;(2010),&lt;a href="http://teacheratsea.noaa.gov/2010/singler.html"&gt;Caroline Singler&lt;/a&gt; (2010), and    &lt;a href="http://teacheratsea.noaa.gov/2008/hjelm/index.html"&gt;Lisa Hjelm&lt;/a&gt; (2008) presented posters about their Teacher at Sea experience and their
+    subsequent work at the&lt;a href="http://itspconference.ucsf.edu/"&gt; International Teacher Scientist Partnership&lt;/a&gt; (ITSP) conference in Boston, MA on Friday,
+    February 15, 2013. &lt;a href="http://www.aaas.org/"&gt;The American Association for the Advancement of Science &lt;/a&gt;(AAAS) annual conference also began on
+    February 15 and concluded on Sunday, February 17. AAAS participants were invited to attend the ITSP conference poster session.
+&lt;/p&gt;
+&lt;p&gt;To view the Individual Posters, link below:&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="/alumni/posters/SistersatSeaPosterPresentationFinal.pdf" target="_blank"&gt; Ellen O'Donnell and Laura Rodriguez's Poster&lt;/a&gt;&lt;br/&gt;
+&lt;a href="/alumni/posters/Singler_ITSP_TASPosterFinal.pdf" target="_blank"&gt; Caroline Singler's Poster&lt;/a&gt;&lt;br/&gt;
+&lt;a href="/alumni/posters/ITSP_conferenceLisa Hjelm_sm.pdf" target="_blank"&gt; Lisa Hjelm's Poster&lt;/a&gt;&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Four_Teacher_at_Sea_Alumni_Present_Posters_at_the_International_Teacher_Scientist_Partnership_Conference_in_Boston
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">2/20/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Amanda Peretich Attends NOAA Heritage Week Open House</title>
+			<description class="ng-binding">&lt;p&gt;
+    Amanda Peretich (2012) represented the Teacher at Sea Program at &lt;a href="http://preserveamerica.noaa.gov/hw13.html"&gt;NOAA’s Heritage Week Open House&lt;/a&gt; on
+    Saturday, February 9 at NOAA’s Science Center in Silver Spring. A series of free activities was open to the public, including guest presentations,
+    interactive exhibits, and hands-on activities for ages 5 and up. Ms. Peretich shared her TAS experience with the public and they learned about coral by
+    making a coral polyp model. Children could choose whether to take their coral model with them or they could add it to a coral colony. Sue Zupko (2011) is
+credited with the coral activity that was used at the event. You can read her lesson on her &lt;a href="http://teacheratsea.noaa.gov/2011/zupko.html#lessons"&gt; TAS page.&lt;/a&gt; NOAA’s Heritage Week is an annual event and is part of the    &lt;a href="http://www.preserveamerica.gov/"&gt; Preserve America Initiative.&lt;/a&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Amanda_Peretich_Attends_NOAA_Heritage_Week_Open_House
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">02/13/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Elizabeth Bullock, TAS Program Support Specialist, Begins Career as Teacher</title>
+			<description class="ng-binding">&lt;p&gt;
+    We at the Teacher at Sea Program wish Elizabeth Bullock the best of luck as she begins a new journey in life! She is leaving the TAS Team as the Program
+    Support Specialist, to begin teaching a fifth and sixth grade class. Elizabeth will be missed very much and her new students are lucky to have her.
+&lt;/p&gt;
+&lt;p&gt;
+Elizabeth went to sea on the R/V &lt;em&gt;Walton Smith &lt;/em&gt;in December 2011. You can read her blogs here:    &lt;a href="http://teacheratsea.noaa.gov/2011/bullock.html" target="_blank"&gt;http://teacheratsea.noaa.gov/2011/bullock.html&lt;/a&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Elizabeth_Bullock,_TAS_Program_Support_Specialist,_Begins_Career_as_Teacher
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">02/01/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">U.S. Senator Jeanne Shaheen, D-N.H. Visits Michele Brustolon’s (2010) Classroom</title>
+			<description class="ng-binding">&lt;p&gt;
+    Michele Brustolon and her eighth-grade science students welcomed U.S. Senator Jeanne Shaheen, D – N.H. on Wednesday, January 16. Senator Shaheen heard
+    about Ms. Brustolon’s presentation on December 19, at the Smithsonian National Museum of Natural History at the &lt;em&gt;Scientist Is In: Ask an Expert &lt;/em&gt;
+    event and wanted to see first-hand what Ms. Brustolon was teaching in her classroom. 
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/U.S._Senator_Jeanne_Shaheen,_D-N.H._Visits_Michele_Brustolon’s_(2010)_Classroom
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">1/17/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Three TAS Alumni Present at Smithsonian</title>
+			<description class="ng-binding">&lt;p&gt;
+    Sue Zupko (2011), Kathleen Harrison (2011) and Michele Brustolon (2010) were invited to present at the Smithsonian Institution National Museum of Natural
+    History on Wednesday, December 19, 2012. Each week at the Smithsonian’s Sant Ocean Hall, a scientist or science educator is invited to share their
+    knowledge and experiences with the public during &lt;a href="http://ocean.si.edu/ocean-news/scientist"&gt;“&lt;em&gt;The Scientist Is In: Ask an Expert” &lt;/em&gt;&lt;/a&gt;
+    event.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Three_TAS_Alumni_Present_at_Smithsonian
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">01/09/2013</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Jillian Worssam (TAS 2008) Attends NSTA in Phoenix, AZ</title>
+			<description class="ng-binding">&lt;p&gt;
+Jillian Worssam (TAS 2008) represented the NOAA Teacher at Sea Program at a regional NSTA Conference in Phoenix, AZ on December 6-8, 2012.
+&lt;/p&gt;
+&lt;p&gt;
+    She informed the public about Teacher at Sea and distributed NOAA education materials. Ms. Worssam’s work at the conference, helped to teach science
+    teachers and others NOAA’s mission and service to the public, as well as show their impact on science, technology, engineering, and mathematics education.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Jillian_Worssam_(TAS_2008)_Attends_NSTA_in_Phoenix,_AZ
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">12/12/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Cat Fox (TAS 2011) Featured at Local Gallery</title>
+			<description class="ng-binding">&lt;p&gt;
+    During the summer of 2011, high school biology and chemistry teacher, Cat Fox from Dolores, CO, was aboard NOAA Ship &lt;em&gt;Oscar Dyson &lt;/em&gt;for 18 days
+    during a fisheries research cruise off the coast of Alaska. Ms. Fox blogged in detail during her experience and created sixteen cartoons called “Adventures
+in a Blue World” that are embedded within her blogs    &lt;a href="http://teacheratsea.wordpress.com/category/cathrine-fox/"&gt;http://teacheratsea.wordpress.com/category/cathrine-fox/&lt;/a&gt;. A local gallery, Sideshow
+    Emporium and Gallery, where Ms. Fox lives in Dolores, CO, contacted her and said that they would like to feature her cartoons at their gallery. Ms. Fox
+    agreed and all of her cartoons were enlarged as prints for an exhibition that occurred Saturday, December 1. Denise McKelvey, a NOAA Fisheries Scientist
+    from the Alaska Fisheries Science Center, attended to answer questions about the science content in the cartoons and offer support. She brought specimens
+    from different fish species that the public had the opportunity to view under a microscope. Jenn Annetta, the Alumni Coordinator for the NOAA Teacher at
+    Sea Program, also attended. Approximately 200 people from the community viewed the science cartoon exhibit.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Cat_Fox_(TAS_2011)_Featured_at_Local_Gallery
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">12/3/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Fisheries Service Features Alex Eilers (TAS,2008)</title>
+			<description class="ng-binding">&lt;p&gt;
+Alex Eilers (TAS 2008) is currently featured on    &lt;a href="http://www.nmfs.noaa.gov/stories/2012/11/11_26_12november_teacher_at_sea.html"&gt;NOAA Fisheries website&lt;/a&gt;. She shares her experience as a Teacher
+at Sea, studying leatherback sea turtles while on NOAA Ship &lt;em&gt;David Starr Jordan&lt;/em&gt;. Ms. Eilers is an informal educator at the    &lt;a href="http://www.memphismuseums.org/" target="_blank"&gt;Pink Palace Museum&lt;/a&gt; in Memphis, TN where she created a mini-exhibit that highlights the
+    expedition. The exhibit focuses on leatherbacks, scientists, long-line sword fishing and other animals. She also created a lab and classroom curriculum in
+order to teach students about sea turtles and the ocean. Ms. Eilers continued her research-based professional development experience by participating in    &lt;a href="http://www.polartrec.com/"&gt;PolarTREC&lt;/a&gt; on a team studying Weddell seals in the Ross Sea, January and February of 2012.
+&lt;/p&gt;
+&lt;h4&gt;
+You can read Ms. Eilers blogs by going to:    &lt;a href="http://www.memphismuseums.org/ed-event_program-7462/" target="_blank"&gt;http://www.memphismuseums.org/ed-event_program-7462/&lt;/a&gt;
+&lt;/h4&gt;</description>
+			<link>/indiv_spotlight/NOAA_Fisheries_Service_Features_Alex_Eilers_(TAS,2008)
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/29/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Sue Oltman Attends NSTA in Atlanta, GA</title>
+			<description class="ng-binding">&lt;p&gt;
+Sue Oltman (TAS 2012) represented the NOAA Teacher at Sea Program at a regional NSTA conference in Atlanta, GA on November 1-3, 2012.
+&lt;/p&gt;
+&lt;p&gt;
+    Sue informed the public about Teacher at Sea and distributed NOAA education materials. Her work at the conference, helped to teach science teachers and
+    others NOAA’s mission and service to the public, as well as, show NOAA's impact on science, technology, engineering, and mathematics education. Sue also
+    shared her experience as a NOAA Teacher at Sea during the session, “Oceans of Professional Development” with Albert Einstein Distinguished Fellow, Britta
+    Culbertson.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Sue_Oltman_Attends_NSTA_in_Atlanta,_GA
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/14/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Deborah H. Campbell Attends Illinois Science Education Conference</title>
+			<description class="ng-binding">&lt;p&gt;
+Deborah H. Campbell (TAS, 2012) represented the NOAA Teacher at Sea Program at the    &lt;a href="http://www.ista-il.org/"&gt;Illinois Science Education Conference (ISEC)&lt;/a&gt; on November 1-3. Deborah traveled from Chicago to Springfield, IL to
+    share her experience aboard NOAA Ship &lt;em&gt;Nancy Foster.&lt;/em&gt; Her work at the conference helped to teach science teachers and others NOAA’s mission and
+    service to the public, as well as, show NOAA’s impact on science, technology, engineering and mathematics education.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Deborah_H._Campbell_Attends_Illinois_Science_Education_Conference
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">11/6/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Jason Moeller Attends NSTA Louisville</title>
+			<description class="ng-binding">&lt;p&gt;
+Jason Moeller (TAS 2011) represented the NOAA Teacher at Sea Program at a regional NSTA conference in Louisville, KY on October 18-20, 2012.
+&lt;/p&gt;
+&lt;p&gt;
+    Jason informed the public about Teacher at Sea and distributed NOAA education materials. His work at the conference, helped to teach science teachers and
+    others NOAA’s mission and service to the public, as well as, show NOAA's  impact on science, technology, engineering, and mathematics education.
+&lt;/p&gt;
+&lt;p&gt;
+    Jason also shared information about the TAS program in two NSTA sessions: &lt;em&gt;Data is Not a Four Letter Word&lt;/em&gt; and &lt;em&gt;NOAA in Your Backyard&lt;/em&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Jason_Moeller_Attends_NSTA_Louisville
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/31/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Elizabeth Eubanks (TAS 2007) Travels to Costa Rica and Learn Green Conference All in the Same Week!</title>
+			<description class="ng-binding">&lt;p&gt;
+Elizabeth Eubanks traveled to La Selva Biological Station in Costa Rica from October 11-18, 2012 to continue work that she began in 2008 while part of    &lt;a href="http://www.polartrec.com/expeditions/arctic-tundra-dynamics-08"&gt;PolarTREC&lt;/a&gt; (Teachers and Researchers Exploring and Collaborating). Ms. Eubanks
+    worked with Dr. Steven Oberbauer in order to duplicate some of the same research practices that they experienced in Alaska dealing with Carbon Fluxes.
+&lt;/p&gt;
+&lt;p&gt;
+Ms. Eubanks returned to Florida in time to share her NOAA Teacher at Sea and PolarTREC experiences, at the    &lt;a href="http://www.learngreenconference.com/"&gt;Learn Green Conference&lt;/a&gt; on October 19. Ms. Eubanks leads the Green Team at St. Mark Catholic School and
+    they have been awarded the highest honor given by the Green Schools Recognition Program, which is the Green School of Excellence Award.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Elizabeth_Eubanks_(TAS_2007)_Travels_to_Costa_Rica_and_Learn_Green_Conference_All_in_the_Same_Week!
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/24/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA's Teacher at Sea Program Celebrates the 40th Anniversary of the Marine Mammal Protection Act</title>
+			<description class="ng-binding">&lt;p&gt;
+    This year, the &lt;a href="http://www.nmfs.noaa.gov/pr/laws/mmpa/anniversary/"&gt;Marine Mammal Protection Act &lt;/a&gt;is marking its 40&lt;sup&gt;th&lt;/sup&gt; anniversary.
+    Under the act, NOAA is responsible for responding to stranded and distressed marine mammals, including gray whales.
+&lt;/p&gt;
+&lt;p&gt;
+    Check out this video featuring Rebecca Kimport (TAS 2008) and NOAA Marine Mammal Biologist David Withrow as he speaks about his experience rescuing three
+    young gray whales trapped by sea ice off the coast of Barrow, Alaska.
+&lt;/p&gt;
+&lt;p&gt;
+    &lt;a href="http://vimeo.com/48615967"&gt;http://vimeo.com/48615967&lt;/a&gt;
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA's_Teacher_at_Sea_Program_Celebrates_the_40th_Anniversary_of_the_Marine_Mammal_Protection_Act
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/21/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Caroline Singler (TAS 2010) Receives Local FELS Grant</title>
+			<description class="ng-binding">&lt;p&gt;
+    Caroline Singler (TAS 2010) received a local Massachusetts FELS (Foundation for Educators at Lincoln Sudbury) grant to travel with a colleague to Hawaii for two weeks this summer in
+    order to study geological features of the Big Island. Caroline teaches science at Lincoln Sudbury Regional High School in Leominster, MA. You can read her FELS
+    blog from HI by clicking &lt;a href="http://felsteachersinhawaii2012.wordpress.com/" target="_blank"&gt;here&lt;/a&gt;.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Caroline_Singler_(TAS_2010)_Receives_Local_FELS_Grant
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/12/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Kevin Sullivan (TAS 2011) Awarded Fulbright Classroom Teacher Exchange Grant</title>
+			<description class="ng-binding">&lt;p&gt;
+    Kevin Sullivan (TAS 2011) was awarded a Fulbright Classroom Teacher Exchange Program grant to the United Kingdom. He is currently in Glasgow, Scotland to
+    participate in the one-year teaching exchange program.
+&lt;/p&gt;
+&lt;p&gt;
+    Kevin will be teaching biology at the Williamwood School in Glasgow, Scotland. This secondary school has been ranked the top public school in Scotland.
+    Sullivan’s classes will consist of students between 11-18 years of age, who are considered academically-challenged. Although the curriculum is more
+    regimented than here in the states, Sullivan is excited about the challenges. At Williamwood, the class size is smaller (15 versus his current average of
+    25), and the school day is longer so there is more time to go over material.
+   &lt;/p&gt;</description>
+			<link>/indiv_spotlight/Kevin_Sullivan_(TAS_2011)_Awarded_Fulbright_Classroom_Teacher_Exchange_Grant
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">10/3/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">John Taylor-Lehman (TAS 2011) Spends Time in Trinidad Studying Leatherback Turtles</title>
+			<description class="ng-binding">&lt;p&gt;
+    During the spring of 2012, representatives from the Earthwatch Institute, &lt;a href="http://www.earthwatch.org/" target="_blank"&gt;http://www.earthwatch.org/&lt;/a&gt; contacted
+    John Taylor-Lehman (TAS 2011) and offered him the opportunity to be a facilitator for a student program in Trinidad that works with scientists to study
+    leatherback turtles, &lt;a href="http://www.earthwatch.org/exped/sammy_teen.html" target="_blank"&gt;http://www.earthwatch.org/exped/sammy_teen.html&lt;/a&gt;. John thought that this
+    would be a great opportunity to explore a new culture, learn about a unique species and share his science knowledge with some new students who chose to be
+    in the program.
+&lt;/p</description>
+			<link>/indiv_spotlight/John_Taylor-Lehman_(TAS_2011)_Spends_Time_in_Trinidad_Studying_Leatherback_Turtles
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">9/25/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Jennifer Goldner (TAS 2011) and Kaci Heins (TAS 2011) Attend Honeywell Educators Advanced Space Academy</title>
+			<description class="ng-binding">&lt;p&gt;
+    NOAA Teacher at Sea Alumni, Jennifer Goldner and Kaci Heins, were two of fifteen teachers worldwide who were selected to attend Honeywell Educators
+Advanced Space Academy this summer in Huntsville, Alabama. They both had previously attended Honeywell Educators Space Academy,    &lt;a href="http://educators.honeywell.com/" target="_blank"&gt;http://educators.honeywell.com&lt;/a&gt;. This Space Academy is a professional development program designed to help
+    math and science teachers from around the world become more effective educators in science, technology, engineering, and math. Jennifer and Kaci performed
+    simulated missions, participated in a robotics challenge, completed a ropes course, went scuba diving and visited the Kennedy Space Center. Jennifer
+    stated, “It was the experience of a lifetime and Honeywell sent us home with educational supplies to enable us to share our experiences at the advanced
+    camp with our students.” Kaci said, “It was the opportunity of a lifetime!”
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Jennifer_Goldner_(TAS_2011)_and_Kaci_Heins_(TAS_2011)_Attend_Honeywell_Educators_Advanced_Space_Academy
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">9/10/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Two NOAA Teacher at Sea Alumni Selected To Maury Project</title>
+			<description class="ng-binding">&lt;p&gt;
+    &lt;a href="http://teacheratsea.noaa.gov/2008/risch/index.html"&gt;Tiffany Risch&lt;/a&gt;
+    , (TAS 2008) from Rhode Island and &lt;a href="http://teacheratsea.noaa.gov/2008/worssam/index.html"&gt;Jillian Worssam&lt;/a&gt;, (TAS 2008), from Arizona were
+    selected to participate in the &lt;a href="http://www.ametsoc.org/amsedu/maury/"&gt;Maury Project &lt;/a&gt; from July 9 – July 20, 2012 at the United States Naval
+    Academy in Annapolis, Maryland. This two-week workshop is designed for master precollege teachers and supervisors of science who teach or supervise the
+    teaching of units with significant oceanography content.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Two_NOAA_Teacher_at_Sea_Alumni_Selected_To_Maury_Project
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">7/16/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumna, Rita Larson Presents at NOAA's National Environmental, Satellite, Information, and Data Service (NESDIS)</title>
+			<description class="ng-binding">&lt;p&gt;
+Rita Larson, a 2009 NOAA Teacher at Sea Alumna    &lt;a href="http://teacheratsea.noaa.gov/2009/larson/index.html"&gt;http://teacheratsea.noaa.gov/2009/larson/index.html&lt;/a&gt; is a fifth grade teacher at King
+    Elementary School in Woodbridge, VA. She was aboard NOAA Ship &lt;em&gt;&lt;a href="http://www.moc.noaa.gov/ra/index.html" target="_blank"&gt;Rainier&lt;/a&gt; &lt;/em&gt;for 18
+    days in August while scientists conducted hydrographic surveys to map the seafloor and coastline in Alaskan waters.
+&lt;/p&gt;
+&lt;p&gt;
+    Rita presented her experience at sea on June 22 at NOAA’s National Satellite Observation Center for NOAA’s National Environmental Satellite, Data, and
+    Information Service (NESDIS) &lt;a href="http://www.nesdis.noaa.gov/AboutNESDIS.html"&gt;http://www.nesdis.noaa.gov/AboutNESDIS.html&lt;/a&gt; to a group of young
+    children.
+&lt;/p&gt;
+&lt;p&gt;
+NOAA Fisheries book, &lt;em&gt;A Good Catch&lt;/em&gt;,    &lt;a href="http://www.education.noaa.gov/Marine_Life/A_Good_Catch_NMFS.pdf"&gt;http://www.education.noaa.gov/Marine_Life/A_Good_Catch_NMFS.pdf&lt;/a&gt; was shared
+    and Rita, along with NOAA Teacher at Sea staff members, explained and demonstrated how a Turtle Excluder Device (TED) works. The children also learned
+    about buoys and got to build and test their own buoys!
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumna,_Rita_Larson_Presents_at_NOAA's_National_Environmental,_Satellite,_Information,_and_Data_Service_(NESDIS)
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">07/10/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Scientist Dave Withrow Visits NOAA Teacher at Sea Alumna, Rebecca Kimport's School</title>
+			<description class="ng-binding">&lt;p&gt;
+    A group of sixth and seventh grade students at Capital City Public Charter School in Washington D.C. got a special visit from NOAA marine mammal biologist
+Dave Withrow on February 22, 2012. Rebecca Kimport, a 2010 NOAA Teacher at Sea Alumna    &lt;a href="http://teacheratsea.noaa.gov/2010/kimport/index.html"&gt;http://teacheratsea.noaa.gov/2010/kimport/index.html&lt;/a&gt; welcomed Mr. Withrow to present his
+    experience with “Operation Breakthrough,” a 1988 international effort to rescue three gray whales from being trapped in ice near Point Barrow, Alaska.
+    Students recently completed an Oceanography unit and asked Mr. Withrow excellent questions. The same group of students was also invited to attend a private
+    screening of the movie, &lt;em&gt;Big Miracle&lt;/em&gt;, by the Motion Picture Association of America on March 8.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Scientist_Dave_Withrow_Visits_NOAA_Teacher_at_Sea_Alumna,_Rebecca_Kimport's_School
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">07/05/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Scientists Visit Jennifer Goldner's Classroom and Mayor Declares May 9, 2012 as NOAA Day in Jay, OK</title>
+			<description class="ng-binding">&lt;p&gt;
+    Dr. William B. Driggers and Kristin Hannan, research fisheries biologists with NOAA, visited NOAA Teacher at Sea Alumna, Jennifer Goldner and 150 fifth
+    grade students at Jay Upper Elementary School in Jay, OK on May 9, 2012.
+&lt;/p&gt;
+&lt;p&gt;
+    Jennifer Goldner first met Dr. Driggers and Ms. Hannan while she was on NOAA Ship &lt;em&gt;Oregon II &lt;/em&gt;in August 2011 as a NOAA Teacher at Sea. Both
+    scientists helped Ms. Goldner generate ideas to help her students learn more about ocean life. They helped her fill her journal with facts about sharks
+    along with lessons to implement in the classroom. After a year-long collaboration, Ms. Goldner, her fifth grade students, Dr. Driggers and Ms. Hannan
+    produced a scientifically accurate Shark Alphabet coloring book. While at Jay Upper Elementary, Dr. Driggers and Ms. Hannan shared information about sharks
+    with the students and signed copies of their Shark Alphabet coloring books.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Scientists_Visit_Jennifer_Goldner's_Classroom_and_Mayor_Declares_May_9,_2012_as_NOAA_Day_in_Jay,_OK
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">6/25/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea Alumna, Beth Lancaster, Attends NOAA Ship Commissioning</title>
+			<description class="ng-binding">&lt;p&gt;
+Beth Lancaster, a 2008 NOAA Teacher at Sea Alumna, attended the commissioning of a state-of-the-art coastal mapping vessel, NOAA Ship    &lt;em&gt;Ferdinand R. Hassler&lt;/em&gt;, during a special ceremony at NOAA’s Marine Operations Center-Atlantic in Norfolk, VA on June 8, 2012.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_Alumna,_Beth_Lancaster,_Attends_NOAA_Ship_Commissioning
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">6/19/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">New England Alumni Build Drifters in Woods Hole</title>
+			<description class="ng-binding">&lt;p&gt;A group of New England NOAA Teacher at Sea Alumni had the opportunity to work with a NOAA Northeast Fisheries physical oceanographer, Jim Manning, on May 19, 2012 during a two-day professional development workshop. Alumni learned about shallow ocean currents and how drifter buoys are constructed to track these current patterns. They then were put to work building four of their own drifters.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/New_England_Alumni_Build_Drifters_in_Woods_Hole
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/25/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">New England Alumni Attend Spring Workshop in Woods Hole, Massachusetts</title>
+			<description class="ng-binding">&lt;p&gt;
+    A NOAA Northeast Region Teacher at Sea Alumni Workshop was held on May 19-20, 2012 in Woods Hole, MA at NOAA’s Northeast Fisheries Science Center and Woods
+    Hole Aquarium. Nine Teacher at Sea alumni from the northeast region attended a two-day professional development workshop in order to strengthen
+    oceanographic content knowledge and build an alumni network in their region.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/New_England_Alumni_Attend_Spring_Workshop_in_Woods_Hole,_Massachusetts
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/25/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Turtle Tagged and Named TAS the Turtle (Teacher at Sea Turtle)</title>
+			<description class="ng-binding">&lt;p&gt;
+    During the recent professional development workshop held May 19 and 20, 2012 at the Northeast Fisheries Science Center and the Woods Hole Aquarium, New
+    England Teacher at Sea Alumni learned about sea turtles and NOAA’s Protected Species Branch from Heather Haas, a NOAA research fisheries biologist.
+    Heather’s current work is focused on sea turtle ecology, with a special interest in loggerhead behavior in the mid-Atlantic foraging grounds.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Turtle_Tagged_and_Named_TAS_the_Turtle_(Teacher_at_Sea_Turtle)
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/20/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Lynnette Swiger, NOAA Teacher at Sea Alumna, and Dave Withrow, NOAA Scientist, Communicate Through Webinar</title>
+			<description class="ng-binding">&lt;p&gt;
+    NOAA Teacher at Sea hosted a webinar for 25 third graders at Monongah Elementary School in West Virginia on Monday, April 30, 2012. They had the opportunity to learn and ask
+    questions about gray whales from NOAA Fisheries scientist Dave Withrow in Seattle. The students are part of Teacher at Sea alumni Ms. Lynnette Swiger’s
+    class. Withrow discussed his experiences from “Operation Breakthrough,” the 1988 whale rescue which inspired the movie Big Miracle. &lt;a href="http://1.usa.gov/JOoLoX" target="_blank"&gt;Read more about
+    Withrow’s experience&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;
+&lt;a href="http://teacheratsea.noaa.gov/2008/swiger/index.html"&gt;Lynnette Swiger&lt;/a&gt;, a third grade teacher from West Virginia, was aboard NASA Ship FREEDOM STAR for 9 days in July of 2008 while
+    NOAA scientists conducted deep water coral reef research in the southern North Atlantic off the coast of Florida. Ms. Swiger is also the first NOAA Teacher
+    at Sea from West Virginia.
+&lt;/p&gt;</description>
+			<link>/indiv_spotlight/Lynnette_Swiger,_NOAA_Teacher_at_Sea_Alumna,_and_Dave_Withrow,_NOAA_Scientist,_Communicate_Through_Webinar
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">05/15/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Four NOAA Teacher at Sea Alumni Present at USA Science and Engineering Festival</title>
+			<description class="ng-binding">&lt;p&gt;
+    Four NOAA Teacher at Sea Alumni: Caitlin Fine (TAS, 2011), Rebecca Kimport (TAS, 2010), Elizabeth Martz (TAS, 2007) and Candice Autry (TAS, 2006), shared
+    hands-on science at the NOAA booth during the &lt;a href="http://www.usasciencefestival.org/"&gt;USA Science and Engineering Festival&lt;/a&gt; on April 28-29, 2012.
+    The
+    &lt;br/&gt;
+    festival was held at the Walter E. Convention Center in Washington D.C. It is the country’s only national science festival, and was developed to increase
+    public awareness of the importance of science and to encourage youth to pursue careers in science and engineering by celebrating science.
+&lt;/p&gt;
+&lt;p&gt;</description>
+			<link>/indiv_spotlight/Four_NOAA_Teacher_at_Sea_Alumni_Present_at_USA_Science_and_Engineering_Festival
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">05/05/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">Teacher at Sea Alumni at NSTA in Indianapolis</title>
+			<description class="ng-binding">&lt;p&gt;
+Ten NOAA Teacher at Sea alumni participated in the National Science Teacher Association conference in Indianapolis, IN from March 28 – March 31, 2011.&nbsp;While at the conference, the alumni worked in the National Oceanic and Atmospheric Administration’s booth to inform the public about NOAA’s Teacher at Sea Program and distribute NOAA education
+        materials.&nbsp; The alumni’s work helped to inform science teachers and others NOAA’s mission and service to the public, as well as show our impact on
+        science, technology, engineering, and mathematics education.
+    
+    &lt;/p&gt;</description>
+			<link>/indiv_spotlight/Teacher_at_Sea_Alumni_at_NSTA_in_Indianapolis
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/3/2012</pubdate>
+		</item><<item ng-repeat="item in data" class="ng-scope ng-binding">
+			<title class="ng-binding">NOAA Teacher at Sea New England Alumni Workshop</title>
+			<description class="ng-binding">&lt;p&gt;
+The first NOAA Northeast Region Teacher at Sea Alumni Workshop was held on October 22-23, 2011 in Gloucester, MA at NOAA’s Northeast Regional Office,        &lt;a href="http://www.nero.noaa.gov/"&gt;http://www.nero.noaa.gov/&lt;/a&gt;.&nbsp; Ten Teacher at Sea alumni from the northeast region attended a two-day professional
+        development workshop in order to strengthen oceanographic content knowledge and build an alumni network in their region.&lt;/p&gt;</description>
+			<link>/indiv_spotlight/NOAA_Teacher_at_Sea_New_England_Alumni_Workshop
+			<category><p>Alumni Spotlight</p></category>
+			<guid ispermalink="false">E89BAC1C-E25F-470A-AAE2-01EFF659D1A8-48583-000AB57FD6D1C7D4-FFA</guid><pubdate class="ng-binding">5/1/2012</pubdate>
+		</item><
+	</channel>
+
+
+
+<script type="text/javascript" src="/Scripts/jquery-1.7.2.min.js"></script>
+
+
+<script src="/bower_components/jquery/dist/jquery.min.js"></script>	
+<script src="/bower_components/angular/angular.js"></script>
+<script src="/bower_components/angular-route/angular-route.js"></script>
+<script src="/bower_components/ui-utils/ui-utils.min.js"></script>
+<script src="/bower_components/angular-sanitize/sanitize.js"></script>
+<script src="/bower_components/angular-animate/angular-animate.js"></script>
+<script src="/bower_components/angular-touch/angular-touch.min.js"></script>
+<script src="/bower_components/angulartics-0.17.1/src/angulartics-ga.js"></script>
+<script src="/bower_components/angulartics-0.17.1/src/angulartics.js"></script>
+
+<script src="js/app.js"></script>
+<script src="js/services.js"></script>
+<script src="js/directives.js"></script>	
+<script src="js/controllers.js"></script>
+<script src="js/filters.js"></script>	
+<script>
+var TAS_SITE = angular.module('TAS_SITE', ['ngRoute',   'RSS']);
+TAS_SITE.config(['$routeProvider',
+  function($routeProvider) {
+   $routeProvider.
+  
+          when('/alumni_spot_rss',{
+     	//templateUrl:'partials/rss.xml',
+     	controller:'rssController'
+     	
+     }) . 
+    otherwise({
+      	templateUrl: 'partials/home.html',
+        redirectTo: '/home/'
+        //controller:'partials/home.html'
+     });
+
+
+
+
+
+
+     // use the HTML5 History API
+		
+
+  }]);
+TAS_SITE.factory('CreateRSS', ['$http', '$routeParams', '$location', '$rootScope', '$sce',
+function($http, $routeParams, $location, $rootScope, $sce) {
+
+	return {
+
+		rssCreate : function(url) {
+			var spot = [];
+			return $http.jsonp(url).then(function(result) {
+				if (result.data.rows != null) {
+					var d = new Date();
+					td = d.valueOf();
+				
+					result.data.rows.reverse();
+					for (var i = 0; i < result.data.rows.length; i++) {
+						var pd = new Date(result.data.rows[i][6]);
+						var tpd = pd.valueOf();
+
+						if (result.data.rows[i][6] != '#' && td >= tpd ) {
+							spot.push({
+								id : i,
+								firstname : result.data.rows[i][0],
+								lastname : result.data.rows[i][1],
+								shortbody : result.data.rows[i][2],
+								longbody : result.data.rows[i][3],
+								image : result.data.rows[i][4].split('?')[0],
+								caption : result.data.rows[i][5],
+								date : result.data.rows[i][6],
+								region : result.data.rows[i][7],
+								more_url : result.data.rows[i][5].replace(/ /g, '_'),
+								hash : '/indiv_spotlight/' + result.data.rows[i][0].replace(/ /g, '_') + '_' + result.data.rows[i][1].replace(/ /g, '_'),
+								dataloaded : true,
+								hider : true
+							});
+
+						}
+
+					}
+
+				}
+				return spot;
+			});
+
+		},
+	};
+}]);
+angular.module('RSS', [])
+.controller('rssController', ['$scope','CreateRSS', function($scope, CreateRSS)
+{
+	
+	CreateRSS.rssCreate('https://www.googleapis.com/fusiontables/v1/query?sql=SELECT+FirstName,LastName,ShortBody,LongBody,image,caption,PublishDate,Region+FROM+1z6kUehyfSNqaAGinvARZLYyjb7Dhk2F9rt49xHIV+ORDER%20BY+PublishDate+%22&key=AIzaSyBBcCEirvYGEa2QoGas7w2uaWQweDF2pi0&callback=JSON_CALLBACK').then(function(data){
+		alert('creating')
+		$scope.data=data;
+		console.log(data);
+	});
+		
+	
+		
+	
+		
+}]);
+</script>
+		
+
+</rss>

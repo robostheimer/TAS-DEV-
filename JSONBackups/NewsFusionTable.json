@@ -1,0 +1,1037 @@
+{
+ "kind": "fusiontables#sqlresponse",
+ "columns": [
+  "ArticleYear",
+  "Teacher",
+  "MediaOutlet",
+  "ArticleTitle",
+  "MediaOutletURL",
+  "ArticleURL"
+ ],
+ "rows": [
+  [
+   "2014",
+   "Joan Le",
+   "arlnow.com",
+   "Washington-Lee Teacher Selected for Deep Sea Research Trip",
+   "http://www.arlnow.com/",
+   "https://teacheratsea.files.wordpress.com/2014/08/washington-lee-teacher-selected-for-deep-sea-research-trip-_-arlnow.pdf"
+  ],
+  [
+   "2014",
+   "Kacey Shaffer",
+   "Circleville Herald",
+   "Logan Elm teacher to take",
+   "http://www.circlevilletoday.com/",
+   "https://teacheratsea.files.wordpress.com/2014/07/cvilleherald725a.pdf"
+  ],
+  [
+   "2014",
+   "John Bilotta",
+   "Minnesota Sea Grant",
+   "part in science cruise",
+   "http://www.seagrant.umn.edu/",
+   "https://teacheratsea.files.wordpress.com/2014/07/www-seagrant-umn-edu_newsletter_2014_07_program_updates.pdf"
+  ],
+  [
+   "2014",
+   "Spencer Cody",
+   "South Dakota Public Broadcasting",
+   "NOAA Teacher At Sea Program",
+   "http://listen.sdpb.org/",
+   "https://teacheratsea.files.wordpress.com/2014/07/seg_c_teach_at_sea.mp3"
+  ],
+  [
+   "2014",
+   "Dana Clark",
+   "KERA News",
+   "Dallas Teacher Wins Spot On Alaskan Research Ship",
+   "http://keranews.org/",
+   "http://keranews.org/post/dallas-teacher-wins-spot-alaskan-research-ship?utm_referrer=http%3A//m.keranews.org/%3Futm_referrer%3Dhttp%253A%252F%252Fkeranews.org%252Fpeople%252Fbill-zeeble%23mobile/51522"
+  ],
+  [
+   "2014",
+   "Carol Schnaiter",
+   "The Amboy News",
+   "Schnaiter sailing on Groundfish Survey in Gulf of Mexico",
+   "http://www.amboynews.com/",
+   "https://teacheratsea.files.wordpress.com/2014/06/amboy-news-schnaiter-sailing-on-groundfish-survey-in-gulf-of-mexico.pdf"
+  ],
+  [
+   "2014",
+   "David Murk",
+   "The Courier News",
+   "Hampshire teacher set to exploring the ocean",
+   "http://couriernews.suntimes.com/",
+   "https://teacheratsea.files.wordpress.com/2014/06/hampshire-teacher-set-to-exploring-the-ocean-elgin-courier-news.pdf"
+  ],
+  [
+   "2014",
+   "Kainoa Higgins",
+   "The News Tribune",
+   "Persistence, respect for the sea widen horizon for teacher",
+   "http://www.thenewstribune.com/",
+   "https://teacheratsea.files.wordpress.com/2014/06/newsleaderarticle.pdf"
+  ],
+  [
+   "2014",
+   "Kimberly Gogan",
+   "Live and Local in the Morning",
+   "Live and Local in the Morning",
+   "http://www.wntk.com/index.php",
+   "https://teacheratsea.files.wordpress.com/2014/06/interview-kim-gogan-6-2-14.mp3"
+  ],
+  [
+   "2014",
+   "Angela Greene",
+   "House of Representative Majority Leader John Boehner's blog",
+   "Local Teacher Brings Research Experience Back to the Classroom",
+   "http://boehner.house.gov/blog/",
+   "http://teacheratsea.files.wordpress.com/2014/05/blog-_-john-boehner-8th-district-of-ohio.pdf"
+  ],
+  [
+   "2014",
+   "Mary Patterson",
+   "Cypress Creek Mirror",
+   "Hamilton educator selected for prestigious Albert Einstein fellowship",
+   "http://www.yourhoustonnews.com/cypresscreek/",
+   "http://teacheratsea.files.wordpress.com/2014/04/patterson-article-cypress-creek-mirror.pdf"
+  ],
+  [
+   "2014",
+   "Kimberly Gogan",
+   "Eagle Times",
+   "Local teacher embarking on research cruise",
+   "http://eagletimes.villagesoup.com/",
+   "http://teacheratsea.files.wordpress.com/2014/04/local-teacher-embarking-on-research-cruise-by-archie-mountain-eagle-times.pdf"
+  ],
+  [
+   "2014",
+   "Suzanne Acord",
+   "Lovely County Citizen",
+   "Eureka native, teacher sets sail on Hawaiian science",
+   "http://www.lovelycitizen.com/",
+   "http://teacheratsea.files.wordpress.com/2014/03/lovely-county-citizen_-local-news_-eureka-native-teacher-sets-sail-on-hawaiian-science-03_21_14.pdf"
+  ],
+  [
+   "2013",
+   "Louise Todd",
+   "New Orleans Times-Picayune",
+   "Audubon Aquarium teacher in New Orleans spends 15 days at sea",
+   "http://blog.nola.com",
+   "http://blog.nola.com/new_orleans/2013/11/audubon_aquarium_teacher_spend.html"
+  ],
+  [
+   "2013",
+   "Eric Verlarde",
+   "Guilford County School District",
+   "Science Teacher Sets Sail on Research Journey",
+   "http://www.gcsnc.com/education/school/school.php?sectiondetailid=288175",
+   "http://teacheratsea.files.wordpress.com/2013/11/velarde-guilford-county-schools.pdf"
+  ],
+  [
+   "2013",
+   "Jennifer Petro",
+   "WMBB-TV",
+   "Bay County Teacher Embarks on Scientific Journey",
+   "www.wmbb.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-pisces-all-2.pdf"
+  ],
+  [
+   "2013",
+   "Britta Culbertson",
+   "Queen Anne News",
+   "Teacher goes cross-country and to sea for research",
+   "http://www.queenannenews.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oscar-dyson-all-9.pdf"
+  ],
+  [
+   "2013",
+   "Melissa George",
+   "Education Week",
+   "STEM Learning, Inspiration Sparked as Teachers Take to Sea.",
+   "http://blogs.edweek.org/edweek/curriculum",
+   "http://teacheratsea.files.wordpress.com/2013/12/george_harvey-article.pdf"
+  ],
+  [
+   "2013",
+   "Bill Lindquist",
+   "Hamline University",
+   "Hamline Professor and Alumna Chosen for Teacher at Sea Program",
+   "http://www.hamline.edu",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oregon-ii-all-3.pdf"
+  ],
+  [
+   "2013",
+   "John Clark",
+   "Daytona News Journal",
+   "Sea study draws Deltona teacher",
+   "http://www.news-journalonline.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-bigelow-2.pdf"
+  ],
+  [
+   "2013",
+   "Beverly Owens",
+   "Cleveland County Schools",
+   "CMS science teacher participating in NOAA at sea program",
+   "http://www.clevelandcountyschools.org",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-bigelow-1.pdf"
+  ],
+  [
+   "2013",
+   "Rosalind Echols",
+   "philly.com",
+   "A teacher heads for Alaska to get",
+   "http://philly.com",
+   "http://teacheratsea.files.wordpress.com/2013/09/a-teacher-heads-for-alaska-to-get-real-life-science-lessons-philly-com.pdf"
+  ],
+  [
+   "2013",
+   "Susy Ellison",
+   "http://www.postindependent.com",
+   "Real-Life Science Lessons",
+   "http://www.postindependent.com",
+   "http://teacheratsea.files.wordpress.com/2013/09/another_science_expedition_for_yampahs_ellison-postindependent-com.pdf"
+  ],
+  [
+   "2013",
+   "Katie Sard",
+   "Lincoln County Schools",
+   "LOCAL TEACHERS EXPERIENCE NOAA SEA RESEARCH",
+   "http://www.lincoln.k12.or.us/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-rainier-all-7.pdf"
+  ],
+  [
+   "2013",
+   "Avery Marvin",
+   "The News Guard",
+   "Taft teacher sets sail to survey Gulf of Alaska",
+   "http://www.thenewsguard.com/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-rainier-all-3.pdf"
+  ],
+  [
+   "2013",
+   "Julia Harvey",
+   "KEZI 9 News",
+   "Local Teacher Sets Sail with NOAA",
+   "http://www.kezi.com/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oscar-dyson-all-5.pdf"
+  ],
+  [
+   "2013",
+   "Bill Lindquist",
+   "Hamline University",
+   "Hamline Professor and Alumna Chosen for Teacher at Sea Program",
+   "http://www.hamline.edu",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oregon-ii-all-3.pdf"
+  ],
+  [
+   "2013",
+   "Paul Ritter",
+   "Pantagraph.com",
+   "Pontiac science teacher to study Atlantic Ocean reef fish",
+   "http://www.pantagraph.com/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-pisces-all-5.pdf"
+  ],
+  [
+   "2013",
+   "Robert Ulmer",
+   "Action News Jax",
+   "NOAA Program Sends Lake Butler Teacher to Alaska",
+   "http://www.actionnewsjax.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-rainier-all-2.pdf"
+  ],
+  [
+   "2013",
+   "Elizabeth Nyman",
+   "KATC",
+   "Lafayette teacher sets sail on Florida reef fish survey",
+   "http://www.katc.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-pisces-all-1.pdf"
+  ],
+  [
+   "2013",
+   "Frank Hubacz",
+   "Keen Sentinel",
+   "Franklin Pierce University professor becomes 'Teacher at Sea' in Alaska",
+   "http://www.sentinelsource.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oscar-dyson-all-3.pdf"
+  ],
+  [
+   "2013",
+   "Marla Crouch",
+   "Gazette.net",
+   "LWC Member Sets Sail on\nAlaska Pollock Survey",
+   "http://www.lakewashnlus.org/Home/index.php",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oscar-dyson-all-2.pdf"
+  ],
+  [
+   "2013",
+   "Elizabeth Bullock",
+   "Gazette.net",
+   "Green Acres School boat races",
+   "http://www.gazette.net/",
+   "http://clicked.gazette.net/mycapture/folder.asp?event=1664230&CategoryID=59006&ListSubAlbums=0"
+  ],
+  [
+   "2013",
+   "Angela Greene",
+   "NOAA Northeast Fisheries Newsroom",
+   "NOAA Teachers at Sea Experience a Different Kind of Classroom",
+   "http://www.nefsc.noaa.gov/news/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-gordon-gunter-all-2.pdf"
+  ],
+  [
+   "2013",
+   "Patty McGinnis",
+   "Lower Providence Patch",
+   "Methacton Teacher Ships Off in NOAA Research Project",
+   "http://lowerprovidence.patch.com/",
+   "http://teacheratsea.files.wordpress.com/2013/11/mcginnis-lower-providence-patch.pdf"
+  ],
+  [
+   "2013",
+   "Melanie Lyte",
+   "The Troy Record",
+   "Bell Top Elementary School teacher taking part in NOAA Teachers at Sea program",
+   "http://troyrecord.com/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-gordon-gunter-all-4.pdf"
+  ],
+  [
+   "2013",
+   "Emilisa Saunders",
+   "Las Vegas sun",
+   "Las Vegas Teacher Sets Sail on Spring Plankton Survey in the Gulf of Mexico",
+   "http://www.lasvegassun.com/community/press-releases/2466/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-oregon-ii-1.pdf"
+  ],
+  [
+   "2013",
+   "Rita Salisbury",
+   "DelawareNewsZap.com",
+   "Seaford biology teacher to assist in Hawaiian bottomfish survey",
+   "http://delaware.newszap.com/",
+   "http://teacheratsea.files.wordpress.com/2013/10/pages-from-sette-all.pdf"
+  ],
+  [
+   "2013",
+   "Alicia Gillean",
+   "South County Leader",
+   "Arctic Trek to Help Jenks Teacher Inspire Students",
+   "http://www.southcountyleader.com/",
+   "http://teacheratsea.files.wordpress.com/2013/03/gillean-jan-2013-newspaper-article.pdf"
+  ],
+  [
+   "2013",
+   "Stacey Klimkosky",
+   "CapeCodOnline.com",
+   "Truro school project aids scientists",
+   "http://teacheratsea.files.wordpress.com/2013/10/klimkosky-cape-cod-online.pdf",
+   "http://www.capecodonline.com"
+  ],
+  [
+   "2013",
+   "Michele Brustolon",
+   "Salem Observer",
+   "Salem teacher tells tales of the sea",
+   "http://www.newhampshire.com/section/newhampshire1411",
+   "http://teacheratsea.files.wordpress.com/2013/10/brustolon-salem-observer-1-10-13.pdf"
+  ],
+  [
+   "2012",
+   "Sue Zupko",
+   "http://www.al.com/",
+   "Huntsville teacher to speak at Smithsonian Museum of Natural History",
+   "http://al.com",
+   "http://teacheratsea.files.wordpress.com/2013/10/zupko-al-com.pdf"
+  ],
+  [
+   "2012",
+   "Steven Wilkie",
+   "Science News for Kids",
+   "How teachers cultivate young scientists",
+   "http://www.sciencenewsforkids.org",
+   "http://www.sciencenewsforkids.org/2012/10/how-teachers-cultivate-young-scientists/"
+  ],
+  [
+   "2012",
+   "Marsha Skoczek",
+   "Olathe Public Schools",
+   "Skoczek Gains Knowledge on the Open Sea",
+   "http://www.olatheschools.com/",
+   "http://www.olatheschools.com/using-joomla/extensions/components/content-component/article-category-list/1233-teacher-at-sea"
+  ],
+  [
+   "2012",
+   "Carmen Andrews",
+   "The Bridgeport News",
+   "Bridgeport teacher returns from studying reef fish in the Gulf of Mexico",
+   "http://www.acorn-online.com/joomla15/thebridgeportnews/news.html",
+   "http://www.acorn-online.com/joomla15/thebridgeportnews/news/localnews/128364--bridgeport-teacher-returns-from-studying-reef-fish-in-the-gulf-of-mexico.html"
+  ],
+  [
+   "2012",
+   "Alicia Gillean",
+   "South County Leader",
+   "Jenks Teacher Goes on an Aquatic Adventure",
+   "http://www.southcountyleader.com/",
+   "http://teacheratsea.files.wordpress.com/2012/08/gillean-tas-article-802012.pdf"
+  ],
+  [
+   "2012",
+   "Lesley Urasky",
+   "Casper Star Tribune",
+   "Rawlins teacher at sea brings hands-on science to classroom",
+   "http://trib.com/",
+   "http://trib.com/news/state-and-regional/rawlins-teacher-at-sea-brings-hands-on-science-to-classroom/article_59feae10-e1ae-53af-a073-037c8df0803e.html?comment_form=true"
+  ],
+  [
+   "2012",
+   "Stacey Jambura",
+   "Waterloo/Cedar Falls Courier",
+   "Lowell teacher studies groundfish on NOAA Gulf of Mexico cruise",
+   "http://wcfcourier.com",
+   "http://wcfcourier.com/news/opinion/blogs/extra_credit/lowell-teacher-studies-groundfish-on-noaa-gulf-of-mexico-cruise/article_4f266014-db4d-11e1-a184-001a4bcf887a.html"
+  ],
+  [
+   "2012",
+   "Susan Kaiser",
+   "The Fish Site",
+   "NOAA Research Expedition to Map Fish Spawning Habitats",
+   "http://www.thefishsite.com",
+   "http://www.thefishsite.com/fishnews/17782/noaa-research-expedition-to-map-fish-spawning-habitats"
+  ],
+  [
+   "2012",
+   "Scott Davenport",
+   "The Delta Discovery",
+   "Tununak teacher studies rockfish in Pacific Ocean",
+   "http://www.deltadiscovery.com/",
+   "http://www.deltadiscovery.com/story/2012/06/20/summer-living/tununak-teacher-studies-rockfish-in-pacific-ocean/266.html"
+  ],
+  [
+   "2012",
+   "Sue Oltman",
+   "Atlanta Journal Constitution",
+   "Best in class for July 6",
+   "http://www.ajc.com",
+   "http://www.ajc.com/news/best-in-class-for-1471700.html"
+  ],
+  [
+   "2012",
+   "Ellen O'Donnell",
+   "Union Leader",
+   "Deerfield science teacher to follow right whales offshore",
+   "http://www.unionleader.com/",
+   "http://www.unionleader.com/article/20120514/NEWS04/705149918"
+  ],
+  [
+   "2012",
+   "Caitlin Fine",
+   "Science 20",
+   "Teaching Climate In The Classroom",
+   "http://www.science20.com/",
+   "http://www.science20.com/science_20/teaching_climate_classroom-89640"
+  ],
+  [
+   "2012",
+   "Jennifer Fry",
+   "The Ventura County Star",
+   "Lessons learned in Teacher at Sea program are shared with students",
+   "http://www.vcstar.com/",
+   "http://www.vcstar.com/news/2012/apr/27/lessons-learned-in-teacher-at-sea-program-are/"
+  ],
+  [
+   "2012",
+   "Maria Madrigal",
+   "The Beach Reporter",
+   "Marine Teacher Goes to Sea",
+   "http://www.tbrnews.com/",
+   "http://teacheratsea.files.wordpress.com/2011/08/maria-madrigal-press.pdf"
+  ],
+  [
+   "2012",
+   "Wes Struble",
+   "Moscow Pullman Daily News",
+   "Teacher Sails High Seas for Science",
+   "http://dnews.com/",
+   "http://teacheratsea.files.wordpress.com/2011/08/wes-struble-press.pdf"
+  ],
+  [
+   "2012",
+   "Jennifer Goldner",
+   "newson6.com",
+   "Jay Students Publish Their Own Coloring Book",
+   "http://www.newson6.com/",
+   "http://www.newson6.com/story/18246262/jay-students-publish-their-own-coloring-book"
+  ],
+  [
+   "2011",
+   "Jesse Soder",
+   "Capitol City Weekly",
+   "Gustavus teacher studies clams with NOAA",
+   "http://www.capitalcityweekly.com/",
+   "http://www.capitalcityweekly.com/stories/102611/new_905319715.shtml"
+  ],
+  [
+   "2011",
+   "Staci Deschryver",
+   "ourcoloradornews.com",
+   "Centennial teacher assists NOAA scientists",
+   "http://www.ourcoloradonews.com/",
+   "http://www.ourcoloradonews.com/centennial/newsreleases/centennial-teacher-assists-noaa-scientists/article_1e60e654-ea0b-11e0-b183-001cc4c03286.html"
+  ],
+  [
+   "2011",
+   "Kaci Heins",
+   "fondriest.com",
+   "Teachers a vessel for oceanic science through NOAA program",
+   "http://www.fondriest.com/",
+   "http://www.fondriest.com/news/teachers-vessel-oceanic-science-through-noaa-program.htm"
+  ],
+  [
+   "2011",
+   "Tammy Orilio",
+   "Sun Sentinel",
+   "Creek teacher set sail for research in the Gulf of Alaska",
+   "http://www.sun-sentinel.com/",
+   "http://articles.sun-sentinel.com/2011-08-24/news/fl-mcf-orilio-0818-20110824_1_creek-teacher-research-trip-research-ship"
+  ],
+  [
+   "2011",
+   "Jennifer Goldner",
+   "newson6.com",
+   "Jay Teacher Skypes from Teacher at Sea Journey",
+   "http://www.newson6.com/",
+   "http://www.newson6.com/category/121535/video-page?clipId=6189300&flvUri=&partnerclipid=&topVideoCatNo=0&c=&autoStart=true&activePane=info&LaunchPageAdTag=homepage&clipFormat=flv"
+  ],
+  [
+   "2011",
+   "Steve Allen",
+   "Palm Beach Post",
+   "Palm Beach Maritime teacher honored for his classroom style",
+   "http://www.palmbeachpost.com/community-post/",
+   "http://www.palmbeachpost.com/news/palm-beach-maritime-teacher-honored-for-his-classroom-1958631.html"
+  ],
+  [
+   "2011",
+   "Nathan Pierantoni",
+   "Farmington Daily Times",
+   "Heights Middle School Teacher Ships Out with NOAA",
+   "http://www.daily-times.com/",
+   "http://teacheratsea.files.wordpress.com/2011/08/farmington-daily-times-pierantoni.pdf"
+  ],
+  [
+   "2011",
+   "Karen Rasmussen",
+   "KBKW",
+   "Ocean Shores teacher returns from seafloor survey",
+   "http://www.kbkw.com",
+   "http://kbkw.com/modules/news/article.php?storyid=2865"
+  ],
+  [
+   "2011",
+   "Anne Mortimer",
+   "Skagit Valley Herald",
+   "MV science teacher spends 19 days aboard NOAA Ship surveying fish",
+   "http://www.goskagit.com/",
+   "http://teacheratsea.files.wordpress.com/2011/08/mortimer_article.pdf"
+  ],
+  [
+   "2011",
+   "Jason Moeller",
+   "knoxnews.com",
+   "Alaska fishing expedition buoys zoo educator",
+   "http://www.knoxnews.com/",
+   "http://www.knoxnews.com/news/2011/jul/05/sea-expedition-buoys-teacher/"
+  ],
+  [
+   "2011",
+   "Walter Charuba",
+   "Grosse Point News",
+   "Teacher at sea sets sail",
+   "http://www.grossepointenews.com/1homebody.lasso",
+   "http://www.grossepointenews.com/Articles-i-2011-07-28-244823.114135-Teacher-at-sea-sets-sail.html"
+  ],
+  [
+   "2011",
+   "Heather Haberman",
+   "Discovery Education",
+   "Congratulations to the 2011 Siemens Fellows",
+   "http://www.discoveryeducation.com/",
+   "http://stem.discoveryeducation.com/index.cfm?event=showContent&id=57"
+  ],
+  [
+   "2011",
+   "Sue Zupko",
+   "al.com",
+   "Weatherly teacher spends two weeks at sea aboard the NOAA ship Pisces",
+   "http://al.com/",
+   "http://blog.al.com/breaking/2011/08/weatherly_teacher_spends_two_w.html"
+  ],
+  [
+   "2014",
+   "Suzanne Acord",
+   "PIFSC Blog",
+   "Cetacean Forage Survey Underway off the Kona Coast of the Island of Hawaiʻi",
+   "http://pifscblog.wordpress.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/acord-03-23-14-pifsc.pdf"
+  ],
+  [
+   "2014",
+   "Amy Orchard",
+   "Miami Herald",
+   "Exploring the underwater world of the Florida Keys",
+   "http://www2.wptv.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/orchard-10-03-14-miami-herald.pdf"
+  ],
+  [
+   "2014",
+   "Amy Orchard",
+   "Miami Herald",
+   "Scientists perform fish surgeries, use ROV to study Florida Keys’ underwater world",
+   "http://www.miamiherald.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/orchard-10-12-14-miami-herald.pdf"
+  ],
+  [
+   "2014",
+   "Carol Glor",
+   "Eagle Observer",
+   "From school to sea: WGMS teacher participates in program",
+   "http://www.eagle-observer.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/glor-07-3-14-eagle-observer.pdf"
+  ],
+  [
+   "2014",
+   "Carol Schnaiter",
+   "Illinois Educators Association",
+   "Amboy teacher returns from Gulf of Mexico",
+   "http://www.ieanea.org/",
+   "https://teacheratsea.files.wordpress.com/2015/02/schnaiter-07-23-14-iea.pdf"
+  ],
+  [
+   "2014",
+   "Carol Schnaiter",
+   "Lakeside Views: IL-IN Sea Grant",
+   "Illinois teacher shakes up science class with help from IISG and NOAA",
+   "http://lakesideviews.blogspot.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/schnaiter-08-12-14-il-in-sg-v3.pdf"
+  ],
+  [
+   "2014",
+   "Cassie Kautzer",
+   "NWA Online",
+   "Monitor Elementary School Students Learn From Springdale Teacher's Trip At Sea",
+   "http://www.nwaonline.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/kautzer-09-25-14-nwa-online.pdf"
+  ],
+  [
+   "2014",
+   "Crystal Davis",
+   "HCTV22: City of Hawthorne",
+   "City News (August 22, 2014 Edition)",
+   "https://www.youtube.com/watch?v=g8Ssnp4Fd-8&list=UUKIxlqA4RjU88CIRra04dSA",
+   "https://teacheratsea.files.wordpress.com/2015/02/davis-08-22-14-hawthorne-city-news.pdf"
+  ],
+  [
+   "2014",
+   "Jacquelyn Hams",
+   "Environmental Monitor",
+   "Global climate and Los Angeles community college students influenced by Indian Ocean weather cycle",
+   "http://www.fondriest.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/hams-03-28-14-environmental-monitor.pdf"
+  ],
+  [
+   "2014",
+   "Janelle Harrier-Wilson",
+   "AJC.com",
+   "Best in Class September 19",
+   "http://www.ajc.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/wilson-09-19-14-ajc.pdf"
+  ],
+  [
+   "2014",
+   "Joan Le",
+   "NEFSC",
+   "Hanging Coral Gardens in Gulf of Maine Add to Excitement of Summer Full of Deep-Sea Coral Discoveries",
+   "http://www.nefsc.noaa.gov/",
+   "https://teacheratsea.files.wordpress.com/2015/02/le-9-2-14-nefsc-v1.pdf"
+  ],
+  [
+   "2014",
+   "John Bilotta",
+   "University of Minnesota Minnegram",
+   "Teacher at Sea sonar mapping voyage sends environmental educator John Bilotta to the bottom of the ocean and into experiential learning",
+   "http://wrc.umn.edu/pubs/minnegramonline",
+   "https://teacheratsea.files.wordpress.com/2015/02/bilotta-fall-2014-minnegram.pdf"
+  ],
+  [
+   "2014",
+   "Julia Harvey",
+   "Eugene Weekly",
+   "Happening People: Julia Harvey",
+   "http://www.eugeneweekly.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/harvey-03-13-14-eugene-weekly.pdf"
+  ],
+  [
+   "2014",
+   "Kainoa Higgins",
+   "The News Tribune",
+   "Persistence, respect for the sea widen horizon for teacher",
+   "http://www.thenewstribune.com/",
+   ""
+  ],
+  [
+   "2014",
+   "Kevin McMahon",
+   "AJC.com",
+   "Best in Class July 18",
+   "http://www.ajc.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/mcmahon-07-17-14-ajc.pdf"
+  ],
+  [
+   "2014",
+   "Kevin McMahon",
+   "The Champion Newspaper (Dekalb)",
+   "Local teacher sets sail for science research",
+   "http://thechampionnewspaper.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/mcmahon-07-21-14-champion.pdf"
+  ],
+  [
+   "2014",
+   "Kevin McMahon",
+   "Decaturish.com",
+   "On a boat – Renfroe teacher’s summer at sea",
+   "http://www.decaturish.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/mcmahon-06-05-14-decaturish.pdf"
+  ],
+  [
+   "2014",
+   "Laura Guertin",
+   "Penn State News",
+   "Penn State Brandywine professor joins NOAA crew for research mission at sea",
+   "http://news.psu.edu/",
+   "https://teacheratsea.files.wordpress.com/2015/02/guertin-10-09-12-penn-state-university.pdf"
+  ],
+  [
+   "2014",
+   "Mary Murrian",
+   "Dover Post",
+   "William Henry Middle teacher headed to Alaska for Teacher at Sea program",
+   "http://www.doverpost.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/murrian-07-01-14-dover-post.pdf"
+  ],
+  [
+   "2014",
+   "Rita Salisbury",
+   "Sussex Tech",
+   "ST Biology Teacher is Invited Host at NOAA Heritage Week Open House",
+   "http://www.sussexvt.k12.de.us/",
+   "https://teacheratsea.files.wordpress.com/2015/02/salisbury-02-21-14-sussex-tech.pdf"
+  ],
+  [
+   "2014",
+   "Spencer Cody",
+   "Aberdeen News",
+   "Hoven teacher sets sail on research vessel",
+   "http://www.aberdeennews.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/cody-05-22-14-aberdeen-news.pdf"
+  ],
+  [
+   "2014",
+   "Spencer Cody",
+   "SD DOE Online Zebra",
+   "Teacher Feature",
+   "http://doe.sd.gov/pressroom/zebra/",
+   "https://teacheratsea.files.wordpress.com/2015/02/cody-08-27-2014-online-zebra.pdf"
+  ],
+  [
+   "2014",
+   "Suzanne Acord",
+   "Mid-Pacific High School News",
+   "MPI Teacher Sets Sail on Hawaii Ecosystem Survey",
+   "http://www.midpac.edu/",
+   "https://teacheratsea.files.wordpress.com/2015/02/acord-03-11-14-mpi-news.pdf"
+  ],
+  [
+   "2014",
+   "Tammy Orilio and Elizabeth Eubanks",
+   "Wild Things: Slate's Animal Blog",
+   "Sawfish Are Some of the World’s Weirdest and Most Endangered Fish",
+   "http://www.slate.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/orilio_eubanks_slate.pdf"
+  ],
+  [
+   "2014",
+   "Carol Schnaiter",
+   "The Amboy News",
+   "Schnaiter sailing on Groundfish Survey in Gulf of Mexico",
+   "http://www.amboynews.com",
+   "https://teacheratsea.files.wordpress.com/2015/02/schnaiter-06-03-14-amboy-news.pdf"
+  ],
+  [
+   "2014",
+   "Dana Clark",
+   "The Dallas Morning News",
+   "Dallas ISD science teacher helps map ocean floor on NOAA expedition ",
+   "http://www.dallasnews.com/",
+   "https://teacheratsea.files.wordpress.com/2015/02/clark-06-27-14-dallas-morning-news-w-photo.pdf"
+  ],
+  [
+   "2015",
+   "Jennifer Goldner",
+   "Washington Post",
+   "Shark scientists share passion for the fish with a scary reputation",
+   "http://www.washingtonpost.com",
+   "https://teacheratsea.files.wordpress.com/2015/02/shark-scientists-share-passion-for-the-fish-with-a-scary-reputation-the-washington-post.pdf"
+  ],
+  [
+   "2015",
+   "Theresa Paulsen",
+   "WJFW NewsWatch",
+   "Teacher returns from 18-day oceanic research trip hoping to give students perspective, opportunities",
+   "http://www.wjfw.com/",
+   "https://teacheratsea.files.wordpress.com/2015/04/paulsennews.pdf"
+  ],
+  [
+   "2015",
+   "Theresa Paulsen",
+   "Up North Explorer",
+   "Ashland teacher returns from three-week research excursion",
+   "http://www.apg-wi.com/",
+   "https://teacheratsea.files.wordpress.com/2015/04/paulsenarticle.pdf"
+  ],
+  [
+   "2015",
+   "Sue Zupko",
+   "Huntsville City Schools",
+   "Up Close: Teacher at Sea",
+   "https://www.youtube.com/channel/UCqGtTO-GfDyPN3_ctO6IeuA",
+   "https://www.youtube.com/watch?v=RjQiBvDXaeU"
+  ],
+  [
+   "2015",
+   "Tom Savage",
+   "BlueRidgeNow.com",
+   "Early College High teacher to set sail Saturday",
+   "http://www.blueridgenow.com/",
+   "https://teacheratsea.files.wordpress.com/2015/06/savage_article.pdf"
+  ],
+  [
+   "1990-2002",
+   "Randall Baumgartner",
+   "LaGrange News",
+   "Lakeland teacher selected marine research participant",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/baumgartner-article-lagrange-news-7-2-93.pdf"
+  ],
+  [
+   "1990-2002",
+   "Randall Baumgartner",
+   "LaGrange News",
+   "Lakeland Teacher Back on Dry Land",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/baumgartner-article-lagrange-news-7-23-93.pdf"
+  ],
+  [
+   "1990-2002",
+   "Susan Seyfried",
+   "The News Herald",
+   "Real waterworld: Teacher spends summer at sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/seyfried-article-9-20-95.pdf"
+  ],
+  [
+   "1990-2002",
+   "Joel Blutfield",
+   "Arizona Daily Star",
+   "Time at sea aids teacher in exciting his pupils",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/blutfield-article-arizona-daily-star-1-1996.pdf"
+  ],
+  [
+   "2004",
+   "John Fink",
+   "NOAA Magazine Online",
+   "NOAA Debuts \"Teacher in the Air\" Pilot Program",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/tia-fink-vanravenswaay-04-05-04.pdf"
+  ],
+  [
+   "1990-2002",
+   "Randall Baumgartner",
+   "Ft Wayne Journal-Gazette",
+   "Landlocked teacher gets sea legs",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/baumgartner-article-ft-wayne-journal-gazette-7-28-93.pdf"
+  ],
+  [
+   "1990-2002",
+   "Jeffrey Kobman",
+   "The Free Lance Star",
+   "How he spent his summer vacation",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/kobman-article-9-8-94.pdf"
+  ],
+  [
+   "1990-2002",
+   "Paul Blake",
+   "Peninsula Daily News, North Olympic Peninsula",
+   "PA teacher studies sea life",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/blake-article-peninsula-daily-news-7-25-95.pdf"
+  ],
+  [
+   "1990-2002",
+   "Joel Blutfield",
+   "Arizona Daily Star",
+   "Time at sea aids teacher in exciting his pupils (Part II)",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/blutfield-article-arizona-daily-star-2-1996.pdf"
+  ],
+  [
+   "1990-2002",
+   "Betty Moellenberg",
+   "McArthur Women at Sea",
+   "McArthur Women at Sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/moellenberg-1996-mcarthur-women-at-sea.pdf"
+  ],
+  [
+   "2004",
+   "Connie Denk",
+   "ENC Online",
+   "Out to Sea with Scientists",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/fink-article-fairbanks-daily-news-miner-2-28-04.pdf"
+  ],
+  [
+   "1990-2002",
+   "Candace Brenner",
+   "Faculty Forum (newsletter)",
+   "Waterworld II: or The Adventures of a Curator at Sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/brenner-faculty-forum-fall-1995.pdf"
+  ],
+  [
+   "1990-2002",
+   "Nancy Krause",
+   "Today's Sunbeam",
+   "Teacher to unlock secrets of the sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/krause-article-6-24-96.pdf"
+  ],
+  [
+   "1990-2002",
+   "Debra Merrill",
+   "Teacher at Sea",
+   "A Fish Called Pollock",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/merrill-article-1999.pdf"
+  ],
+  [
+   "1990-2002",
+   "Kathy Carleton",
+   "Christian County Headliner News",
+   "Heading Out to Sea: Nixa biology teacher Kathy Carleton will return to school with first-hand knowledge",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/carleton-article-5-25-96.pdf"
+  ],
+  [
+   "1990-2002",
+   "Kerry Anne Johnson",
+   "Los Angeles Times",
+   "In-Depth Learning: Teacher Embarks on Voyage of Discovery Aboard Ship Tending Weather Buoys",
+   "http://www.latimes.com",
+   "https://teacheratsea.files.wordpress.com/2015/07/johnson-article-la-times-1997.pdf"
+  ],
+  [
+   "1990-2002",
+   "Ronald Ferenczi",
+   "The Observer & Eccentric Newspaper",
+   "Teacher heads to sea for summer learning",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/ferenczi-article-observer-_-eccentric-9-10-00.pdf"
+  ],
+  [
+   "2004",
+   "John Fink",
+   "Fairbanks Daily News-Miner",
+   "Flight provides teacher with front-row seat for weather research",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/fink-article-fairbanks-daily-news-miner-2-28-04.pdf"
+  ],
+  [
+   "1990-2002",
+   "Christine Kirch",
+   "Kent County Daily Times",
+   "Teacher's love of the ocean nets students enthusiasm",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/kirch-article-2000.pdf"
+  ],
+  [
+   "1990-2002",
+   "Brenda Burns",
+   "News & Standard",
+   "Local gets Hands-On Research Experience Aboard NOAA Ship",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/burns-article-news-_-standard-7-10-02.pdf"
+  ],
+  [
+   "1990-2002",
+   "Brenda Burns",
+   "News & Standard",
+   "Local Teacher Update",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/burns-article-news-_-standard-7-3-02.pdf"
+  ],
+  [
+   "1990-2002",
+   "Ronald Ferenczi",
+   "The Observer & Eccentric Newspaper",
+   "Teacher tells how he spent his summer vacation at sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/ferenczi-article-observer-_-eccentric-9-8-02.pdf"
+  ],
+  [
+   "2004",
+   "Mike Laird",
+   "Arizona Daily Sun",
+   "Teacher to 'chill out' in Gulf of Alaska",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/laird-article-arizona-daily-sun-2004.pdf"
+  ],
+  [
+   "1990-2002",
+   "Karl Beighley",
+   "Science Scope",
+   "Teacher At Sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/beighly-article-science-scope-march-1998.pdf"
+  ],
+  [
+   "1990-2002",
+   "Kerry Anne Johnson",
+   "Science Scope",
+   "El Nino and Teacher at Sea",
+   "#",
+   "https://teacheratsea.files.wordpress.com/2015/07/johnson-article-science-scope-april-1998.pdf"
+  ],
+  [
+   "2015",
+   "Nicolle von der Heyde",
+   "UMSL Daily",
+   "We Teach MO fast-tracks science, math majors into teacher certification",
+   "http://blogs.umsl.edu/",
+   "http://blogs.umsl.edu/news/2015/09/03/we-teach/"
+  ],
+  [
+   "2015",
+   "Jeffrey Miller",
+   "West Valley View",
+   "Avondale teacher researches sharks at sea aboard the NOAA Oregon II",
+   "http://www.westvalleyview.com/",
+   "http://www.westvalleyview.com/articles/2015/10/09/all-aboard"
+  ]
+ ]
+}
